@@ -28,6 +28,7 @@
         available at all). If available, the referenced navigation can then
         be resolved at rendering time.</p>
     </section>
+    <section conkeyref="content-models-navref/navref.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p id="universal-outputclass">The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and the attribute

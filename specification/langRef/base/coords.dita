@@ -71,6 +71,7 @@
             <p>The <xmlelement>coords</xmlelement> element is specialized from
                     <xmlelement>ph</xmlelement>. It is defined in the utilities-domain module.</p>
         </section>
+        <section conkeyref="content-models-coords/coords.element" id="content-model"/>
         <section id="attributes">
             <title>Attributes</title>
             <div conkeyref="reuse-attributes/univ-outputclass-keyref-translate-NO"/>

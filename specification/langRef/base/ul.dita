@@ -14,6 +14,7 @@
       <title>Rendering expectation</title>
       <p>List items are typically indicated by bullets or dashes.</p>
     </section>
+    <section conkeyref="content-models-ul/ul.element" id="content-model"/>
     <section conkeyref="reuse-ul/attributes" id="attributes">list items are
       indicated by numbers or alphabetical characters.</section>
     <example id="example" otherprops="examples">

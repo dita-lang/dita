@@ -25,6 +25,7 @@
         attribute, the first window specification in document order with that <xmlatt>name</xmlatt>
         attribute is used.</p>
     </section>
+    <section conkeyref="content-models-ux-window/ux-window.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-idandconrefatts"/>, <ph conkeyref="reuse-attributes/ref-metadataatts"/>, <xref keyref="attributes-universal/attr-class"><xmlatt>class</xmlatt></xref>, and the

@@ -57,6 +57,7 @@
           them.</li>
       </ul>
     </section>
+    <section conkeyref="content-models-foreign/foreign.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>

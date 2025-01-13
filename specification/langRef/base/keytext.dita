@@ -19,6 +19,7 @@
             <p>See <xref href="../../archSpec/base/processing-keyref-for-text.dita" format="dita"
                 />.</p>
         </section>
+        <section conkeyref="content-models-keytext/keytext.element" id="content-model"/>
         <section conkeyref="reuse-keytext/attributes" id="attributes"/>
         <example id="example" otherprops="examples">
             <title>Examples</title>

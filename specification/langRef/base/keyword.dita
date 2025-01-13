@@ -20,6 +20,7 @@
          <p>Elements that are specialized from the <xmlelement>keyword</xmlelement> element might
             have extended processing, such as specific formatting or automatic indexing. </p>
       </section>
+      <section conkeyref="content-models-keyword/keyword.element" id="content-model"/>
       <section id="attributes">
          <title>Attributes</title>
 <p conkeyref="reuse-attributes/universal-keyref"/>

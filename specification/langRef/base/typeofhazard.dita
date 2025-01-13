@@ -15,6 +15,7 @@ a description of the type of hazard, for example, "Hot surfaces inside."</shortd
       <p>The <xmlelement>typeofhazard</xmlelement> element is specialized from
           <xmlelement>div</xmlelement>. It is defined in the hazard-statement domain module.</p>
     </section>
+    <section conkeyref="content-models-typeofhazard/typeofhazard.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>

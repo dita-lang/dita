@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-val" href="ditaval.dita#content-models"/>
+   <keydef keys="content-models-style-conflict" href="ditaval.dita#content-models"/>
+   <keydef keys="content-models-prop" href="ditaval.dita#content-models"/>
+   <keydef keys="content-models-startflag" href="ditaval.dita#content-models"/>
+   <keydef keys="content-models-endflag" href="ditaval.dita#content-models"/>
+   <keydef keys="content-models-alt-text" href="ditaval.dita#content-models"/>
+   <keydef keys="content-models-revprop" href="ditaval.dita#content-models"/>
+</map>

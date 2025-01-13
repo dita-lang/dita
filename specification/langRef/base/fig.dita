@@ -10,6 +10,7 @@
 </metadata></prolog>
 <refbody>
     <section conkeyref="reuse-fig/usage-information"><title/><p/></section>
+    <section conkeyref="content-models-fig/fig.element" id="content-model"/>
     <section conkeyref="reuse-fig/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <p>The following code sample shows how a <xmlelement>fig</xmlelement>

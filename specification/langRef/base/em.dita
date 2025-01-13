@@ -15,6 +15,7 @@
     <section conkeyref="reuse-em/rendering-expectations"
       ><title/><p/></section>
     <section conkeyref="reuse-em/specialization-hierarchy"/>
+        <section conkeyref="content-models-em/em.element" id="content-model"/>
         <section conkeyref="reuse-em/attributes" id="attributes"/>
         <example id="example" otherprops="examples">
       <title>Example</title>

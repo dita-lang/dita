@@ -22,6 +22,7 @@
       id="rendering-expectations"><title/><p/></section>
     <section conkeyref="reuse-shortdesc/processing-expectations"
       id="processing-expectations"><title/><p/></section>
+    <section conkeyref="content-models-shortdesc/shortdesc.element" id="content-model"/>
     <section conkeyref="reuse-shortdesc/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Examples</title>

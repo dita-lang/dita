@@ -7,6 +7,7 @@
       programs.</shortdesc>
   </abstract><prolog><metadata><keywords>
         <indexterm>elements<indexterm>prolog<indexterm><xmlelement>series</xmlelement></indexterm></indexterm></indexterm><indexterm>prolog elements<indexterm><xmlelement>series</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody>
+    <section conkeyref="content-models-series/series.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
             <p conkeyref="reuse-attributes/only-universal"/>

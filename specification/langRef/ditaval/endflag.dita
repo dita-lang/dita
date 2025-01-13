@@ -35,6 +35,7 @@
           flagged content.</li>
       </ul>
     </section>
+    <section conkeyref="content-models-endflag/endflag.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attribute is available on this element:</p>

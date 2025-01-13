@@ -28,6 +28,7 @@
       <p>The <xmlelement>subjectHead</xmlelement> element is specialized from
           <xmlelement>topicref</xmlelement>. It is defined in the subject scheme module.</p>
     </section>
+    <section conkeyref="content-models-subjectHead/subjectHead.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

@@ -3,6 +3,7 @@
 <reference id="prognum" xml:lang="en-us"><title><xmlelement>prognum</xmlelement></title><shortdesc>A program number is an order number or a product tracking
     code.</shortdesc><prolog><metadata><keywords>
         <indexterm>elements<indexterm>prolog<indexterm><xmlelement>prognum</xmlelement></indexterm></indexterm></indexterm><indexterm>prolog elements<indexterm><xmlelement>prognum</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody>
+    <section conkeyref="content-models-prognum/prognum.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>

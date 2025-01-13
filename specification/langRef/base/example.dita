@@ -10,6 +10,7 @@
 <refbody>
   <section conkeyref="reuse-example/usage-information" id="usage-information"/>
   <section conkeyref="reuse-example/rendering-expectations" id="rendering-expectations"/>
+    <section conkeyref="content-models-example/example.element" id="content-model"/>
     <section conkeyref="reuse-example/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <p>The following code sample shows an <xmlelement>example</xmlelement> element that contains a

@@ -36,6 +36,7 @@
           <xmlelement>div</xmlelement>. It is defined in the utilities
         domain module.</p>
 		</section>
+		<section conkeyref="content-models-imagemap/imagemap.element" id="content-model"/>
 		<section id="attributes">
 			<title>Attributes</title>
 			<p conkeyref="reuse-attributes/fig-attributes"/>

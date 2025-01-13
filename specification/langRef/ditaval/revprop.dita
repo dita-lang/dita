@@ -42,6 +42,7 @@
       <div conkeyref="reuse-general/processing-outputclass"/>
       <!--<p>[Details about processing expectations that should go elsewhere] If two or more DITAVAL properties apply <xmlatt>outputclass</xmlatt> flags to the same element, treat the flagged element as if each value was specified on that element's <xmlatt>outputclass</xmlatt> attribute; in that case, the order of those DITAVAL-based tokens is undefined. If the flagged element already specifies <xmlatt>outputclass</xmlatt>, treat the flagged element as if all DITAVAL-based <xmlatt>outputclass</xmlatt> values come first in the attribute.</p>-->
     </section>
+    <section conkeyref="content-models-revprop/revprop.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element:</p>

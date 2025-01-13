@@ -21,6 +21,7 @@
           >SHOULD</term> provide a mechanism that causes the content of the
           <xmlelement>draft-comment</xmlelement> element to be rendered in draft output only. </p>
     </section>
+    <section conkeyref="content-models-draft-comment/draft-comment.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and the attributes defined below.</p>

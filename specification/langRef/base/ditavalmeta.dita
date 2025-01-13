@@ -29,6 +29,7 @@
           <xmlelement>topicmeta</xmlelement>. It is defined in the DITAVAL-reference domain
         module.</p>
     </section>
+    <section conkeyref="content-models-ditavalmeta/ditavalmeta.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> (except for <xmlatt>conkeyref</xmlatt>, which is removed for all elements in this

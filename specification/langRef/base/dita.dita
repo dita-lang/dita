@@ -15,6 +15,7 @@
         Topic nesting rules can be configured in the document-type
         shell.</p>
     </section>
+    <section conkeyref="content-models-dita/dita.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <xref

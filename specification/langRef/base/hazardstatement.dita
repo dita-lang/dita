@@ -20,6 +20,7 @@
         specialized from <xmlelement>note</xmlelement>. It is defined in
         the hazard-statement domain module.</p>
     </section>
+    <section conkeyref="content-models-hazardstatement/hazardstatement.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <div>

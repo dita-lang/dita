@@ -47,6 +47,7 @@
           <xmlelement>topicref</xmlelement>. It is defined in the <ph
           rev="review-b">mapgroup-domain module</ph>. </p>
     </section>
+    <section conkeyref="content-models-topichead/topichead.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

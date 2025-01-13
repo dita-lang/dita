@@ -23,6 +23,7 @@
       <p>The <xmlelement>keydef</xmlelement> element is specialized from
           <xmlelement>topicref</xmlelement>. It is defined in the mapgroup-domain module.</p>
     </section>
+<section conkeyref="content-models-keydef/keydef.element" id="content-model"/>
 <section conkeyref="reuse-keydef/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

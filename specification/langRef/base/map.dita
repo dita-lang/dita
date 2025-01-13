@@ -18,6 +18,7 @@
       <p rev="review-b">See <xref
           href="../../archSpec/base/dita-map-processing.dita"/>.</p>
     </section>
+    <section conkeyref="content-models-map/map.element" id="content-model"/>
     <section conkeyref="reuse-map/attributes" id="attributes">x</section>
 <example id="example" otherprops="examples"><title>Example</title><p>The following code sample contains four
           <xmlelement>topicref</xmlelement> elements. The

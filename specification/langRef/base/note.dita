@@ -12,6 +12,7 @@
       id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-note/rendering-expectations"
       ><title/><p/></section>
+        <section conkeyref="content-models-note/note.element" id="content-model"/>
         <section conkeyref="reuse-note/attributes" id="attributes"/>
 <example id="example" otherprops="examples">
 <title>Example</title>

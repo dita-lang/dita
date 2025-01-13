@@ -23,6 +23,7 @@
       <section id="specialization-hierarchy">
          <title>Specialization hierarchy</title>
       </section>
+      <section conkeyref="content-models-element-reference-template/element-reference-template.element" id="content-model"/>
       <section id="attributes">
          <title>Attributes</title>
       </section>

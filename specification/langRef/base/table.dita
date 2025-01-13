@@ -41,6 +41,7 @@
           <xmlelement>desc</xmlelement> element is rendered as part of the
         content flow.</p>
     </section>
+    <section conkeyref="content-models-table/table.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

@@ -15,6 +15,7 @@
     <section conkeyref="reuse-audio/usage-information" id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-audio/rendering-expectations" id="rendering-expectations"
       ><title/><p/></section>
+    <section conkeyref="content-models-audio/audio.element" id="content-model"/>
     <section conkeyref="reuse-audio/attributes" id="attributes"/>
     <example otherprops="examples" id="example">
       <title>Examples</title>

@@ -48,6 +48,7 @@
         from <xmlelement>keyword</xmlelement>. It is defined in the
         utilities domain module.</p>
         </section>
+        <section conkeyref="content-models-shape/shape.element" id="content-model"/>
         <section id="attributes">
             <title>Attributes</title>
             <div

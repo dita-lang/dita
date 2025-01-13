@@ -16,6 +16,7 @@
 <refbody>
     <section conkeyref="reuse-image/rendering-expectations" id="rendering-expectations"
       ><title/><p/></section>
+    <section conkeyref="content-models-image/image.element" id="content-model"/>
     <section conkeyref="reuse-image/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <p>The following code sample shows how an image is referenced.  The <xmlatt>placement</xmlatt>

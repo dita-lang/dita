@@ -22,6 +22,7 @@
          <p>Processors add appropriate styling, such as locale-specific quotation marks, around the
             contents of the <xmlelement>q</xmlelement> element and render it inline.</p>
       </section>
+      <section conkeyref="content-models-q/q.element" id="content-model"/>
       <section id="attributes">
          <title>Attributes</title>
          <p conkeyref="reuse-attributes/only-universal"/>

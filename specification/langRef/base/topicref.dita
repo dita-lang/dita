@@ -11,6 +11,7 @@
   </metadata>
  </prolog>
 <refbody>
+  <section conkeyref="content-models-topicref/topicref.element" id="content-model"/>
   <section conkeyref="reuse-topicref/attributes" id="attributes"/>
   <example id="example" otherprops="examples">
    <title>Example</title>

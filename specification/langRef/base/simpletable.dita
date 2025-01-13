@@ -13,6 +13,7 @@
       id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-simpletable/rendering-expectations"
       ><title/><p/></section>
+  <section conkeyref="content-models-simpletable/simpletable.element" id="content-model"/>
   <section conkeyref="reuse-simpletable/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Examples</title>
       <p>This section contains examples of how the

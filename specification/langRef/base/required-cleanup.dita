@@ -36,6 +36,7 @@
       <p>Processor options might be provided to allow a draft view of migrated content in
         context.</p>
     </section>
+    <section conkeyref="content-models-required-cleanup/required-cleanup.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

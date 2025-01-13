@@ -16,6 +16,7 @@
     <section conkeyref="reuse-fn/usage-information" id="usage-information"/>
     <section conkeyref="reuse-fn/rendering-expectations" id="rendering-expectations"
       ><title/></section>
+    <section conkeyref="content-models-fn/fn.element" id="content-model"/>
     <section conkeyref="reuse-fn/attributes" id="attributes"/>
 <example id="example" otherprops="examples">
       <title>Examples</title>

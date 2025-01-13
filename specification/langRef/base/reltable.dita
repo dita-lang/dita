@@ -63,6 +63,7 @@
       <p>Within a root map, the effective relationship table is the union
         of all relationship tables in the map hierarchy.</p>
     </section>
+    <section conkeyref="content-models-reltable/reltable.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

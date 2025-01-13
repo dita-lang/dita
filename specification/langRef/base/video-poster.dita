@@ -15,6 +15,7 @@
   <refbody>
     <section conkeyref="reuse-video-poster/usage-information" id="usage-information"
       ><title/><p/></section>
+    <section conkeyref="content-models-video-poster/video-poster.element" id="content-model"/>
     <section conkeyref="reuse-video-poster/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

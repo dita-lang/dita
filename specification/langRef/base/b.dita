@@ -13,6 +13,7 @@
       ><title/><p/></section>
     <section conkeyref="reuse-b/specialization-hierarchy"
       id="specialization-hierarchy"/>
+  <section conkeyref="content-models-b/b.element" id="content-model"/>
   <section conkeyref="reuse-b/attributes" id="attributes"/>
 <example id="example" otherprops="examples">
 <title>Example</title>

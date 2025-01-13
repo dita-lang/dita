@@ -20,6 +20,7 @@
           rev="review-c">. It can</ph> also contain multiple
         cross-references, footnotes, and keywords.</p>
     </section>
+    <section conkeyref="content-models-figgroup/figgroup.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
     <p conkeyref="reuse-attributes/only-universal"/>

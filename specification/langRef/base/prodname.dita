@@ -7,6 +7,7 @@
       enterprise chooses to give a product.</shortdesc>
   </abstract><prolog><metadata><keywords>
         <indexterm>elements<indexterm>prolog<indexterm><xmlelement>prodname</xmlelement></indexterm></indexterm></indexterm><indexterm>prolog elements<indexterm><xmlelement>prodname</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody>
+    <section conkeyref="content-models-prodname/prodname.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
             <p conkeyref="reuse-attributes/only-universal"/>

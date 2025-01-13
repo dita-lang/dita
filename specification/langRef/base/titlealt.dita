@@ -120,6 +120,7 @@
           <keyword outputclass="RFC-2119">SHOULD</keyword> be ignored and
         not appear in output.</p>
         </section>
+        <section conkeyref="content-models-titlealt/titlealt.element" id="content-model"/>
         <section id="attributes">
             <title>Attributes</title>
             <p>The following attributes are available on this element: <ph

@@ -14,6 +14,7 @@
   </prolog>
   <refbody>
     <section conkeyref="reuse-div/usage-information" id="usage-information"><title/><p/></section>
+    <section conkeyref="content-models-div/div.element" id="content-model"/>
     <section conkeyref="reuse-div/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

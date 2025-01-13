@@ -17,6 +17,7 @@
       <p>The <xmlelement>schemeref</xmlelement> element is specialized from
           <xmlelement>topicref</xmlelement>. It is defined in the subject scheme module.</p>
     </section>
+    <section conkeyref="content-models-schemeref/schemeref.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <div id="standard-topicref-attributes">

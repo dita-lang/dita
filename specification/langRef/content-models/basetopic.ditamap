@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-data" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-foreign" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-title" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-titlealt" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-desc" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-shortdesc" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-p" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-note" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-lq" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-q" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-sl" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-sli" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-ul" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-ol" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-li" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-dl" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-dlhead" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-dthd" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-ddhd" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-dlentry" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-dt" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-dd" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-example" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-fig" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-figgroup" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-pre" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-lines" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-div" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-text" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-keyword" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-term" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-ph" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-tm" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-image" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-alt" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-longdescref" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-object" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-param" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-simpletable" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-sthead" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-strow" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-stentry" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-draft-comment"
+            href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-required-cleanup"
+            href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-fn" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-indexterm" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-index-see" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-index-see-also"
+            href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-cite" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-xref" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-table" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-tgroup" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-colspec" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-thead" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-tbody" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-row" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-entry" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-fallback" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-include" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-audio" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-video" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-media-source" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-media-track" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-video-poster" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-author" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-source" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-publisher" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-copyright" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-copyryear" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-copyrholder" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-critdates" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-created" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-revised" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-permissions" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-category" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-metadata" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-audience" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-keywords" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-prodinfo" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-prodname" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-vrmlist" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-vrm" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-brand" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-series" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-platform" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-prognum" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-featnum" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-component" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-othermeta" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-resourceid" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-topic" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-abstract" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-body" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-bodydiv" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-no-topic-nesting"
+            href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-section" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-prolog" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-related-links"
+            href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-link" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-linklist" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-linkinfo" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-linkpool" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-linktext" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-navtitle" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-searchtitle" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-linktitle" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-subtitle" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-titlehint" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-strong" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-em" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-hazardstatement"
+            href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-hazardsymbol" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-messagepanel" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-typeofhazard" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-consequence" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-howtoavoid" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-b" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-u" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-i" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-line-through" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-overline" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-tt" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-sup" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-sub" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-imagemap" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-area" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-shape" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-coords" href="basetopic.dita#content-models"/>
+   <keydef keys="content-models-sort-as" href="basetopic.dita#content-models"/>
+</map>

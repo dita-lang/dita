@@ -16,6 +16,7 @@
     <metadata/></prolog>
 <refbody>
     <!--<section id="usage-information"><title>Usage information</title><p>The <xmlelement>author</xmlelement> element is equivalent to the <xmlelement>Creator</xmlelement> element in Dublin Core.</p></section>-->
+    <section conkeyref="content-models-author/author.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <div conkeyref="reuse-attributes/author-attributes"/>

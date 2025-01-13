@@ -4,6 +4,7 @@
 <title><xmlelement>topic</xmlelement></title>
  <shortdesc conkeyref="reuse-topic/shortdesc"/>
 <refbody>
+  <section conkeyref="content-models-topic/topic.element" id="content-model"/>
   <section conkeyref="reuse-topic/attributes" id="attributes"/>
 <example id="example" otherprops="examples">       <title>Example</title>
    <p>The following code sample shows the primary structural components of

@@ -11,6 +11,7 @@
           material (not yet developed) about accessibility.</p>
       </draft-comment>
     </section>
+    <section conkeyref="content-models-sthead/sthead.element" id="content-model"/>
     <section conkeyref="reuse-sthead/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

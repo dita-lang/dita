@@ -19,6 +19,7 @@
         specify the copyright holder and the copyright year.</p>
       <!--<p>The <xmlelement>copyright</xmlelement> element is equivalent to the <xmlelement>Rights</xmlelement> element in Dublin Core.</p>-->
   </section>
+  <section conkeyref="content-models-copyright/copyright.element" id="content-model"/>
   <section id="attributes">
    <title>Attributes</title>
    <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and the attribute defined below.</p>

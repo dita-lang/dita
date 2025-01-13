@@ -16,6 +16,7 @@
       id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-video/rendering-expectations"
       id="rendering-expectations"><title/><p/></section>
+    <section conkeyref="content-models-video/video.element" id="content-model"/>
     <section conkeyref="reuse-video/attributes" id="attributes"/>
     <example otherprops="examples" id="example">
       <title>Examples</title>

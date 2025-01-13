@@ -14,6 +14,7 @@
 </keywords>
 </metadata></prolog>
 <refbody>
+    <section conkeyref="content-models-dthd/dthd.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
     <p conkeyref="reuse-attributes/only-universal"/>

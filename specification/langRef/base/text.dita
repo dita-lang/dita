@@ -15,6 +15,7 @@
         reuse. The <xmlelement>text</xmlelement> element can contain only
         text or nested <xmlelement>text</xmlelement> elements.</p>
       </section>
+      <section conkeyref="content-models-text/text.element" id="content-model"/>
       <section id="attributes">
          <title>Attributes</title>
          <p conkeyref="reuse-attributes/only-universal"/>

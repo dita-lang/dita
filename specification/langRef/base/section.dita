@@ -20,6 +20,7 @@
       ><title/><p/></section>
     <section conkeyref="reuse-section/rendering-expectations" id="rendering-expectations"
       ><title/><p/></section>
+    <section conkeyref="content-models-section/section.element" id="content-model"/>
     <section conkeyref="reuse-section/attributes" id="attributes"/>
     <example id="example" otherprops="examples"><title>Example</title>
       <p>The following code sample shows how element-reference topics in the DITA specification use

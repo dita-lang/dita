@@ -43,6 +43,7 @@
               <xmlelement>param</xmlelement> element.</li>
         </ol></p>
     </section>
+    <section conkeyref="content-models-param/param.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

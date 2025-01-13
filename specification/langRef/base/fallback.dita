@@ -13,6 +13,7 @@
   <refbody>
     <section conkeyref="reuse-fallback/processing-expectations"
       id="processing-expectations"><title/><p/></section>
+    <section conkeyref="content-models-fallback/fallback.element" id="content-model"/>
     <section conkeyref="reuse-fallback/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

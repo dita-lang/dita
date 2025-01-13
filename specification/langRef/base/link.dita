@@ -22,6 +22,7 @@
         relation to the current topic.</p>
       <!--<p>Links placed in a <xmlelement>linkpool</xmlelement> might be rearranged or removed for display purposes (combined with other local or map-based links); links in a <xmlelement>linklist</xmlelement> should be displayed in the order in which they are defined. </p>-->
     </section>
+    <section conkeyref="content-models-link/link.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

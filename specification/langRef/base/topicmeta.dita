@@ -19,6 +19,7 @@
   <refbody>
     <section conkeyref="reuse-topicmeta/usage-information" id="usage-information"
       ><title/><p/></section>
+    <section conkeyref="content-models-topicmeta/topicmeta.element" id="content-model"/>
     <section conkeyref="reuse-topicmeta/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

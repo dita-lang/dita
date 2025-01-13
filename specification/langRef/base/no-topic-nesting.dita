@@ -21,6 +21,7 @@
                     created using RELAX NG, which uses the native RNG <codeph>&lt;empty></codeph>
                     element to accomplish the same thing.</ph></p>
         </section>
+    <section conkeyref="content-models-no-topic-nesting/no-topic-nesting.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attribute is available on this element: <xref

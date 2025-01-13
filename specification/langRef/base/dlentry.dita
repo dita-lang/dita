@@ -10,6 +10,7 @@
         <indexterm>lists<indexterm>definition<indexterm>entries</indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
+    <section conkeyref="content-models-dlentry/dlentry.element" id="content-model"/>
     <section conkeyref="reuse-dlentry/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <p rev="review-c">See <xref keyref="elements-dl/example"

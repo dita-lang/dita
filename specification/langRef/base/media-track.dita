@@ -14,6 +14,7 @@
   <refbody>
     <section conkeyref="reuse-media-track/usage-information" id="usage-information"
       ><title/><p/></section>
+    <section conkeyref="content-models-media-track/media-track.element" id="content-model"/>
     <section conkeyref="reuse-media-track/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>

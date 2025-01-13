@@ -17,6 +17,7 @@
     <section conkeyref="reuse-desc/usage-information" id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-desc/rendering-expectations" id="rendering-expectations"
       ><title/><p/></section>
+    <section conkeyref="content-models-desc/desc.element" id="content-model"/>
     <section conkeyref="reuse-desc/attributes" id="attributes"/>
 <example id="example" otherprops="examples">
       <title>Examples</title>

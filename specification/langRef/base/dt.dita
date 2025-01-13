@@ -13,6 +13,7 @@
     </metadata>
   </prolog>
 <refbody>
+    <section conkeyref="content-models-dt/dt.element" id="content-model"/>
     <section id="attributes" conkeyref="reuse-dt/attributes"/>
 <example id="example" otherprops="examples">
 <title>Example</title>

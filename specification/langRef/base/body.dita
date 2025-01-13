@@ -4,6 +4,7 @@
 <title><xmlelement>body</xmlelement></title>
   <shortdesc conkeyref="reuse-body/shortdesc"/>
 <refbody>
+    <section conkeyref="content-models-body/body.element" id="content-model"/>
     <section conkeyref="reuse-body/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       

@@ -27,6 +27,7 @@
         attribute-based reference to another resource. It is up to the
         implementation to determine the processing for this situation.</p>
     </section>
+    <section conkeyref="content-models-source/source.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

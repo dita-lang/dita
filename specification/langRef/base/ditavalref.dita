@@ -120,6 +120,7 @@
           <xmlelement>topicref</xmlelement>. It is defined in the DITAVAL-reference domain
         module.</p>
     </section>
+    <section conkeyref="content-models-ditavalref/ditavalref.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

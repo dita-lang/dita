@@ -17,6 +17,7 @@
       <p>The <xmlelement>subjectHeadMeta</xmlelement> element is specialized from
           <xmlelement>topicmeta</xmlelement>. It is defined in the subject scheme module.</p>
     </section>
+  <section conkeyref="content-models-subjectHeadMeta/subjectHeadMeta.element" id="content-model"/>
   <section id="attributes">
    <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>

@@ -24,6 +24,7 @@
     <section
       conref="../../common/conref-file.dita#reuse_file/processing-expectations-link-cascade"
       ><title/><p/></section>
+    <section conkeyref="content-models-linklist/linklist.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph

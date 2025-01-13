@@ -66,6 +66,7 @@
         for these error conditions.</p>
       <div conkeyref="reuse-general/processing-outputclass"/>
     </section>
+    <section conkeyref="content-models-prop/prop.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element:</p>

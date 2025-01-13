@@ -30,6 +30,7 @@ a result of not avoiding a hazard, or any combination of these messages.</shortd
       <p>The <xmlelement>hazardsymbol</xmlelement> element is specialized from
           <xmlelement>image</xmlelement>. It is defined in the hazard-statement domain module.</p>
     </section>
+    <section conkeyref="content-models-hazardsymbol/hazardsymbol.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <!--Note that this is an exact copy of the attribute list for image, EXCEPT that this element dropped the deprecated alt and makes @href required, which makes it harder to reuse that full list. It is an exact copy of glossSymbol.-->

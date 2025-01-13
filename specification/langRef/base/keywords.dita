@@ -41,6 +41,7 @@
         the topic or map metadata. How the content of these elements is
         processed depends on the output medium.</p>
     </section>
+    <section conkeyref="content-models-keywords/keywords.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>

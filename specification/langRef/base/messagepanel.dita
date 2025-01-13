@@ -18,6 +18,7 @@
       <p>The <xmlelement>messagepanel</xmlelement> element is specialized from
           <xmlelement>div</xmlelement>. It is defined in the hazard-statement domain module.</p>
     </section>
+    <section conkeyref="content-models-messagepanel/messagepanel.element" id="content-model"/>
     <section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/universal-compact"/>

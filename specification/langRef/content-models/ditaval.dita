@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="content-models">
+   <title>Generated content models</title>
+   <body>
+      <section id="val.element">
+         <title>Content model</title>
+         <p outputclass="content-model">
+            <xref keyref="elements-style-conflict">
+               <xmlelement>style-conflict</xmlelement>
+            </xref>?, (<xref keyref="elements-prop">
+               <xmlelement>prop</xmlelement>
+            </xref> | <xref keyref="elements-revprop">
+               <xmlelement>revprop</xmlelement>
+            </xref>)*</p>
+         <p outputclass="content-model-prose">In order<ol>
+               <li>Optional <xref keyref="elements-style-conflict">
+                     <xmlelement>style-conflict</xmlelement>
+                  </xref>
+               </li>
+               <li>Zero or more <ul>
+                     <li>
+                        <xref keyref="elements-prop">
+                           <xmlelement>prop</xmlelement>
+                        </xref>
+                     </li>
+                     <li>
+                        <xref keyref="elements-revprop">
+                           <xmlelement>revprop</xmlelement>
+                        </xref>
+                     </li>
+                  </ul>
+               </li>
+            </ol>
+         </p>
+      </section>
+      <section id="style-conflict.element">
+         <title>Content model</title>
+         <p outputclass="content-model">EMPTY</p>
+         <p outputclass="content-model-prose">Empty</p>
+      </section>
+      <section id="prop.element">
+         <title>Content model</title>
+         <p outputclass="content-model">
+            <xref keyref="elements-startflag">
+               <xmlelement>startflag</xmlelement>
+            </xref>?, <xref keyref="elements-endflag">
+               <xmlelement>endflag</xmlelement>
+            </xref>?</p>
+         <p outputclass="content-model-prose">In order<ol>
+               <li>Optional <xref keyref="elements-startflag">
+                     <xmlelement>startflag</xmlelement>
+                  </xref>
+               </li>
+               <li>Optional <xref keyref="elements-endflag">
+                     <xmlelement>endflag</xmlelement>
+                  </xref>
+               </li>
+            </ol>
+         </p>
+      </section>
+      <section id="startflag.element">
+         <title>Content model</title>
+         <p outputclass="content-model">
+            <xref keyref="elements-alt-text">
+               <xmlelement>alt-text</xmlelement>
+            </xref>?</p>
+         <p outputclass="content-model-prose">Optional <xref keyref="elements-alt-text">
+               <xmlelement>alt-text</xmlelement>
+            </xref>
+         </p>
+      </section>
+      <section id="endflag.element">
+         <title>Content model</title>
+         <p outputclass="content-model">
+            <xref keyref="elements-alt-text">
+               <xmlelement>alt-text</xmlelement>
+            </xref>?</p>
+         <p outputclass="content-model-prose">Optional <xref keyref="elements-alt-text">
+               <xmlelement>alt-text</xmlelement>
+            </xref>
+         </p>
+      </section>
+      <section id="alt-text.element">
+         <title>Content model</title>
+         <p outputclass="content-model">Text</p>
+         <p outputclass="content-model-prose">Text</p>
+      </section>
+      <section id="revprop.element">
+         <title>Content model</title>
+         <p outputclass="content-model">
+            <xref keyref="elements-startflag">
+               <xmlelement>startflag</xmlelement>
+            </xref>?, <xref keyref="elements-endflag">
+               <xmlelement>endflag</xmlelement>
+            </xref>?</p>
+         <p outputclass="content-model-prose">In order<ol>
+               <li>Optional <xref keyref="elements-startflag">
+                     <xmlelement>startflag</xmlelement>
+                  </xref>
+               </li>
+               <li>Optional <xref keyref="elements-endflag">
+                     <xmlelement>endflag</xmlelement>
+                  </xref>
+               </li>
+            </ol>
+         </p>
+      </section>
+   </body>
+</topic>

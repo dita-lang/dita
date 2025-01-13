@@ -10,6 +10,7 @@
                     <indexterm>links<indexterm>cross-references</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
+          <section conkeyref="content-models-xref/xref.element" id="content-model"/>
           <section conkeyref="reuse-xref/attributes" id="attributes"/>
 <example id="example" otherprops="examples">
                <title>Examples</title>

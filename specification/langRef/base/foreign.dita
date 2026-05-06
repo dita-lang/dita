@@ -4,7 +4,6 @@
 <title><xmlelement>foreign</xmlelement></title>
   <shortdesc>Foreign content is non-DITA content, such as MathML, SVG, or Rich Text Format
     (RTF).</shortdesc>
-  <!--<shortdesc>The <xmlelement>foreign</xmlelement> element enables the inclusion of non-DITA content, such as MathML, SVG, or Rich Text Format (RTF).</shortdesc>-->
 <prolog><metadata>
 <keywords>
         <indexterm>specialization

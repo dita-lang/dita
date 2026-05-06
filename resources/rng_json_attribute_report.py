@@ -110,7 +110,7 @@ def build_report(
             lines.append(f"  <sli>{attr_xml}: All elements</sli>")
         elif len(missing) < exceptions_threshold:
             exc = ", ".join(element_ref(e) for e in missing)
-            lines.append(f"  <sli>{attr_xml}: All elements except {exc})</sli>")
+            lines.append(f"  <sli>{attr_xml}: All elements except {exc}</sli>")
         else:
             elems = ", ".join(element_ref(e) for e in sorted(present, key=str.lower))
             lines.append(f"  <sli>{attr_xml}: {elems}</sli>")
@@ -177,18 +177,18 @@ def main(argv: list[str]) -> int:
     print('<?xml version="1.0" encoding="UTF-8"?>')
     print("<!DOCTYPE reference PUBLIC \"-//OASIS//DTD DITA 2.0 Reference//EN\" \"reference.dtd\">")
     print("<reference id=\"attributes-a-to-z\">")
-    print("<title>DITA Atrributes, A to Z</title>")
+    print("<title>DITA attributes, A to Z</title>")
     print("<shortdesc>This topic includes a simple list of all attributes defined on all elements in this specification.</shortdesc>")
     print("<refbody><section>")
     if args.spec == "techcomm":
-        print("<p>This report includes only elements from the technical communications specification; it does not include elements from the base specification.</p>")
+        print("<p>This report includes only elements from the DITA for Technical Content specification; it does not include elements from the base specification.</p>")
     else:
         print("<p>The following exceptions apply:</p>")
         print("<ul>")
         print("<li>DITAVAL elements are not included.</li>")
         print("<li>The <xref keyref=\"elements-no-topic-nesting\"/> element is not included.</li>")
         print("</ul>")
-    print('<note>Some attribtues are defined differently for different elements; ')
+    print('<note>Some attributes are defined differently for different elements; ')
     print('check the element description for details on values and any expected processing.</note>')
     print(report_list)
     print("</section></refbody>")

@@ -212,5 +212,14 @@
   <topicref href="learningTraining/lcWorkEnv.dita" keys="lcWorkEnv"/>
   <topicref href="learningTraining/lcWorkEnvDescription.dita" keys="lcWorkEnvDescription"/>
  </topicref>
+  <mapref href='content-models/learningAssessment.ditamap'/>
+  <mapref href='content-models/learningBookmap.ditamap'/>
+  <mapref href='content-models/learningContent.ditamap'/>
+  <mapref href='content-models/learningGroupMap.ditamap'/>
+  <mapref href='content-models/learningMap.ditamap'/>
+  <mapref href='content-models/learningObjectMap.ditamap'/>
+  <mapref href='content-models/learningOverview.ditamap'/>
+  <mapref href='content-models/learningPlan.ditamap'/>
+  <mapref href='content-models/learningSummary.ditamap'/>
 </map>
 <?Pub *0000009138?>

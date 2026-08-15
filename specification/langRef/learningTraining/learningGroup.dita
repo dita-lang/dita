@@ -28,15 +28,8 @@
 		  learning content at course, module, or other higher levels of hierarchy.
 		</p> 
 	 </section> 
-	 <section id="contains"
-	  conref="../../common/commonNavLibraryTable.dita#contentmodel-learningGroup/contains"
-	  otherprops="contains">
-	 </section> 
-	 <section id="inheritance" otherprops="inheritance"> 
-		<title>Inheritance</title> 
-		<p>+ map/topicref learningmap-d/learningGroup
-		</p> 
-	 </section> 
+	 <section conkeyref="content-models-learningGroup/learningGroup.element" id="content-model"/> 
+	 <section conkeyref="inheritance-learningGroup/learningGroup.inheritance" id="inheritance"/> 
 	 <example id="example" otherprops="examples"> 
 		<title>Example</title> 
 		<codeblock>

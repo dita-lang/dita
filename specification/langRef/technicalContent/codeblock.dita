@@ -18,12 +18,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-codeblock/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-codeblock/codeblock.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/pre pr-d/codeblock </p></section>
+<section conkeyref="inheritance-codeblock/codeblock.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;codeblock&gt;
 /* a long sample program */

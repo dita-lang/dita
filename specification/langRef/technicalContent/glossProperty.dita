@@ -13,10 +13,9 @@
           elements<indexterm><xmlelement>glossProperty</xmlelement></indexterm></indexterm><indexterm><xmlelement>glossProperty</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossProperty/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossProperty/glossProperty.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data concept/data glossentry/glossProperty </p></section>
+<section conkeyref="inheritance-glossProperty/glossProperty.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;glossentry id="algorithm" xml:lang="es-es">
   &lt;glossterm>El algoritmo&lt;/glossterm>
   &lt;glossdef>Un algoritmo define un método de calcular un resultado.&lt;/glossdef>

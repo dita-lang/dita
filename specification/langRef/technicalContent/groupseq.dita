@@ -17,12 +17,11 @@ combined unit, and they occur in a specific sequence, as delimited by the
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-groupseq/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-groupseq/groupseq.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/figgroup pr-d/groupseq </p></section>
+<section conkeyref="inheritance-groupseq/groupseq.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram frame="bottom"&gt;
  &lt;title&gt;CopyFile&lt;/title&gt;
  <b>&lt;groupseq&gt;</b>&lt;kwd&gt;COPYF&lt;/kwd&gt;<b>&lt;/groupseq&gt;</b>

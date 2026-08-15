@@ -18,12 +18,9 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-xmlelement/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-xmlelement/xmlelement.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword markup-d/markupname xml-d/xmlelement </p>
-    </section>
+    <section conkeyref="inheritance-xmlelement/xmlelement.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;p>Use the <b>&lt;xmlelement>uicontrol&lt;/xmlelement></b> (user interface control) 

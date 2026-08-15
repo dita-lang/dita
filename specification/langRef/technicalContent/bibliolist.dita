@@ -15,12 +15,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-bibliolist/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-bibliolist/bibliolist.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/bibliolist </p></section>
+<section conkeyref="inheritance-bibliolist/bibliolist.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmap>
   &lt;!-- ... -->
   &lt;backmatter>

@@ -10,10 +10,9 @@ a task.</shortdesc>
 <keywords><indexterm>noconds</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-noconds/contains" otherprops="contains"></section>
+<section conkeyref="content-models-noconds/noconds.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-	topic/li task/li taskreq-d/noconds</p></section>
+<section conkeyref="inheritance-noconds/noconds.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;reqconds&gt;
 	&lt;noconds/&gt;
 &lt;/reqconds&gt;

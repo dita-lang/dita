@@ -16,12 +16,11 @@ list of items to be generated at the particular location.-->For
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-booklist/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-booklist/booklist.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/booklist </p></section>
+<section conkeyref="inheritance-booklist/booklist.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this case the <xmlelement>booklist</xmlelement> element references a topic that contains a
 list of authors of topics in this document.</p><codeblock>&lt;booklists>
   &lt;toc/>

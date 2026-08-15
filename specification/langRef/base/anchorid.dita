@@ -48,9 +48,8 @@
         instruct processors to delay conref for item "step1" in the topic represented by the key
         "commonconfig". If the <xmlelement>anchorid</xmlelement> element required a topic id, the
         delayed conref would always be bound to that specific topic.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-anchorid/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword delay-d/anchorid </p></section>
+<section conkeyref="content-models-anchorid/anchorid.element" id="content-model"/>
+<section conkeyref="inheritance-anchorid/anchorid.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig>
         <title>Use case 1: Runtime resolution of <xmlatt>conref</xmlatt> to an id, determined by
           original author</title>

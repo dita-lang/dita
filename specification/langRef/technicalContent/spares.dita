@@ -11,10 +11,9 @@ parts are required.</shortdesc>
 <keywords><indexterm>spares</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-spares/contains" otherprops="contains"></section>
+<section conkeyref="content-models-spares/spares.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/p task/p taskreq-d/spares</p></section>
+<section conkeyref="inheritance-spares/spares.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;spares>
  &lt;sparesli>
   &lt;spare>dipstick&lt;/spare>

@@ -25,10 +25,7 @@
           element is not an inline element. The <xmlelement>keywords</xmlelement> element only
           appears in the <xmlelement>topicmeta</xmlelement> or <xmlelement>prolog</xmlelement>, and
           is used to specify keywords that apply to the topic.</note></p>
-  </section><section conref="../../common/commonNavLibraryTable.dita#contentmodel-keywords/contains" id="contains" otherprops="contains"></section><section id="inheritance" otherprops="inheritance">
-   <title>Inheritance</title>
-   <p>- topic/keywords </p>
-  </section>
+  </section><section conkeyref="content-models-keywords/keywords.element" id="content-model"/><section conkeyref="inheritance-keywords/keywords.inheritance" id="inheritance"/>
   <example id="example" otherprops="examples">
    <title>Example</title>
    <p>The following example is metadata from an installation task:</p>

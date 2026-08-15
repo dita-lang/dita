@@ -15,12 +15,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-oper/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-oper/oper.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph pr-d/oper </p></section>
+<section conkeyref="inheritance-oper/oper.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram&gt;
   &lt;title&gt;Adding&lt;/title&gt;
   &lt;groupseq&gt;&lt;kwd&gt;1&lt;/kwd&gt;<b>&lt;oper&gt;</b>+<b>&lt;/oper&gt;</b>&lt;var&gt;two&lt;/var&gt;

@@ -22,12 +22,9 @@
         inside of <xmlelement>steptroubleshooting</xmlelement> because its meaning there would be
         ambiguous.</note>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-steptroubleshooting/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-steptroubleshooting/steptroubleshooting.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/itemgroup task/steptroubleshooting </p>
-    </section>
+    <section conkeyref="inheritance-steptroubleshooting/steptroubleshooting.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>The following example illustrates using the <xmlelement>steptroubleshooting</xmlelement>

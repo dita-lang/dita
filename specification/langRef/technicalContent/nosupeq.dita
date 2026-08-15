@@ -9,10 +9,9 @@ there is no support equipment required to perform a task.</shortdesc>
 <keywords><indexterm>nosupeq</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-nosupeq/contains" otherprops="contains"></section>
+<section conkeyref="content-models-nosupeq/nosupeq.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-	topic/data task/data taskreq-d/nosupeq</p></section>
+<section conkeyref="inheritance-nosupeq/nosupeq.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supequip>
 	&lt;nosupeq/>
 &lt;/supequip></codeblock></example>

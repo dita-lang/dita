@@ -72,10 +72,9 @@
         rendered as follows: </p>
       <lq>"The ABS will prevent the car from skidding in adverse weather conditions."</lq>
     </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-abbreviated-form/contains" otherprops="contains"></section>
+<section conkeyref="content-models-abbreviated-form/abbreviated-form.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/term abbrev-d/abbreviated-form </p></section>
+<section conkeyref="inheritance-abbreviated-form/abbreviated-form.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The term and acronym <ph >can</ph> be defined as follows, in a
           <xmlelement>glossentry</xmlelement> topic. Note that the <xmlatt>id</xmlatt> attribute of
         the topic does not need to match the term or acronym.</p><codeblock>&lt;glossentry id="abs-definition">

@@ -30,12 +30,9 @@
         as necessary to support the creation of complex learning structures, such as learning units,
         sections, and courses.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningGroupMap/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-learningGroupMap/learningGroupMap.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- map/map learningGroupMap/learningGroupMap</p>
-    </section>
+    <section conkeyref="inheritance-learningGroupMap/learningGroupMap.inheritance" id="inheritance"/>
     <example id="learningGroupMapexample" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;learningGroupMap id="learningGroupMap1">

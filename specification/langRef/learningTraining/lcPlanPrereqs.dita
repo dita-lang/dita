@@ -14,12 +14,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcPlanPrereqs/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcPlanPrereqs/lcPlanPrereqs.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title>
-<p>- topic/fig learningBase/fig learningPlan/lcPlanPrereqs </p>
-</section>
+		<section conkeyref="inheritance-lcPlanPrereqs/lcPlanPrereqs.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
   <title>Example</title>
   <codeblock>

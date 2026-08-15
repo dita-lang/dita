@@ -9,10 +9,9 @@ spare part that is required to perform a task, for example, a "dipstick."</short
 <keywords><indexterm>spare</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-spare/contains" otherprops="contains"></section>
+<section conkeyref="content-models-spare/spare.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/spare</p></section>
+<section conkeyref="inheritance-spare/spare.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;spares>
  &lt;sparesli>
   &lt;spare>dipstick&lt;/spare>

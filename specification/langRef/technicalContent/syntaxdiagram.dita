@@ -17,12 +17,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-syntaxdiagram/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-syntaxdiagram/syntaxdiagram.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/fig pr-d/syntaxdiagram </p></section>
+<section conkeyref="inheritance-syntaxdiagram/syntaxdiagram.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram&gt;
   &lt;title&gt;CopyFile&lt;/title&gt;
   &lt;groupseq&gt;&lt;kwd&gt;COPYF&lt;/kwd&gt;&lt;/groupseq&gt;

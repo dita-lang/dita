@@ -15,11 +15,8 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcSequence2/contains" otherprops="contains"></section>
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title>
-			<p>+ topic/data learningInteractionBase2-d/data learning2-d/lcSequence2 </p>
-		</section>
+		<section conkeyref="content-models-lcSequence2/lcSequence2.element" id="content-model"/>
+		<section conkeyref="inheritance-lcSequence2/lcSequence2.inheritance" id="inheritance"/>
 		<example conref="lcSequencing2.dita#lcSequencing2/example" id="example" otherprops="examples"/>
 		<section id="attributes">
 			<title>Attributes</title>

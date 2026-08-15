@@ -21,10 +21,9 @@
         replaced with the acronym alone. See the <xref href="abbreviated-form.dita"
             ><xmlelement>abbreviated-form</xmlelement></xref> element for a full description of how
         the surface form is used together with acronyms.</p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossSurfaceForm/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossSurfaceForm/glossSurfaceForm.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/p concept/p glossentry/glossSurfaceForm </p></section>
+<section conkeyref="inheritance-glossSurfaceForm/glossSurfaceForm.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <p>The following topic defines the term "Anti-lock Braking System". Within the topic, the
           <xmlelement>glossSurfaceForm</xmlelement> element provides a version of the term that

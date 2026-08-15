@@ -17,8 +17,7 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" otherprops="contains"><title>Contains</title><p><xref
-href="ditaval-alt-text.dita">alt-text</xref> (<i>optional</i>)</p></section>
+<section conkeyref="content-models-ditaval-startflag/ditaval-startflag.element" id="content-model"/>
 <section id="containedby" otherprops="containedby"><title>Contained by</title><p><xref
 href="ditaval-prop.dita">prop</xref>, <xref href="ditaval-revprop.dita">revprop</xref></p></section>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example

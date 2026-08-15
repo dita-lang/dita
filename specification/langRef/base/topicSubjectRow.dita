@@ -11,9 +11,8 @@ to the subjects in each following column.</shortdesc>
     <indexterm>classification domain elements<indexterm>topicSubjectRow</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-topicSubjectRow/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/relrow classify-d/topicSubjectRow </p></section>
+<section conkeyref="content-models-topicSubjectRow/topicSubjectRow.element" id="content-model"/>
+<section conkeyref="inheritance-topicSubjectRow/topicSubjectRow.inheritance" id="inheritance"/>
         <example id="example" otherprops="examples">
             <title>Example</title>
             <p>For a complete example in the context of the

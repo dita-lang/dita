@@ -40,13 +40,10 @@
           </dlentry>
         </dl></p>
     </section>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcAreaCoords/contains" id="contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcAreaCoords/lcAreaCoords.element" id="content-model"/>
     
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/ph learningInteractionBase-d/ph learning-d/lcAreaCoords</p>
-    </section>
+    <section conkeyref="inheritance-lcAreaCoords/lcAreaCoords.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;lcHotspotMap>

@@ -17,9 +17,8 @@
 <section id="section-1"><p>The <xmlelement>object</xmlelement> element enables authors to include animated images, applets,
                 plug-ins, ActiveX controls, video clips, and other multimedia objects in a
                 topic.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-object/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/object </p></section>
+<section conkeyref="content-models-object/object.element" id="content-model"/>
+<section conkeyref="inheritance-object/object.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
             <title>Example</title>
             <p>Output processors might need to modify data in order to enable compatible function

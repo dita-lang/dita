@@ -9,9 +9,8 @@
          <xmlelement>title</xmlelement> element is used for all title
       purposes.</shortdesc>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-titlealts/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/titlealts </p></section>
+<section conkeyref="content-models-titlealts/titlealts.element" id="content-model"/>
+<section conkeyref="inheritance-titlealts/titlealts.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;task id="progexample"&gt;
    &lt;title&gt;Example of Required Programming&lt;/title&gt;

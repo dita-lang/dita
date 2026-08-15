@@ -12,12 +12,11 @@ only.</shortdesc>
 <indexterm>bookrestriction</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-bookrestriction/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-bookrestriction/bookrestriction.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/bookrestriction </p></section>
+<section conkeyref="inheritance-bookrestriction/bookrestriction.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookrights>
   &lt;copyrfirst>&lt;year>1994&lt;/year>&lt;/copyrfirst>
   &lt;copyrlast>&lt;year>2006&lt;/year>&lt;/copyrlast>

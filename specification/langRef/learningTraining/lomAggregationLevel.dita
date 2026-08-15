@@ -9,12 +9,11 @@ the functional size of the learning resource. </shortdesc>
 <keywords><indexterm>lomAggregationLevel</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-lomAggregationLevel/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-lomAggregationLevel/lomAggregationLevel.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"> 			<title>Inheritance</title><p>+
-topic/data learningmeta-d/lomAggregationLevel </p></section>
+<section conkeyref="inheritance-lomAggregationLevel/lomAggregationLevel.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="lcLom.dita#lcLom/example">lcLom</xref>.</p> </example>
 <section id="attributes"><title>Attributes</title>

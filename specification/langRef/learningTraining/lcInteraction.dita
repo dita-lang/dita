@@ -16,13 +16,10 @@
       </keywords>
     </metadata>
   </prolog>
-  <refbody><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcInteraction/contains" otherprops="contains"></section>
+  <refbody><section conkeyref="content-models-lcInteraction/lcInteraction.element" id="content-model"/>
 
 
-<section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/section learningBase/lcInteraction </p>
-    </section>
+<section conkeyref="inheritance-lcInteraction/lcInteraction.inheritance" id="inheritance"/>
     <example id="example" conref="learningAssessment.dita#learningAssessment/example" otherprops="examples"/>
     <section id="attributes">
       <title>Attributes</title>

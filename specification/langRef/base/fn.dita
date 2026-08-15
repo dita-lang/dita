@@ -47,9 +47,8 @@
         lack support for the <xmlatt>callout</xmlatt> attribute, or footnotes <ph
           >might</ph> be collected as endnotes for certain types of
         publications.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-fn/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/fn </p></section>
+<section conkeyref="content-models-fn/fn.element" id="content-model"/>
+<section conkeyref="inheritance-fn/fn.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The first example is of a <b>single-use</b> footnote. It uses a simple
           <xmlelement>fn</xmlelement> element, with no <xmlatt>id</xmlatt> and no
           <xmlatt>callout</xmlatt> attribute. In that case, markup such as the

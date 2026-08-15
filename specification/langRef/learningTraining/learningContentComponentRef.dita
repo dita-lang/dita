@@ -30,15 +30,8 @@
 		  <xmlelement>learningPostAssessmentRef</xmlelement>.
 		</p> 
 	 </section> 
-	 <section
-	  conref="../../common/commonNavLibraryTable.dita#contentmodel-learningContentComponentRef/contains"
-	  id="contains" otherprops="contains">
-	 </section> 
-	 <section id="inheritance" otherprops="inheritance"> 
-		<title>Inheritance</title> 
-		<p>+ map/topicref learningmap-d/learningContentRef 
-		</p> 
-	 </section> 
+	 <section conkeyref="content-models-learningContentComponentRef/learningContentComponentRef.element" id="content-model"/> 
+	 <section conkeyref="inheritance-learningContentComponentRef/learningContentComponentRef.inheritance" id="inheritance"/> 
 	 <example id="example" otherprops="examples"> 
 		<title>Example</title> 
 		<p>See 

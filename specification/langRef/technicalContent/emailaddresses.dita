@@ -10,10 +10,9 @@ addresses. </shortdesc>
 <indexterm>emailaddresses</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-emailaddresses/contains" otherprops="contains"></section>
+<section conkeyref="content-models-emailaddresses/emailaddresses.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/data xnal-d/emailaddresses </p></section>
+<section conkeyref="inheritance-emailaddresses/emailaddresses.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;personinfo&gt;
  &lt;namedetails&gt;&lt;personname&gt;
    &lt;firstname&gt;Derek&lt;/firstname&gt;

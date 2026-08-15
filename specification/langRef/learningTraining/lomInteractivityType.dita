@@ -12,10 +12,9 @@ and training elements<indexterm>lomInteractivityType</indexterm></indexterm>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lomInteractivityType/contains" otherprops="contains"></section>
+<section conkeyref="content-models-lomInteractivityType/lomInteractivityType.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"> 			<title>Inheritance</title><p>+
-topic/data learningmeta-d/lomInteractivityType </p> 		</section>
+<section conkeyref="inheritance-lomInteractivityType/lomInteractivityType.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="lcLom.dita#lcLom/example">lcLom</xref>.</p> </example>
 <section id="attributes"> <title>Attributes</title>

@@ -12,9 +12,8 @@ coordinates of that shape, and a link target for the area.</shortdesc>
     <indexterm>area</indexterm><indexterm>utilities domain<indexterm>area</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-area/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/figgroup ut-d/area </p></section>
+<section conkeyref="content-models-area/area.element" id="content-model"/>
+<section conkeyref="inheritance-area/area.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;area>
  &lt;shape>rect&lt;/shape>
  &lt;coords>54,1,117,60&lt;/coords>

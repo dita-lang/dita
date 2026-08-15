@@ -31,9 +31,8 @@
         </dlentry>
       </dl>
     </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-desc/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/desc </p></section>
+<section conkeyref="content-models-desc/desc.element" id="content-model"/>
+<section conkeyref="inheritance-desc/desc.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">       <title>Example</title>       <codeblock
 xml:space="preserve">&lt;fig&gt;&lt;title&gt;The Handshake&lt;/title&gt;
 <b>&lt;desc&gt;</b>This image shows two hands clasped in a formal, 

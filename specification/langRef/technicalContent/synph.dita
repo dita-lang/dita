@@ -16,12 +16,11 @@ conref="apiname.dita#apiname/progdomainelement"/></shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-synph/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-synph/synph.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph pr-d/synph </p></section>
+<section conkeyref="inheritance-synph/synph.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock><b>&lt;synph&gt;</b>&lt;kwd&gt;format&lt;/kwd&gt; &lt;var&gt;volumename&lt;/var&gt;<b>&lt;/synph&gt;</b>
 </codeblock> </example>
 <section id="attributes"><title>Attributes</title>

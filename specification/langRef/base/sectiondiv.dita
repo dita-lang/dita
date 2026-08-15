@@ -29,9 +29,8 @@
 elements, use the <xmlelement>div</xmlelement> element to group content that might occur in both
 topic bodies and sections.</p>
     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-sectiondiv/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/sectiondiv </p></section>
+<section conkeyref="content-models-sectiondiv/sectiondiv.element" id="content-model"/>
+<section conkeyref="inheritance-sectiondiv/sectiondiv.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In the example below, the <xmlelement>sectiondiv</xmlelement> element is used to group content
         that can be reused elsewhere.</p><codeblock>&lt;section>
   &lt;title>Nice pets&lt;/title>

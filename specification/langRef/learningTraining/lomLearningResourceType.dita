@@ -8,9 +8,9 @@
 <keywords><indexterm>lomLearningResourceType</indexterm><indexterm>learning and training elements<indexterm>lomLearningResourceType</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lomLearningResourceType/contains" otherprops="contains"></section>
+<section conkeyref="content-models-lomLearningResourceType/lomLearningResourceType.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+ topic/data learning-d/lomLearningResourceType </p></section>
+<section conkeyref="inheritance-lomLearningResourceType/lomLearningResourceType.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref href="lcLom.dita#lcLom/example">lcLom</xref>.</p></example>
 <section id="attributes"><title>Attributes</title>
 <p>The following attributes are available on this element: <xref

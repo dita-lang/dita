@@ -3,7 +3,7 @@
 <reference id="choption" xml:lang="en-us"><title><xmlelement>choption</xmlelement></title><shortdesc>The <xmlelement>choption</xmlelement> element describes an option in a choice table that
     a user could choose to accomplish a step of a task. In a user interface, for example, this might
     be the name of radio button.</shortdesc><prolog><metadata><keywords>
-        <indexterm>choice tables<indexterm>options</indexterm></indexterm><indexterm><xmlelement>choption</xmlelement></indexterm><indexterm>task elements<indexterm><xmlelement>choption</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-choption/contains" otherprops="contains"></section><section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>- topic/stentry task/choption </p></section><example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;&lt;cmd&gt;Then this&lt;/cmd&gt;
+        <indexterm>choice tables<indexterm>options</indexterm></indexterm><indexterm><xmlelement>choption</xmlelement></indexterm><indexterm>task elements<indexterm><xmlelement>choption</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody><section conkeyref="content-models-choption/choption.element" id="content-model"/><section conkeyref="inheritance-choption/choption.inheritance" id="inheritance"/><example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;&lt;cmd&gt;Then this&lt;/cmd&gt;
   &lt;choicetable&gt;
     &lt;chhead&gt;
       &lt;choptionhd&gt;Do something&lt;/choptionhd&gt;

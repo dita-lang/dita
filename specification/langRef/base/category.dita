@@ -18,9 +18,8 @@ categories.</shortdesc>
 or hierarchical set.</p>    <p>This element is equivalent to both
 the <xmlelement>Coverage</xmlelement> element and the <xmlelement>Subject</xmlelement> element in Dublin     Core.</p> 
  </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-category/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">    <title>Inheritance</title> 
-  <p>- topic/category </p>   </section>
+<section conkeyref="content-models-category/category.element" id="content-model"/>
+<section conkeyref="inheritance-category/category.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

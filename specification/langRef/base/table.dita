@@ -22,9 +22,8 @@
       <p conref="../../common/conref-file.dita#reuse_file/pgwide-explain"/><note>The <xmlatt>scale</xmlatt> attribute represents a stylistic markup property that is currently
         maintained in tables for legacy purposes. External stylesheets should enable less dependency
         on this attribute. Use the <xmlatt>scale</xmlatt> attribute judiciously.</note></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-table/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/table </p></section>
+<section conkeyref="content-models-table/table.element" id="content-model"/>
+<section conkeyref="inheritance-table/table.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <fig>
         <title>DITA source</title>

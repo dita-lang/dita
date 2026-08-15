@@ -27,13 +27,10 @@
             <xmlelement>learningContentRef</xmlelement> element that is provided by the learning map
           domain.</ph><!--<draft-comment author="WEK">Added explicit statement about requirement to render content topics as single chunks.</draft-comment>--></p>
   </section>
-  <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningContent/contains" otherprops="contains"></section>
+  <section conkeyref="content-models-learningContent/learningContent.element" id="content-model"/>
 
 
-<section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/topic learningBase/learningBase learningContent/learningContent </p>
-    </section>
+<section conkeyref="inheritance-learningContent/learningContent.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

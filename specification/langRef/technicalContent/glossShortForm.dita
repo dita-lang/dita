@@ -16,10 +16,9 @@
           <xmlelement>glossentry</xmlelement> topic <ph >might</ph> result in
         an empty <xmlelement>glossShortForm</xmlelement> element if there is no equivalent in the
         target language.</note></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossShortForm/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossShortForm/glossShortForm.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/title concept/title glossentry/glossShortForm </p></section>
+<section conkeyref="inheritance-glossShortForm/glossShortForm.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;glossentry id="www">
   &lt;glossterm>World Wide Web&lt;/glossterm>
   &lt;glossdef>A collection of documents available through the Internet.&lt;/glossdef>

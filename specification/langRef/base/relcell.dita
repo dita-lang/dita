@@ -20,9 +20,8 @@
     </metadata>
   </prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-relcell/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/relcell </p></section>
+<section conkeyref="content-models-relcell/relcell.element" id="content-model"/>
+<section conkeyref="inheritance-relcell/relcell.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="reltable.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

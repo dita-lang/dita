@@ -15,15 +15,8 @@
 		</keywords> </metadata>
   </prolog> 
   <refbody> 
-	 <section id="contains"
-	 conref="../../common/commonNavLibraryTable.dita#contentmodel-lcOrgConstraints/contains"
-	 otherprops="contains">
-	 </section> 
-	 <section id="inheritance" otherprops="inheritance"> 
-		<title>Inheritance</title>
-		<p>- topic/p learningBase/p learningPlan/lcOrgConstraints 
-		</p> 
-	 </section> 
+	 <section conkeyref="content-models-lcOrgConstraints/lcOrgConstraints.element" id="content-model"/> 
+	 <section conkeyref="inheritance-lcOrgConstraints/lcOrgConstraints.inheritance" id="inheritance"/> 
 	 <example id="example" otherprops="examples"> 
 		<title>Example </title> 
 		<codeblock>

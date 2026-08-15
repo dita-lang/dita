@@ -10,10 +10,9 @@ about the authoring organization. </shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-organizationname/contains" otherprops="contains"></section>
+<section conkeyref="content-models-organizationname/organizationname.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph xnal-d/organizationname </p></section>
+<section conkeyref="inheritance-organizationname/organizationname.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;organizationinfo&gt;
  &lt;namedetails&gt;
   &lt;organizationnamedetails&gt;

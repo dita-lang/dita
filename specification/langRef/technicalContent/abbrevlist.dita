@@ -12,10 +12,9 @@ list</indexterm><indexterm>Bookmap elements<indexterm>abbrevlist</indexterm></in
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-abbrevlist/contains" otherprops="contains"></section>
+<section conkeyref="content-models-abbrevlist/abbrevlist.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/abbrevlist </p></section>
+<section conkeyref="inheritance-abbrevlist/abbrevlist.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;abbrevlist href="abbrev.dita"/&gt;</codeblock></example>
 <section id="attributes"><title>Attributes</title><sectiondiv

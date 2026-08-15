@@ -11,9 +11,8 @@ a description of the type of hazard, for example, "Hot surfaces inside."</shortd
         <indexterm>hazard statement domain<indexterm>typeofhazard</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-typeofhazard/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li hazard-d/typeofhazard</p></section>
+<section conkeyref="content-models-typeofhazard/typeofhazard.element" id="content-model"/>
+<section conkeyref="inheritance-typeofhazard/typeofhazard.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;hazardstatement type="caution">
   &lt;messagepanel>
     <b>&lt;typeofhazard>Lifting Hazard.&lt;/typeofhazard></b>

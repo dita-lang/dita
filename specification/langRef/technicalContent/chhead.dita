@@ -6,7 +6,7 @@
     "Description"). The <xmlelement>chhead</xmlelement> element contains both a
       <xmlelement>choptionhd</xmlelement> and <xmlelement>chdeschd</xmlelement> element as a
     pair.</shortdesc><prolog><metadata><keywords><indexterm><xmlelement>chhead</xmlelement></indexterm>
-        <indexterm>choice tables<indexterm>alternate header text</indexterm></indexterm><indexterm>task elements<indexterm><xmlelement>chhead</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-chhead/contains" otherprops="contains"></section><section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>- topic/sthead task/chhead </p></section><example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;&lt;cmd&gt;Then this&lt;/cmd&gt;
+        <indexterm>choice tables<indexterm>alternate header text</indexterm></indexterm><indexterm>task elements<indexterm><xmlelement>chhead</xmlelement></indexterm></indexterm></keywords></metadata></prolog><refbody><section conkeyref="content-models-chhead/chhead.element" id="content-model"/><section conkeyref="inheritance-chhead/chhead.inheritance" id="inheritance"/><example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;&lt;cmd&gt;Then this&lt;/cmd&gt;
   &lt;substeps&gt;
     &lt;substep importance="optional"&gt;&lt;cmd&gt;which is done by doing this&lt;/cmd&gt;&lt;/substep&gt;
     &lt;substep importance="required"&gt;&lt;cmd&gt;and then this.&lt;/cmd&gt;&lt;/substep&gt;

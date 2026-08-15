@@ -23,9 +23,8 @@
 after a review comment indicated that the spec should describe rendering expectations.-->
 <section id="section-1">Although rendering is left up to implementations, processors generally render
         <xmlelement>lq</xmlelement> as an indented block.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-lq/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/lq </p></section>
+<section conkeyref="content-models-lq/lq.element" id="content-model"/>
+<section conkeyref="inheritance-lq/lq.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;p&gt;This is the first line of the address that 
 Abraham Lincoln delivered on November 19, 1863 for the dedication 
 of the cemetery at Gettysburg, Pennsylvania.&lt;/p&gt;

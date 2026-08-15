@@ -13,11 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcObjective/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcObjective/lcObjective.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/li learningBase/lcObjective </p>
-		</section>
+		<section conkeyref="inheritance-lcObjective/lcObjective.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <codeblock>

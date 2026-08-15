@@ -18,7 +18,7 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-sort-as/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-sort-as/sort-as.element" id="content-model"/>
     <section id="section-1">
       <p>The <xmlelement>sort-as</xmlelement> element can contain <xmlelement>text</xmlelement> and
           <xmlelement>keyword</xmlelement> elements in order to enable content referencing. If a
@@ -77,10 +77,7 @@
       <p conref="../../common/conref-file.dita#reuse_file/sort-as-1"/>
       <p conref="../../common/conref-file.dita#reuse_file/sort-as-2"/>
     </section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/data ut-d/sort-as </p>
-    </section>
+    <section conkeyref="inheritance-sort-as/sort-as.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>The following examples illustrate how a glossary entry for the Chinese ideographic

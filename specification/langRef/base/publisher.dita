@@ -14,9 +14,8 @@ for making the content or subject of the topic   available.</shortdesc>
 <refbody>
     <section id="section-1">    <p>This element is equivalent to the <xmlelement>Publisher</xmlelement> element
 in Dublin Core.</p>   </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-publisher/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">    <title>Inheritance</title> 
-  <p>- topic/publisher </p>   </section>
+<section conkeyref="content-models-publisher/publisher.element" id="content-model"/>
+<section conkeyref="inheritance-publisher/publisher.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;prolog>

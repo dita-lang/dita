@@ -9,12 +9,11 @@ a list of supplies needed to perform a task.</shortdesc>
 <keywords><indexterm>supplyli</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-supplyli/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-supplyli/supplyli.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ul task/ul taskreq-d/supplyli</p></section>
+<section conkeyref="inheritance-supplyli/supplyli.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supplies>
   <b>&lt;supplyli></b>
     &lt;supply>gasket&lt;/supply>

@@ -19,12 +19,11 @@ to do so. <ph conref="apiname.dita#apiname/progdomainelement"/></shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-var/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-var/var.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph pr-d/var </p></section>
+<section conkeyref="inheritance-var/var.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram frame="bottom"&gt;
  &lt;title&gt;CopyFile&lt;/title&gt;
  &lt;groupseq&gt;&lt;kwd&gt;COPYF&lt;/kwd&gt;&lt;/groupseq&gt;

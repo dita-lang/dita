@@ -33,9 +33,8 @@ entries that are both a redirect and a page reference, such as:</p>
 when it encounters this condition, and <term outputclass="RFC-2119">MAY</term>
 recover from this error condition by treating the <xmlelement>index-see</xmlelement> as an
 <xmlelement>index-see-also</xmlelement>.</p><p>There can be multiple <xmlelement>index-see</xmlelement> elements for a single index entry.</p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-index-see/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/index-base indexing-d/index-see </p></section>
+<section conkeyref="content-models-index-see/index-see.element" id="content-model"/>
+<section conkeyref="inheritance-index-see/index-see.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title><p>The following example illustrates the use of an <xmlelement>index-see</xmlelement> redirection
 element within an <xmlelement>indexterm</xmlelement>:</p><codeblock

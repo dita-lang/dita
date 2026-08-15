@@ -11,9 +11,8 @@ legal rights to the material contained in the topic.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-copyrholder/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/copyrholder </p></section>
+<section conkeyref="content-models-copyrholder/copyrholder.element" id="content-model"/>
+<section conkeyref="inheritance-copyrholder/copyrholder.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;copyright&gt;
   &lt;copyryear year="2001"&gt;&lt;/copyryear&gt;
   <b>&lt;copyrholder&gt;</b>IBM<b>&lt;/copyrholder&gt;</b>

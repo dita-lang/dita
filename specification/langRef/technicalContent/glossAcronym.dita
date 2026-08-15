@@ -28,10 +28,9 @@
             how the <xmlelement>glossSurfaceForm</xmlelement> and
                <xmlelement>glossAcronym</xmlelement> elements affect references to the primary
             term.</note></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossAcronym/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossAcronym/glossAcronym.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/title concept/title glossentry/glossAcronym </p></section>
+<section conkeyref="inheritance-glossAcronym/glossAcronym.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

@@ -12,9 +12,8 @@ not use solvents to clean the drum surface."</shortdesc>
         <indexterm>hazard statement domain<indexterm>howtoavoid</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-howtoavoid/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li hazard-d/howtoavoid</p></section>
+<section conkeyref="content-models-howtoavoid/howtoavoid.element" id="content-model"/>
+<section conkeyref="inheritance-howtoavoid/howtoavoid.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;hazardstatement type="notice">
   &lt;messagepanel>
     &lt;typeofhazard>Machinery Damage&lt;/typeofhazard>

@@ -17,9 +17,8 @@
                 elements<indexterm><xmlelement>subjectRelTable</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectRelTable/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/reltable subjectScheme/subjectRelTable </p></section>
+<section conkeyref="content-models-subjectRelTable/subjectRelTable.element" id="content-model"/>
+<section conkeyref="inheritance-subjectRelTable/subjectRelTable.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>The subject relationship table in this example establishes relationships between operating

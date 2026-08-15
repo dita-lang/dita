@@ -10,10 +10,9 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-organizationnamedetails/contains" otherprops="contains"></section>
+<section conkeyref="content-models-organizationnamedetails/organizationnamedetails.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph xnal-d/organizationnamedetails </p></section>
+<section conkeyref="inheritance-organizationnamedetails/organizationnamedetails.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;organizationinfo&gt;
  &lt;namedetails&gt;
   &lt;organizationnamedetails&gt;

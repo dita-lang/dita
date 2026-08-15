@@ -11,11 +11,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>subjectScheme</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectScheme/contains" id="contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- map/map subjectScheme/subjectScheme </p>
-    </section>
+    <section conkeyref="content-models-subjectScheme/subjectScheme.element" id="content-model"/>
+    <section conkeyref="inheritance-subjectScheme/subjectScheme.inheritance" id="inheritance"/>
     <example conref="../../common/conref-examples.dita#conref-examples/example-subjectScheme" id="example" otherprops="examples"/>
     <section id="attributes">
       <title>Attributes</title>

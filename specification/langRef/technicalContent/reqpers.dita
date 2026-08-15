@@ -12,12 +12,11 @@ need to perform the task.</shortdesc>
 <keywords><indexterm>reqpers</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-reqpers/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-reqpers/reqpers.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title>
-<!--DITA 1.3: errata fix, changed ancestry from <ol> to <ul>--><p>+ topic/ul task/ul taskreq-d/reqpers</p></section>
+<section conkeyref="inheritance-reqpers/reqpers.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock><b>&lt;reqpers&gt;</b>
  &lt;personnel&gt;2&lt;/personnel&gt;
  &lt;perscat&gt;Mechanic&lt;/perscat&gt;

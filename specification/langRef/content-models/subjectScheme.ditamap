@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-data-about"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-data-about" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-data" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-data" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-unknown" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-unknown" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-foreign" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-foreign" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-title" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-title" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-navtitle" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-navtitle" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-desc" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-desc" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-p" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-p" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-note" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-note" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-longquoteref"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-longquoteref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-lq" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-lq" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-q" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-q" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-sl" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-sl" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-sli" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-sli" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-ul" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-ul" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-ol" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-ol" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-li" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-li" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-itemgroup"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-itemgroup" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-dl" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-dl" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-dlhead" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-dlhead" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-dthd" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-dthd" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-ddhd" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-ddhd" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-dlentry" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-dlentry" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-dt" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-dt" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-dd" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-dd" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-fig" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-fig" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-figgroup" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-figgroup" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-pre" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-pre" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-lines" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-lines" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-div" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-div" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-text" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-text" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-keyword" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-keyword" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-term" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-term" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-ph" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-ph" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-tm" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-tm" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-boolean" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-boolean" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-state" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-state" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-image" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-image" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-alt" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-alt" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-longdescref"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-longdescref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-object" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-object" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-param" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-param" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-simpletable"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-simpletable" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-sthead" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-sthead" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-strow" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-strow" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-stentry" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-stentry" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-draft-comment"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-draft-comment" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-required-cleanup"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-required-cleanup"
+            href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-fn" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-fn" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-indexterm"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-indexterm" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-index-base"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-index-base" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-indextermref"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-indextermref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-cite" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-cite" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-xref" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-xref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-table" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-table" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-tgroup" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-tgroup" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-colspec" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-colspec" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-thead" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-thead" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-tbody" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-tbody" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-row" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-row" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-entry" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-entry" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-author" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-author" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-source" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-source" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-publisher"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-publisher" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-copyright"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-copyright" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-copyryear"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-copyryear" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-copyrholder"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-copyrholder" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-critdates"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-critdates" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-created" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-created" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-revised" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-revised" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-permissions"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-permissions" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-category" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-category" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-metadata" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-metadata" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-audience" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-audience" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-keywords" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-keywords" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-prodinfo" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-prodinfo" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-prodname" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-prodname" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-vrmlist" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-vrmlist" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-vrm" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-vrm" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-brand" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-brand" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-series" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-series" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-platform" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-platform" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-prognum" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-prognum" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-featnum" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-featnum" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-component"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-component" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-othermeta"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-othermeta" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-resourceid"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-resourceid" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-map" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-map" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-navref" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-navref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-topicref" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-topicref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-anchor" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-anchor" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-reltable" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-reltable" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-relheader"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-relheader" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-relcolspec"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-relcolspec" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-relrow" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-relrow" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-relcell" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-relcell" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-topicmeta"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-topicmeta" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-shortdesc"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-shortdesc" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-linktext" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-linktext" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-searchtitle"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-searchtitle" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-ux-window"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-ux-window" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-topichead"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-topichead" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-topicgroup"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-topicgroup" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-anchorref"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-anchorref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-mapref" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-mapref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-topicset" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-topicset" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-topicsetref"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-topicsetref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-keydef" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-keydef" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectScheme"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectScheme" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-schemeref"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-schemeref" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hasNarrower"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hasNarrower" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hasKind" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hasKind" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hasPart" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hasPart" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hasInstance"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hasInstance" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hasRelated"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hasRelated" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectdef"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectdef" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectHead"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectHead" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectHeadMeta"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectHeadMeta"
+            href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-enumerationdef"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-enumerationdef" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-elementdef"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-elementdef" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-attributedef"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-attributedef" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-defaultSubject"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-defaultSubject" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-relatedSubjects"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-relatedSubjects"
+            href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectRelTable"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectRelTable"
+            href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectRelHeader"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectRelHeader"
+            href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectRel"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectRel" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-subjectRole"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-subjectRole" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hazardstatement"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hazardstatement"
+            href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-hazardsymbol"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-hazardsymbol" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-messagepanel"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-messagepanel" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-typeofhazard"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-typeofhazard" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-consequence"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-consequence" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-howtoavoid"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-howtoavoid" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-b" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-b" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-u" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-u" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-i" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-i" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-line-through"
+            href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-line-through" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-overline" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-overline" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-tt" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-tt" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-sup" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-sup" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-sub" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-sub" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-imagemap" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-imagemap" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-area" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-area" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-shape" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-shape" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-coords" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-coords" href="subjectScheme.dita#inheritance"/>
+   <keydef keys="content-models-sort-as" href="subjectScheme.dita#content-models"/>
+   <keydef keys="inheritance-sort-as" href="subjectScheme.dita#inheritance"/>
+</map>

@@ -25,9 +25,8 @@ to a topic, processors should use the actual topic title in place of the
 <xmlelement>navtitle</xmlelement>. <ph >To use the
 <xmlelement>navtitle</xmlelement> as a subject label, set the <xmlatt>locktitle</xmlatt> attribute
 on the <xmlelement>subjectdef</xmlelement> element to "yes".</ph></p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectdef/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/subjectdef </p></section>
+<section conkeyref="content-models-subjectdef/subjectdef.element" id="content-model"/>
+<section conkeyref="inheritance-subjectdef/subjectdef.inheritance" id="inheritance"/>
 <example conref="../../common/conref-examples.dita#conref-examples/example-subjectScheme" id="example" otherprops="examples"/>
 <section id="attributes"><title>Attributes</title>
 <p>The following attributes are available on this element: <xref

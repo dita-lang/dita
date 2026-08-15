@@ -10,10 +10,9 @@
 <indexterm>volume</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-volume/contains" otherprops="contains"></section>
+<section conkeyref="content-models-volume/volume.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/volume </p></section>
+<section conkeyref="inheritance-volume/volume.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmeta>
   &lt;bookid>&lt;volume>2&lt;/volume>&lt;/bookid>
 &lt;/bookmeta></codeblock></example>

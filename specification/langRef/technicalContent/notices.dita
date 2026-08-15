@@ -11,12 +11,11 @@ with the book.</shortdesc>
 <indexterm>notices</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-notices/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-notices/notices.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/notices </p></section>
+<section conkeyref="inheritance-notices/notices.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This example
 references a notices topic that contains legal content.</p><codeblock>&lt;backmatter&gt;
   &lt;notices href="notices.dita" navtitle="Legal notices"/&gt;

@@ -14,12 +14,11 @@
 <indexterm>bookevent</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-bookevent/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-bookevent/bookevent.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/bookevent </p></section>
+<section conkeyref="inheritance-bookevent/bookevent.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookchangehistory.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

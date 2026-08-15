@@ -11,10 +11,9 @@ glossary term (such as part of speech or additional forms of the term).</shortde
                elements<indexterm><xmlelement>glossBody</xmlelement></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossBody/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossBody/glossBody.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/body concept/conbody glossentry/glossBody </p></section>
+<section conkeyref="inheritance-glossBody/glossBody.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

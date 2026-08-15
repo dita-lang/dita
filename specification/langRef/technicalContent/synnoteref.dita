@@ -14,12 +14,11 @@ conref="apiname.dita#apiname/progdomainelement"/></shortdesc>
             <indexterm>syntax diagrams<indexterm>note references</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-synnoteref/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-synnoteref/synnoteref.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/xref pr-d/synnoteref </p></section>
+<section conkeyref="inheritance-synnoteref/synnoteref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;synnoteref href="#topicid/mysyn"/&gt;
 </codeblock> </example>
 <section id="attributes">       <title>Attributes</title>

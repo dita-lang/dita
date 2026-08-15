@@ -10,12 +10,11 @@ for use of world wide web consortium standards. </shortdesc>
 elements<indexterm>lcW3C</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcW3C/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-lcW3C/lcW3C.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/fig learningBase/fig learningPlan/lcW3C </p></section>
+<section conkeyref="inheritance-lcW3C/lcW3C.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>
 ...
   &lt;lcW3C>&lt;p>Whenever possible, stand up and do a W3C.&lt;/p>&lt;/lcW3C>

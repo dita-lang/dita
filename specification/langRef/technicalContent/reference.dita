@@ -23,12 +23,11 @@
           <xmlelement>refsyn</xmlelement> for syntax or signatures, and
           <xmlelement>properties</xmlelement> for lists of properties and values</p>
     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-reference/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-reference/reference.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/topic       reference/reference </p></section>
+<section conkeyref="inheritance-reference/reference.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig><title>Reference
 topic for software material</title>
 <codeblock>&lt;reference id="refexample"&gt;

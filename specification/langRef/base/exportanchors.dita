@@ -44,13 +44,8 @@
             values to be resolved live in that publishing system.</p>
          <p conref="../../common/conref-file.dita#reuse_file/export-anchors-disclaimer"/>
       </section>
-      <section id="contains"
-         conref="../../common/commonNavLibraryTable.dita#contentmodel-exportanchors/contains"
-         otherprops="contains"/>
-      <section id="inheritance" otherprops="inheritance">
-         <title>Inheritance</title>
-         <p>+ topic/keywords delay-d/exportanchors </p>
-      </section>
+      <section conkeyref="content-models-exportanchors/exportanchors.element" id="content-model"/>
+      <section conkeyref="inheritance-exportanchors/exportanchors.inheritance" id="inheritance"/>
       <!--Pull in examples for both anchorid and anchorkey-->
       <example conref="anchorid.dita#anchorid/example" id="example" otherprops="examples"/>
       <example conref="anchorkey.dita#anchorkey/example" id="example2" otherprops="examples"/>

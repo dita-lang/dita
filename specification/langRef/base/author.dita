@@ -15,9 +15,8 @@ the name of the topic's   author. </shortdesc>
 <section id="section-1">    <p>The author is usually the person, organization, or
 application that created the content. This     element is equivalent
 to the <xmlelement>Creator</xmlelement> element in Dublin Core.</p>   </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-author/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">    <title>Inheritance</title> 
-  <p>- topic/author </p>   </section>
+<section conkeyref="content-models-author/author.element" id="content-model"/>
+<section conkeyref="inheritance-author/author.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <codeblock xml:space="preserve">&lt;prolog&gt;

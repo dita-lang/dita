@@ -14,9 +14,8 @@ it, and add one or more safety symbols.</shortdesc>
         <indexterm>hazard statement domain<indexterm>hazardstatement</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-hazardstatement/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/note hazard-d/hazardstatement </p></section>
+<section conkeyref="content-models-hazardstatement/hazardstatement.element" id="content-model"/>
+<section conkeyref="inheritance-hazardstatement/hazardstatement.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p> <keyword>Danger:</keyword> Indicates
 an imminently hazardous situation which, if not avoided, <b>will</b> result
 in death or serious injury. <codeblock

@@ -63,9 +63,8 @@
               <xmlelement>relcolspec</xmlelement>, a rendering tool <ph 
               >might</ph> choose to generate a title for the links generated from that column.</li>
         </ul></p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-relcolspec/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/relcolspec </p></section>
+<section conkeyref="content-models-relcolspec/relcolspec.element" id="content-model"/>
+<section conkeyref="inheritance-relcolspec/relcolspec.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example, a relationship table is defined with three columns; one for "concept", one for
         "task", and one for "reference". Three cells are defined within one row. The first cell
         contains one concept topic: <filepath>puffins.dita</filepath>. The second cell contains two

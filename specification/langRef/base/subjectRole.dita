@@ -18,9 +18,8 @@ provided by that column.</shortdesc>
                                 elements<indexterm><xmlelement>subjectRole</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectRole/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/relcell subjectScheme/subjectRole </p></section>
+<section conkeyref="content-models-subjectRole/subjectRole.element" id="content-model"/>
+<section conkeyref="inheritance-subjectRole/subjectRole.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>For a complete example in the context of the <xmlelement>subjectRelTable</xmlelement>, see <xref

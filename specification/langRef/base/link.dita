@@ -25,9 +25,8 @@
         with other local or map-based links); links in a <xmlelement>linklist</xmlelement> should be
         displayed in the order they are defined. Refer to those elements for additional
         explanation.</ph></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-link/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/link </p></section>
+<section conkeyref="content-models-link/link.element" id="content-model"/>
+<section conkeyref="inheritance-link/link.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;related-links&gt;
   &lt;linkpool type="concept"&gt;
     &lt;link href="czez.dita#czez" role="next">&lt;/link>

@@ -22,12 +22,9 @@
         and the MathML with appropriate HTML <xmlatt>class</xmlatt> or <xmlatt>id</xmlatt> values to
         enable dynamic showing or hiding of one form or the other based on browser capability.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-equation-inline/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-equation-inline/equation-inline.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/ph equation-d/equation-inline </p>
-    </section>
+    <section conkeyref="inheritance-equation-inline/equation-inline.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>The following example contains a paragraph that contains an

@@ -17,12 +17,11 @@ users typically consult to understand programming objects, <!--statements, comma
 file options, recipes, terminological descriptions, product or other
 specifications, equipment or parts lists, or any other set of factual
 information. </p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-refbody/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-refbody/refbody.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/body        reference/refbody </p></section>
+<section conkeyref="inheritance-refbody/refbody.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="reference.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

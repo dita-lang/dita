@@ -19,9 +19,8 @@
             restyled. Thus, it is not the case that content in <xmlelement>tt</xmlelement> elements
             will necessarily be rendered as monospaced.</note>
       </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-tt/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph hi-d/tt </p></section>
+<section conkeyref="content-models-tt/tt.element" id="content-model"/>
+<section conkeyref="inheritance-tt/tt.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
          <title>Example</title>
          <codeblock xml:space="preserve">&lt;p&gt;Make sure that the screen displays &lt;tt&gt;File successfully created&lt;/tt&gt; before

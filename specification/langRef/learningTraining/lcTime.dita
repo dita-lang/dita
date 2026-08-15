@@ -12,11 +12,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcTime/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcTime/lcTime.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/data learningBase/lcTime </p>
-		</section>
+		<section conkeyref="inheritance-lcTime/lcTime.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
   <title>Example</title>
   <codeblock>

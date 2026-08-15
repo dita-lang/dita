@@ -12,9 +12,8 @@
 <keywords><indexterm>no-topic-nesting</indexterm><indexterm>specialization elements<indexterm>no-topic-nesting</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-no-topic-nesting/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/no-topic-nesting </p></section>
+<section conkeyref="content-models-no-topic-nesting/no-topic-nesting.element" id="content-model"/>
+<section conkeyref="inheritance-no-topic-nesting/no-topic-nesting.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p><i>This element is not intended to be used in source files.</i></p></example>
 <section id="attributes"><title>Attributes</title>
    <p>The following attributes are available on this element: <xref

@@ -14,9 +14,8 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dthd/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/dthd </p></section>
+<section conkeyref="content-models-dthd/dthd.element" id="content-model"/>
+<section conkeyref="inheritance-dthd/dthd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig
 conref="dl.dita#dl/complexexample"></fig></example>
 <section id="attributes"><title>Attributes</title>

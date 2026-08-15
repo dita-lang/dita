@@ -14,9 +14,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>elementdef</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-elementdef/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data subjectScheme/elementdef </p></section>
+<section conkeyref="content-models-elementdef/elementdef.element" id="content-model"/>
+<section conkeyref="inheritance-elementdef/elementdef.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example, the <xmlatt>value</xmlatt> attribute for the
           <xmlelement>lomDifficulty</xmlelement> element is bound to a specified set of values.
         Processors should limit the values for the <xmlatt>value</xmlatt> attribute on the

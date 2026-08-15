@@ -9,11 +9,9 @@
 </keywords>
 </metadata></prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcAge/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcAge/lcAge.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/p learningBase/p learningPlan/lcAge </p>
-		</section>
+		<section conkeyref="inheritance-lcAge/lcAge.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <codeblock>
 ...

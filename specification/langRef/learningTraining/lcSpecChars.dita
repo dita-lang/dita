@@ -15,11 +15,9 @@ disabilities, physical handicaps, and so forth.
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcSpecChars/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcSpecChars/lcSpecChars.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/p learningBase/p learningPlan/lcSpecChars </p>
-</section>
+		<section conkeyref="inheritance-lcSpecChars/lcSpecChars.inheritance" id="inheritance"/>
 
 <example id="example" otherprops="examples">
 <title>Example</title>

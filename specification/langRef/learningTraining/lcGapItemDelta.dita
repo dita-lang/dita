@@ -12,11 +12,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcGapItemDelta/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcGapItemDelta/lcGapItemDelta.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/p learningBase/p learningPlan/lcGapItemDelta </p>
-		</section>
+		<section conkeyref="inheritance-lcGapItemDelta/lcGapItemDelta.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 			<title>Example: lcGapAnalysis</title>
 			<codeblock>

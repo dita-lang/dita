@@ -14,9 +14,8 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-colspec/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>- topic/colspec
-      </p></section>
+    <section conkeyref="content-models-colspec/colspec.element" id="content-model"/>
+    <section conkeyref="inheritance-colspec/colspec.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples"><title>Example</title><p>See <xref href="table.dita"/>.</p></example>
     <section id="attributes"><title>Attributes</title>
       <p>The following attributes are available on this element: <xref

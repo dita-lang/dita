@@ -16,10 +16,8 @@ the text for generated links that point to the specified topic.</ph></shortdesc>
     <indexterm>links<indexterm>labels</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-linktext/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>"-
-topic/linktext " when used in topics, and "- map/linktext " when used
-in maps.</p></section>
+<section conkeyref="content-models-linktext/linktext.element" id="content-model"/>
+<section conkeyref="inheritance-linktext/linktext.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;link href="tzover.htm#accsqlj"&gt;
  &lt;linktext&gt;Accessing relational data with SQLJ&lt;/linktext&gt;

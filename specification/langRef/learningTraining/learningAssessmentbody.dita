@@ -11,10 +11,9 @@ and training elements<indexterm>learningAssessmentbody</indexterm></indexterm>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningAssessmentbody/contains" otherprops="contains"></section>
+<section conkeyref="content-models-learningAssessmentbody/learningAssessmentbody.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody </p> 		</section>
+<section conkeyref="inheritance-learningAssessmentbody/learningAssessmentbody.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"> <title>Example</title> <p>See <xref
 href="learningAssessment.dita#learningAssessment/example">learningAssessment</xref>.</p> </example>
 <section id="attributes"><title>Attributes</title>

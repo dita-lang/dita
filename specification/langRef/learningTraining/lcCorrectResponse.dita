@@ -22,14 +22,11 @@
         setting the <xmlatt>value</xmlatt> attribute of <xmlelement>lcCorrectResponse</xmlelement>
         to the id of the "correct" area in the image map.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcCorrectResponse/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcCorrectResponse/lcCorrectResponse.element" id="content-model"/>
     
 
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/data learningInteractionBase-d/data learning-d/lcCorrectResponse </p>
-    </section>
+    <section conkeyref="inheritance-lcCorrectResponse/lcCorrectResponse.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

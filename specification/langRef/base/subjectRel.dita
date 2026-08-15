@@ -16,9 +16,8 @@ the subjects instead of links between topic documents.</shortdesc>
                                 elements<indexterm><xmlelement>subjectRel</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectRel/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/relrow subjectScheme/subjectRel </p></section>
+<section conkeyref="content-models-subjectRel/subjectRel.element" id="content-model"/>
+<section conkeyref="inheritance-subjectRel/subjectRel.inheritance" id="inheritance"/>
         <example id="example" otherprops="examples">
             <title>Example</title>
             <p>For a complete example in the context of the

@@ -12,10 +12,9 @@ with it. </shortdesc>
 <indexterm>published</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-published/contains" otherprops="contains"></section>
+<section conkeyref="content-models-published/published.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/published </p></section>
+<section conkeyref="inheritance-published/published.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="publisherinformation.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

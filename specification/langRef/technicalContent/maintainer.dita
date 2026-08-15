@@ -11,12 +11,11 @@
 <indexterm>maintainer</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-maintainer/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-maintainer/maintainer.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/maintainer </p></section>
+<section conkeyref="inheritance-maintainer/maintainer.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookmeta.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

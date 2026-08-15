@@ -13,9 +13,8 @@
 <refbody>
 <section id="section-1">       <p>The <xmlelement>permissions</xmlelement> element indicates any preferred controls for
         access to content.</p>     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-permissions/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">       <title>Inheritance</title> 
-     <p>- topic/permissions </p>     </section>
+<section conkeyref="content-models-permissions/permissions.element" id="content-model"/>
+<section conkeyref="inheritance-permissions/permissions.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock xml:space="preserve">&lt;prolog&gt;

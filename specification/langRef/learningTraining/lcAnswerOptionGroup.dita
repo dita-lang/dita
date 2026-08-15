@@ -18,14 +18,11 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcAnswerOptionGroup/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcAnswerOptionGroup/lcAnswerOptionGroup.element" id="content-model"/>
     
 
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/ul learningInteractionBase-d/ul learning-d/lcAnswerOptionGroup </p>
-    </section>
+    <section conkeyref="inheritance-lcAnswerOptionGroup/lcAnswerOptionGroup.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

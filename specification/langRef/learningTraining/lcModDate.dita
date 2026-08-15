@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="lcModDate" xml:lang="en-us"><title><xmlelement>lcModDate</xmlelement></title><shortdesc>The <xmlelement>lcModDate</xmlelement> provides the project modification date.
 </shortdesc>
-<prolog><metadata><keywords><indexterm>lcModDate</indexterm><indexterm>learning and training elements<indexterm>lcModDate</indexterm></indexterm></keywords></metadata></prolog><refbody><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcModDate/contains" otherprops="contains"></section><section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>- topic/fig learningBase/fig learningPlan/lcModDate </p></section>
+<prolog><metadata><keywords><indexterm>lcModDate</indexterm><indexterm>learning and training elements<indexterm>lcModDate</indexterm></indexterm></keywords></metadata></prolog><refbody><section conkeyref="content-models-lcModDate/lcModDate.element" id="content-model"/><section conkeyref="inheritance-lcModDate/lcModDate.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <codeblock>
    &lt;lcModDate>

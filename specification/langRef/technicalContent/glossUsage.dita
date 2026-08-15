@@ -12,10 +12,9 @@ the correct use of a term, such as where or how it can be used.</shortdesc>
                         elements<indexterm><xmlelement>glossUsage</xmlelement></indexterm></indexterm><indexterm><xmlelement>glossUsage</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossUsage/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossUsage/glossUsage.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/note concept/note glossentry/glossUsage </p></section>
+<section conkeyref="inheritance-glossUsage/glossUsage.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
         <title>Example</title>
         <p>See the example in <xref href="glossentry.dita#glossentry/example"

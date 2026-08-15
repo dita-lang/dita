@@ -15,10 +15,9 @@ the structure of a concept is fairly simple.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-concept/contains" otherprops="contains"></section>
+<section conkeyref="content-models-concept/concept.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/topic concept/concept </p></section>
+<section conkeyref="inheritance-concept/concept.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <codeblock conref="../../common/conref-file.dita#reuse_file/concept-codeblock"/></example>
 <section id="attributes"><title>Attributes</title><sectiondiv

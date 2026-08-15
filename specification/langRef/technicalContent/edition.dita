@@ -11,10 +11,9 @@ to identify a book.</shortdesc>
 <indexterm>edition</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-edition/contains" otherprops="contains"></section>
+<section conkeyref="content-models-edition/edition.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/edition </p></section>
+<section conkeyref="inheritance-edition/edition.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmeta>
   &lt;bookid>
     &lt;edition>1&lt;/edition>

@@ -24,9 +24,8 @@
       you to group elements that describe the content or subject of the target. The primary purpose
       for enabling the <xmlelement>metadata</xmlelement> element within maps is to allow easier
       reuse between topics and maps.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-metadata/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/metadata </p></section>
+<section conkeyref="content-models-metadata/metadata.element" id="content-model"/>
+<section conkeyref="inheritance-metadata/metadata.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>Metadata within a topic:</p><codeblock>&lt;prolog&gt;
   <b>&lt;metadata&gt;</b>
     &lt;audience type="user" job="using" experiencelevel="novice"/&gt;

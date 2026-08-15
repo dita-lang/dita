@@ -16,9 +16,8 @@
               elements<indexterm><xmlelement>subjectHead</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectHead/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/subjectHead </p></section>
+<section conkeyref="content-models-subjectHead/subjectHead.element" id="content-model"/>
+<section conkeyref="inheritance-subjectHead/subjectHead.inheritance" id="inheritance"/>
 <example conref="../../common/conref-examples.dita#conref-examples/example-subjectHead" id="example" otherprops="examples"/>
 <!--<example id="example"><title>Example</title><p>In this example the <q>Server setup</q> label doesn't classify content but, when selected, is equivalent to the union of its child subjects. That is, the heading covers content about planning for any application, installing for any application, any task for web servers, or any task for database servers.</p><codeblock>&lt;subjectScheme toc="yes" search="no">
   ...

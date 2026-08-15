@@ -24,10 +24,8 @@
       element, which used in the result summary for many search engines. This element <ph
         >might</ph> not be supported for output formats that do not support
       distinct search titles for topics.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-searchtitle/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>"-
-topic/searchtitle " when used in topics, and "- map/searchtitle "
-when used in maps.</p></section>
+<section conkeyref="content-models-searchtitle/searchtitle.element" id="content-model"/>
+<section conkeyref="inheritance-searchtitle/searchtitle.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In the
 following example, the general title "Programming Example" is likely
 very useful in a set of information about XSLT basics; however, the

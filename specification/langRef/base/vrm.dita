@@ -10,9 +10,8 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-vrm/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/vrm </p></section>
+<section conkeyref="content-models-vrm/vrm.element" id="content-model"/>
+<section conkeyref="inheritance-vrm/vrm.inheritance" id="inheritance"/>
 <example conref="vrmlist.dita#vrmlist/example" id="example" otherprops="examples"/>
 <section id="attributes"><title>Attributes</title>
    <p >The following attributes are available on this element: <xref

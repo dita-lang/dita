@@ -16,16 +16,8 @@
 		</keywords> </metadata>
   </prolog> 
   <refbody> 
-	 <section id="contains"
-	  conref="../../common/commonNavLibraryTable.dita#contentmodel-learningSummary/contains"
-	  otherprops="contains">
-	 </section> 
-	 <section id="inheritance" otherprops="inheritance"> 
-		<title>Inheritance</title>
-		<p>- topic/topic learningBase/learningBase
-		  learningSummary/learningSummary 
-		</p> 
-	 </section> 
+	 <section conkeyref="content-models-learningSummary/learningSummary.element" id="content-model"/> 
+	 <section conkeyref="inheritance-learningSummary/learningSummary.inheritance" id="inheritance"/> 
 	 <example id="example" otherprops="examples"> id="learningSummary_ex"&gt; 
 		<title>Example</title> 
 		<codeblock>

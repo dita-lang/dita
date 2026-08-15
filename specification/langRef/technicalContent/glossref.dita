@@ -20,12 +20,11 @@ and expanded versions of that acronym.</shortdesc>
       situations where the same term or acronym <ph >might</ph> resolve in many
       ways. For example, an information set could use <q>cars.abs</q> as the key for the term Anti-lock
       Braking System, and <q>ship.abs</q> to refer to the term American Bureau of Shipping.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-glossref/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossref/glossref.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/topicref glossref-d/glossref </p></section>
+<section conkeyref="inheritance-glossref/glossref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;map>
   &lt;!-- ... -->
   &lt;topicref href="car-maintenance.dita"/>

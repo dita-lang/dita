@@ -39,9 +39,8 @@ the content is rendered at the target <xmlelement>anchor</xmlelement> element.</
                     <codeph>toc="no"</codeph> on the <xmlelement>anchorref</xmlelement> element, and
                 then set <codeph>toc="yes"</codeph> on each of its children so that they will not
                 inherit the <codeph>toc="no"</codeph> setting.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-anchorref/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/topicref mapgroup-d/anchorref </p></section>
+<section conkeyref="content-models-anchorref/anchorref.element" id="content-model"/>
+<section conkeyref="inheritance-anchorref/anchorref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig><title>Initial map
 contents</title>
 <codeblock>&lt;topicref href="carPrep.dita">

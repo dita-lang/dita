@@ -13,12 +13,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-propvalue/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-propvalue/propvalue.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/stentry     reference/propvalue </p></section>
+<section conkeyref="inheritance-propvalue/propvalue.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="properties.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

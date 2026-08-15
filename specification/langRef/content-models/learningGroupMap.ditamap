@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-data-about"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-data-about" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-data" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-data" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-unknown"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-unknown" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-foreign"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-foreign" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-title" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-title" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-navtitle"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-navtitle" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-desc" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-desc" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-p" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-p" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-note" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-note" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-longquoteref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-longquoteref"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lq" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lq" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-q" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-q" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-sl" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-sl" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-sli" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-sli" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ul" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ul" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ol" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ol" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-li" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-li" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-itemgroup"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-itemgroup" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dl" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dl" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dlhead"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dlhead" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dthd" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dthd" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ddhd" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ddhd" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dlentry"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dlentry" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dt" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dt" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dd" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dd" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-fig" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-fig" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-figgroup"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-figgroup" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-pre" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-pre" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lines" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lines" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-div" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-div" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-text" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-text" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-keyword"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-keyword" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-term" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-term" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ph" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ph" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-tm" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-tm" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-boolean"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-boolean" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-state" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-state" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-image" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-image" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-alt" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-alt" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-longdescref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-longdescref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-object"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-object" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-param" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-param" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-simpletable"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-simpletable" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-sthead"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-sthead" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-strow" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-strow" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-stentry"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-stentry" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-draft-comment"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-draft-comment"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-required-cleanup"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-required-cleanup"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-fn" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-fn" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-indexterm"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-indexterm" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-index-base"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-index-base" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-indextermref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-indextermref"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-cite" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-cite" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-xref" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-xref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-table" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-table" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-tgroup"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-tgroup" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-colspec"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-colspec" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-thead" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-thead" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-tbody" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-tbody" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-row" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-row" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-entry" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-entry" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-author"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-author" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-source"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-source" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-publisher"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-publisher" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-copyright"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-copyright" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-copyryear"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-copyryear" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-copyrholder"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-copyrholder" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-critdates"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-critdates" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-created"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-created" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-revised"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-revised" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-permissions"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-permissions" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-category"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-category" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-metadata"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-metadata" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-audience"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-audience" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-keywords"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-keywords" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-prodinfo"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-prodinfo" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-prodname"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-prodname" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-vrmlist"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-vrmlist" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-vrm" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-vrm" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-brand" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-brand" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-series"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-series" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-platform"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-platform" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-prognum"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-prognum" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-featnum"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-featnum" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-component"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-component" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-othermeta"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-othermeta" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-resourceid"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-resourceid" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-map" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-map" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-navref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-navref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-topicref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-topicref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-anchor"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-anchor" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-reltable"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-reltable" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-relheader"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-relheader" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-relcolspec"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-relcolspec" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-relrow"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-relrow" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-relcell"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-relcell" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-topicmeta"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-topicmeta" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-shortdesc"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-shortdesc" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-linktext"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-linktext" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-searchtitle"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-searchtitle" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ux-window"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ux-window" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-topichead"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-topichead" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-topicgroup"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-topicgroup" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-anchorref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-anchorref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-mapref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-mapref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-topicset"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-topicset" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-topicsetref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-topicsetref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-keydef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-keydef" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningGroupMap"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningGroupMap"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-exportanchors"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-exportanchors"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-anchorid"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-anchorid" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-anchorkey"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-anchorkey" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ditavalref"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ditavalref" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-ditavalmeta"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-ditavalmeta" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dvrResourcePrefix"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dvrResourcePrefix"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dvrResourceSuffix"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dvrResourceSuffix"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dvrKeyscopePrefix"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dvrKeyscopePrefix"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-dvrKeyscopeSuffix"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-dvrKeyscopeSuffix"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-hazardstatement"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-hazardstatement"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-hazardsymbol"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-hazardsymbol"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-messagepanel"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-messagepanel"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-typeofhazard"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-typeofhazard"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-consequence"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-consequence" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-howtoavoid"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-howtoavoid" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-b" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-b" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-u" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-u" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-i" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-i" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-line-through"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-line-through"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-overline"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-overline" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-tt" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-tt" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-sup" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-sup" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-sub" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-sub" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-index-see"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-index-see" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-index-see-also"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-index-see-also"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-index-sort-as"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-index-sort-as"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningGroup"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningGroup"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningObject"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningObject"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningPlanRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningPlanRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningOverviewRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningOverviewRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningSummaryRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningSummaryRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningContentRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningContentRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningContentComponentRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningContentComponentRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningPreAssessmentRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningPreAssessmentRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningPostAssessmentRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningPostAssessmentRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningGroupMapRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningGroupMapRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-learningObjectMapRef"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-learningObjectMapRef"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lcLom" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lcLom" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomStructure"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomStructure"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomCoverage"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomCoverage" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomAggregationLevel"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomAggregationLevel"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomTechRequirement"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomTechRequirement"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomInstallationRemarks"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomInstallationRemarks"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomOtherPlatformRequirements"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomOtherPlatformRequirements"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomInteractivityType"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomInteractivityType"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomLearningResourceType"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomLearningResourceType"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomInteractivityLevel"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomInteractivityLevel"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomSemanticDensity"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomSemanticDensity"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomIntendedUserRole"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomIntendedUserRole"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomContext"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomContext" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomTypicalAgeRange"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomTypicalAgeRange"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomDifficulty"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomDifficulty"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-lomTypicalLearningTime"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-lomTypicalLearningTime"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-historylist"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-historylist"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-item"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-item" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-person"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-person"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-organization"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-organization"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-revisionid"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-revisionid"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-request-reference"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-request-reference"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-request-system"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-request-system"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-request-id"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-request-id"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-started"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-started"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-completed"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-completed"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-change-summary"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-change-summary"
+            href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-imagemap"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-imagemap" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-area" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-area" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-shape" href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-shape" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-coords"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-coords" href="learningGroupMap.dita#inheritance"/>
+   <keydef keys="content-models-sort-as"
+            href="learningGroupMap.dita#content-models"/>
+   <keydef keys="inheritance-sort-as" href="learningGroupMap.dita#inheritance"/>
+</map>

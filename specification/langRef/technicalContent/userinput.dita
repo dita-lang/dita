@@ -13,12 +13,11 @@ information.</shortdesc>
                elements<indexterm><xmlelement>userinput</xmlelement></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-userinput/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-userinput/userinput.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph sw-d/userinput </p></section>
+<section conkeyref="inheritance-userinput/userinput.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;p&gt;After you type &lt;userinput&gt;mealplan dinner&lt;/userinput&gt;, the meal planning program
 will print a &lt;systemoutput&gt;For what day?&lt;/systemoutput&gt; message.

@@ -16,10 +16,7 @@
    </keywords>
   </metadata>
  </prolog>
- <refbody><section conref="../../common/commonNavLibraryTable.dita#contentmodel-othermeta/contains" id="contains" otherprops="contains"></section><section id="inheritance" otherprops="inheritance">
-   <title>Inheritance</title>
-   <p>- topic/othermeta </p>
-  </section>
+ <refbody><section conkeyref="content-models-othermeta/othermeta.element" id="content-model"/><section conkeyref="inheritance-othermeta/othermeta.inheritance" id="inheritance"/>
   <example id="example" otherprops="examples">
    <title>Example</title>
    <codeblock xml:space="preserve">&lt;othermeta name="ThreadWidthSystem" content="metric"/&gt;</codeblock>

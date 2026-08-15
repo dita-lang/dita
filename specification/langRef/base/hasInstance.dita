@@ -13,9 +13,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>hasInstance</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-hasInstance/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/hasInstance </p></section>
+<section conkeyref="content-models-hasInstance/hasInstance.element" id="content-model"/>
+<section conkeyref="inheritance-hasInstance/hasInstance.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This example specifies
 that New York City, Reykjavik, and Moscow are each specific instances
 of a city.</p><codeblock>&lt;subjectScheme>

@@ -18,9 +18,8 @@
     </metadata>
   </prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-title/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/title </p></section>
+<section conkeyref="content-models-title/title.element" id="content-model"/>
+<section conkeyref="inheritance-title/title.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
    <codeblock >&lt;topic id="topicid">
   &lt;title <b>rev="121212"</b>>Monitoring the patient following the procedure

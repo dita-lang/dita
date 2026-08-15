@@ -65,9 +65,8 @@ element within the &lt;body> element. Customized or specialized processing
 can render property values, given an appropriate specification of
 which values should be displayed, in which outputs, and how and where
 they should appear in output.</p>--> </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-data/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"> <title>Inheritance</title><p>-
-topic/data </p> </section>
+<section conkeyref="content-models-data/data.element" id="content-model"/>
+<section conkeyref="inheritance-data/data.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>Uses of the <xmlelement>data</xmlelement> element <ph >can</ph> include the
         following:</p><ul>
 <li>Complex metadata properties such as bibliographic records corresponding

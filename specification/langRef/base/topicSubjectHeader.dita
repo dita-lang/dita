@@ -17,9 +17,8 @@ the subject for a different category. <ph >As a best practice,</ph> the subjects
 must appear in the category in the subject scheme. For instance, if the cell within the header row
 specifies the Operating System category, the subjects in the column must be kinds of operating
 systems.</section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-topicSubjectHeader/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/relrow classify-d/topicSubjectHeader </p></section>
+<section conkeyref="content-models-topicSubjectHeader/topicSubjectHeader.element" id="content-model"/>
+<section conkeyref="inheritance-topicSubjectHeader/topicSubjectHeader.inheritance" id="inheritance"/>
         <example id="example" otherprops="examples">
             <title>Example</title>
             <p>For a complete example in the context of the

@@ -16,12 +16,11 @@ designed to document programming tasks, concepts, and reference information.</ph
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-apiname/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-apiname/apiname.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword pr-d/apiname </p></section>
+<section conkeyref="inheritance-apiname/apiname.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;p&gt;Use the &lt;apiname&gt;document.write&lt;/apiname&gt; method to create text 
 output in the dynamically constructed view.&lt;/p&gt;</codeblock></example>

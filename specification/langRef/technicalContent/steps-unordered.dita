@@ -19,12 +19,11 @@
     element each) then the step list should default to compact. Otherwise it should be rendered as
     expanded (with blank lines between each step).</p>
    <!--<note conref="steps.dita#steps/multiple-steps"/>--></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-steps-unordered/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-steps-unordered/steps-unordered.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ul task/steps-unordered </p></section>
+<section conkeyref="inheritance-steps-unordered/steps-unordered.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;task id="sqlj"&gt;
  &lt;title&gt;Creating an SQLJ file&lt;/title&gt;

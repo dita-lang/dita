@@ -11,12 +11,11 @@ that there are no safety conditions that must be considered.</shortdesc>
 <keywords><indexterm>safety</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-safety/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-safety/safety.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ol task/ol taskreq-d/safety</p></section>
+<section conkeyref="inheritance-safety/safety.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock><b>&lt;safety></b>
   &lt;safecond>All power sources disconnected from the system.&lt;/safecond>
   &lt;safecond>All networking cables disconnected from the system.&lt;/safecond>

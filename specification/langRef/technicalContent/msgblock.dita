@@ -22,12 +22,11 @@
   </metadata>
  </prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-msgblock/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-msgblock/msgblock.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/pre sw-d/msgblock </p></section>
+<section conkeyref="inheritance-msgblock/msgblock.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;p&gt;A sequence of failed password attempts generates the following
 characteristic message stream:&lt;/p&gt;
 &lt;msgblock&gt;

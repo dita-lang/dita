@@ -21,11 +21,8 @@
           </ph><xmlelement>section</xmlelement> element, a nested <xmlelement>topic</xmlelement>, or
         possibly a <xmlelement>fig</xmlelement> element.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-div/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/div </p>
-    </section>
+    <section conkeyref="content-models-div/div.element" id="content-model"/>
+    <section conkeyref="inheritance-div/div.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <fig id="fig_fcx_sbs_sn">

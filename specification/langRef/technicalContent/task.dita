@@ -26,12 +26,11 @@ one set of steps. However, OASIS will continue to distribute a sample
 document type that only allows a single set (using the new constraints
 mechanism available with DITA 1.2), for use by those that prefer the
 more restrictive model.</section>-->
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-task/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-task/task.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/topic task/task </p></section>
+<section conkeyref="inheritance-task/task.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;task id="sqlj"&gt;
  &lt;title&gt;Creating an SQLJ file&lt;/title&gt;

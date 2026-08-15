@@ -14,9 +14,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>defaultSubject</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-defaultSubject/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/defaultSubject </p></section>
+<section conkeyref="content-models-defaultSubject/defaultSubject.element" id="content-model"/>
+<section conkeyref="inheritance-defaultSubject/defaultSubject.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following example declares that each of the four defined "os" values is valid within the
           <xmlatt>platform</xmlatt> attribute; if no value is specified, the default is "linux".</p><codeblock>&lt;subjectScheme>
   &lt;subjectdef keys="os">

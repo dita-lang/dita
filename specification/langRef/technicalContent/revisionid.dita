@@ -12,12 +12,11 @@ example "-01", or a period, such as ".01".</shortdesc>
 <indexterm>revisionid</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-revisionid/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-revisionid/revisionid.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ph bookmap/revisionid </p></section>
+<section conkeyref="inheritance-revisionid/revisionid.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookchangehistory>
   &lt;edited>
     &lt;person>Joe T. Editor&lt;/person>

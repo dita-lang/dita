@@ -26,9 +26,8 @@ has links to the other participants in that relationship. </shortdesc>
 element. For example, the <xmlatt>linking</xmlatt> attribute controls how a topic&apos;s
 relationships to other topics are expressed as links, and the <xmlatt>toc</xmlatt> attribute
 controls whether the topic shows up in TOC or navigation output.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topicref/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref </p></section>
+<section conkeyref="content-models-topicref/topicref.element" id="content-model"/>
+<section conkeyref="inheritance-topicref/topicref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>In this example, there are six <xmlelement>topicref</xmlelement> elements. They are nested and

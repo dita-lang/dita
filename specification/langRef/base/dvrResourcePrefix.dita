@@ -29,11 +29,8 @@
           <xmlatt>copy-to</xmlatt> attribute defined in <xref
           href="../attributes/topicrefElementAttributes.dita#topicref-element-atts"/>.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dvrResourcePrefix/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/data ditavalref-d/dvrResourcePrefix </p>
-    </section>
+    <section conkeyref="content-models-dvrResourcePrefix/dvrResourcePrefix.element" id="content-model"/>
+    <section conkeyref="inheritance-dvrResourcePrefix/dvrResourcePrefix.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>If the <xmlelement>dvrResourcePrefix</xmlelement> is specified in the following

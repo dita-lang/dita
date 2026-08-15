@@ -9,10 +9,9 @@ that no supplies are needed to perform a task.</shortdesc>
 <keywords><indexterm>nosupply</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-nosupply/contains" otherprops="contains"></section>
+<section conkeyref="content-models-nosupply/nosupply.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-	topic/data task/data taskreq-d/nosupply</p></section>
+<section conkeyref="inheritance-nosupply/nosupply.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supplies>
 	&lt;nosupply/>
 &lt;/supplies></codeblock></example>

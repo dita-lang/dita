@@ -15,9 +15,9 @@ the primary value in the <xmlelement>glossterm</xmlelement> element.</shortdesc>
 <section id="section-1"><note>A list of synonyms is specific to the language, so translation of a
                <xmlelement>glossentry</xmlelement> topic might result in an empty
                <xmlelement>glossSynonym</xmlelement> element.</note></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossSynonym/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossSynonym/glossSynonym.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>- topic/title concept/title glossentry/glossSynonym </p></section>
+<section conkeyref="inheritance-glossSynonym/glossSynonym.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

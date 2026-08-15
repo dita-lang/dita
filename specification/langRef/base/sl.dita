@@ -17,9 +17,8 @@ in a kit or package.</shortdesc>
 <section id="section-1">On output, the list should have no bullets, on the assumption
 that each item is short enough to fit on one line, and needs no additional
 differentiation from its neighbors.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-sl/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/sl </p></section>
+<section conkeyref="content-models-sl/sl.element" id="content-model"/>
+<section conkeyref="inheritance-sl/sl.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In a reference topic
 discussing related modules, the following sample markup could be used:<codeblock
 xml:space="preserve">&lt;section&gt;&lt;title&gt;Messages&lt;/title&gt;

@@ -22,12 +22,9 @@
         MathML with appropriate HTML <xmlatt>class</xmlatt> or <xmlatt>id</xmlatt> values to enable
         dynamic showing or hiding of one form or the other based on browser capability.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-equation-block/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-equation-block/equation-block.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/<ph rev="errata-02">div</ph>equation-d/equation-block </p>
-    </section>
+    <section conkeyref="inheritance-equation-block/equation-block.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>In the following example, a block equation uses MathML as its content:</p>

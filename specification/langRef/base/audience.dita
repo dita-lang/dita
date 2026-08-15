@@ -22,11 +22,8 @@
         values, which <ph >can</ph> be restricted by using constraints or
         extended by using associated attributes. For instance, the <xmlatt>othertype</xmlatt>
         attribute can be used to extend the audience type enumeration.</p>
-    </section><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-audience/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/audience </p>
-    </section><example id="example" otherprops="examples">
+    </section><section conkeyref="content-models-audience/audience.element" id="content-model"/>
+<section conkeyref="inheritance-audience/audience.inheritance" id="inheritance"/><example id="example" otherprops="examples">
       <title>Example</title>
       <p>For a command reference topic for experienced programmers, the following might be an
         appropriate indication of that audience:</p>

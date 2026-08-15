@@ -10,12 +10,11 @@ a task.</shortdesc>
 <keywords><indexterm>supply</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-supply/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-supply/supply.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/supply</p></section>
+<section conkeyref="inheritance-supply/supply.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supplies>
   &lt;supplyli>
     <b>&lt;supply></b>gasket<b>&lt;/supply></b>

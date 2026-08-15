@@ -20,9 +20,8 @@
       mechanism that causes the content of this element to be rendered in draft output only. By
       default, processors <term  outputclass="RFC-2119">SHOULD</term> strip them
       out to prevent publishing internal comments by mistake.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-draft-comment/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/draft-comment </p></section>
+<section conkeyref="content-models-draft-comment/draft-comment.element" id="content-model"/>
+<section conkeyref="inheritance-draft-comment/draft-comment.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;draft-comment author="EBP"&gt;Where's the usage information for this 
 section?&lt;/draft-comment&gt;</codeblock></example>

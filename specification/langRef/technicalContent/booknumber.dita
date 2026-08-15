@@ -10,10 +10,9 @@ number, such as SC21-1920.</shortdesc>
 <indexterm>booknumber</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-booknumber/contains" otherprops="contains"></section>
+<section conkeyref="content-models-booknumber/booknumber.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/booknumber </p></section>
+<section conkeyref="inheritance-booknumber/booknumber.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example,
 "99F1234" is a part number assigned to this book by the publisher,
 while SC21-1234-00 is a number that identifies this book among all

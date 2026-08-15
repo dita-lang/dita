@@ -13,9 +13,8 @@
 <keywords><indexterm>prolog</indexterm><indexterm>prolog elements<indexterm>prolog</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-prolog/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/prolog </p></section>
+<section conkeyref="content-models-prolog/prolog.element" id="content-model"/>
+<section conkeyref="inheritance-prolog/prolog.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
       <title>Example</title><codeblock xml:space="preserve"><b>&lt;prolog&gt;</b>
   &lt;metadata&gt;

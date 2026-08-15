@@ -43,9 +43,8 @@ I've changed the text above to indicate that locktitle must be specified on the 
         in contexts where a navigation title does not make sense (for example, on the
           <xmlelement>topicgroup</xmlelement> element). In those situations, the
           <xmlelement>navtitle</xmlelement> element has no defined purpose.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-navtitle/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/navtitle </p></section>
+<section conkeyref="content-models-navtitle/navtitle.element" id="content-model"/>
+<section conkeyref="inheritance-navtitle/navtitle.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig>
         <title><xmlelement>navtitle</xmlelement> sample in a topic</title>
         <codeblock>&lt;task id="progexample">

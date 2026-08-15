@@ -23,11 +23,8 @@
         be restyled. Thus, it is not the case that content in <xmlelement>line-through</xmlelement>
         elements will necessarily be rendered with a line struck through.</note>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-line-through/contains" otherprops="contains"/>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/ph hi-d/line-through </p>
-    </section>
+    <section conkeyref="content-models-line-through/line-through.element" id="content-model"/>
+    <section conkeyref="inheritance-line-through/line-through.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock xml:space="preserve">&lt;p>Line-through: DITA technology can be

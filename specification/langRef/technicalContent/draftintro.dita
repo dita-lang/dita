@@ -10,10 +10,9 @@ introduction to the draft of this book.</shortdesc>
 <indexterm>draftintro</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-draftintro/contains" otherprops="contains"></section>
+<section conkeyref="content-models-draftintro/draftintro.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/draftintro </p></section>
+<section conkeyref="inheritance-draftintro/draftintro.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;frontmatter>
   &lt;draftintro href="introducing.dita"
               navtitle="Introduction to this draft"/>

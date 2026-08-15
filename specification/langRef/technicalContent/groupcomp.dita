@@ -18,12 +18,11 @@ method. <ph conref="apiname.dita#apiname/progdomainelement"/></shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-groupcomp/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-groupcomp/groupcomp.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/figgroup pr-d/groupcomp </p></section>
+<section conkeyref="inheritance-groupcomp/groupcomp.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram frame="bottom"&gt;
  &lt;title&gt;CopyFile&lt;/title&gt;
  &lt;groupseq&gt;&lt;kwd&gt;COPYF&lt;/kwd&gt;&lt;/groupseq&gt;

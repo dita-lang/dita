@@ -41,8 +41,8 @@ cross-reference to the appropriate target. </p>
                     level, making it possible for topics to be quickly integrated into new contexts
                     without breaking links.</p> 
    </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-xref/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title> <p>- topic/xref </p></section>
+<section conkeyref="content-models-xref/xref.element" id="content-model"/>
+<section conkeyref="inheritance-xref/xref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
                <title>Examples</title>
                <ul>

@@ -13,9 +13,8 @@ of products to which the topic applies.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-vrmlist/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/vrmlist </p></section>
+<section conkeyref="content-models-vrmlist/vrmlist.element" id="content-model"/>
+<section conkeyref="inheritance-vrmlist/vrmlist.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The recent versions of a hypothetical product might be logged thus using the
           <xmlelement>vrmlist</xmlelement> markup:</p><codeblock>&lt;prolog&gt;
  &lt;metadata&gt;

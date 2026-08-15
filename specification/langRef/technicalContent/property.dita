@@ -14,10 +14,9 @@ property.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-property/contains" otherprops="contains"></section>
+<section conkeyref="content-models-property/property.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/strow       reference/property </p></section>
+<section conkeyref="inheritance-property/property.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See <xref href="properties.dita"/>.</p>

@@ -10,12 +10,11 @@ including the library title, main title, subtitle, and other titles (as required
 <indexterm>booktitle</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-booktitle/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-booktitle/booktitle.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/title bookmap/booktitle </p></section>
+<section conkeyref="inheritance-booktitle/booktitle.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookmap.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

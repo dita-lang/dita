@@ -10,10 +10,9 @@ current skill set and the relevancy to the broader plan audience or a specific t
 elements<indexterm>lcSkills</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcSkills/contains" otherprops="contains"></section>
+<section conkeyref="content-models-lcSkills/lcSkills.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/p learningBase/p learningPlan/lcSkills </p> </section>
+<section conkeyref="inheritance-lcSkills/lcSkills.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title> <codeblock>
         &lt;lcSkills&gt;...all about Skills needed...&lt;/lcSkills&gt;
 </codeblock> </example>

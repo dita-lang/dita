@@ -12,10 +12,9 @@ of authors. </shortdesc>
 <indexterm>person</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-person/contains" otherprops="contains"></section>
+<section conkeyref="content-models-person/person.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/person </p></section>
+<section conkeyref="inheritance-person/person.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmeta>
   &lt;bookrights>
     &lt;copyrfirst>&lt;year>1977&lt;/year>&lt;/copyrfirst>

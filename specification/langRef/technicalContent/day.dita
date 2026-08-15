@@ -9,10 +9,9 @@
 <indexterm>day</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-day/contains" otherprops="contains"></section>
+<section conkeyref="content-models-day/day.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ph bookmap/day </p></section>
+<section conkeyref="inheritance-day/day.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock><?Pub
 Caret?>&lt;bookchangehistory>
   &lt;edited>

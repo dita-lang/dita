@@ -10,9 +10,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>hasRelated</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-hasRelated/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/hasRelated </p></section>
+<section conkeyref="content-models-hasRelated/hasRelated.element" id="content-model"/>
+<section conkeyref="inheritance-hasRelated/hasRelated.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This example specifies
 that myProgram runs on Linux and Windows.</p><codeblock>&lt;subjectScheme>
   &lt;subjectdef keys="myProgram" navtitle="My Program">

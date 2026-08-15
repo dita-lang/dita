@@ -19,10 +19,9 @@
       below, the abbreviation "stick" is a variant of the primary term (USB flash drive). The
         <xmlelement>glossAlternateFor</xmlelement> element indicates that "stick" is also a variant
       of the synonym "memory stick".</section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossAlternateFor/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossAlternateFor/glossAlternateFor.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/xref concept/xref glossentry/glossAlternateFor </p></section>
+<section conkeyref="inheritance-glossAlternateFor/glossAlternateFor.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

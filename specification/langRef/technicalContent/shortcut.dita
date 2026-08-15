@@ -19,12 +19,11 @@ information.</shortdesc>
   </metadata>
  </prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-shortcut/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-shortcut/shortcut.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword ui-d/shortcut </p></section>
+<section conkeyref="inheritance-shortcut/shortcut.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>This example:</p>

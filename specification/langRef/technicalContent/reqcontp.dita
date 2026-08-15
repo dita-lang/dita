@@ -11,12 +11,11 @@
 <keywords><indexterm>reqcontp</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-reqcontp/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-reqcontp/reqcontp.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/reqcontp</p></section>
+<section conkeyref="inheritance-reqcontp/reqcontp.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;reqconds>
   <b>&lt;reqcontp></b>USDOD-43109: Preparing your Patriot Missile Control Unit for Railroad Portage.<b>&lt;/reqcontp></b>
   &lt;reqcond>The system placed on an accessible, flat surface.&lt;/reqcond>

@@ -10,9 +10,8 @@
         <indexterm>elements<indexterm>body<indexterm><xmlelement>ol</xmlelement></indexterm></indexterm></indexterm><indexterm>lists<indexterm>ordered<indexterm>overview</indexterm></indexterm></indexterm><indexterm>ordered lists<indexterm>overview</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-ol/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ol </p></section>
+<section conkeyref="content-models-ol/ol.element" id="content-model"/>
+<section conkeyref="inheritance-ol/ol.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>Here are the colors of the rainbow in order of appearance from top to bottom:
 &lt;ol&gt;
 &lt;li&gt;Red&lt;/li&gt;

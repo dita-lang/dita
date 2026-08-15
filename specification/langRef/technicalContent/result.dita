@@ -12,12 +12,11 @@ the expected outcome for the task as a whole. </shortdesc>
 <refbody>
 <section id="section-1"><note>To describe the outcome of a specific step, use the <xmlelement>stepresult</xmlelement>
         element instead.</note></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-result/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-result/result.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/section task/result </p></section>
+<section conkeyref="inheritance-result/result.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock xml:space="preserve">&lt;task id="sqlj"&gt;
   &lt;title&gt;Creating an SQLJ file&lt;/title&gt;
   &lt;taskbody&gt;

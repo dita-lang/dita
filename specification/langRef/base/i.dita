@@ -19,9 +19,8 @@
                 be restyled. Thus, it is not the case that content in <xmlelement>i</xmlelement>
                 elements will necessarily be italicized.</note>
         </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-i/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph hi-d/i </p></section>
+<section conkeyref="content-models-i/i.element" id="content-model"/>
+<section conkeyref="inheritance-i/i.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;p&gt;Unplug the unit &lt;i&gt;before&lt;/i&gt; placing the metal screwdriver
 against the terminal screw.&lt;/p&gt;</codeblock></example>

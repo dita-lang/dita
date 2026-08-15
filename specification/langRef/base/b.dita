@@ -19,11 +19,8 @@ element.</shortdesc>
 element differently, just like any other element can be restyled. Thus, it is not the case that
 content in <xmlelement>b</xmlelement> elements will necessarily be bold.</note>
 </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-b/contains" id="contains" otherprops="contains"/>
-<section id="inheritance" otherprops="inheritance">
-<title>Inheritance</title>
-<p>+ topic/ph hi-d/b </p>
-</section>
+<section conkeyref="content-models-b/b.element" id="content-model"/>
+<section conkeyref="inheritance-b/b.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <codeblock xml:space="preserve">&lt;p&gt;&lt;b&gt;STOP!&lt;/b&gt; This is &lt;b&gt;very&lt;/b&gt; important!&lt;/p&gt;</codeblock>

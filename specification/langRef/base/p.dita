@@ -11,9 +11,8 @@ idea.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-p/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/p </p></section>
+<section conkeyref="content-models-p/p.element" id="content-model"/>
+<section conkeyref="inheritance-p/p.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;p&gt;This paragraph contains text that should be of
 interest. It might give details about my company, or an explanation
 of how my product is used, or it might be a short review of the book

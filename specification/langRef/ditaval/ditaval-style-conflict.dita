@@ -41,7 +41,7 @@ resolved as follows:<dl>
 <dt>changebar</dt>
 <dd>Add all change bars that apply.</dd>
 </dlentry></dl></p></section>
-<section id="contains" otherprops="contains"><title>Contains</title><p><i>(empty)</i></p></section>
+<section conkeyref="content-models-ditaval-style-conflict/ditaval-style-conflict.element" id="content-model"/>
 <section id="containedby" otherprops="containedby"><title>Contained by</title><p><xref
 href="ditaval-val.dita">val</xref></p></section>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example

@@ -24,12 +24,9 @@
         inside of <xmlelement>tasktroubleshooting</xmlelement> because its meaning there would be
         ambiguous.</note>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-tasktroubleshooting/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-tasktroubleshooting/tasktroubleshooting.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/section task/tasktroubleshooting </p>
-    </section>
+    <section conkeyref="inheritance-tasktroubleshooting/tasktroubleshooting.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock><![CDATA[

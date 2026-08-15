@@ -13,9 +13,8 @@
         <indexterm>unordered lists<indexterm>overview</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-ul/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ul </p></section>
+<section conkeyref="content-models-ul/ul.element" id="content-model"/>
+<section conkeyref="inheritance-ul/ul.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;ul&gt;
  &lt;li&gt;This is an item in an unordered list.&lt;/li&gt;

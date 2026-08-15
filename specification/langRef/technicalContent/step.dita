@@ -15,10 +15,9 @@ step, such as sub-steps, a list of choices, or result information.</ph></shortde
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-step/contains" otherprops="contains"></section>
+<section conkeyref="content-models-step/step.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/li task/step </p></section>
+<section conkeyref="inheritance-step/step.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock xml:space="preserve">&lt;task id="sqlj"&gt;
 &lt;title&gt;Creating an SQLJ file&lt;/title&gt;
 &lt;taskbody&gt;

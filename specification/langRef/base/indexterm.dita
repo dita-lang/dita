@@ -84,9 +84,8 @@ nested rather than overlapping with the highest-level container taking
 precedence over narrower contained ranges.</p><p>As defined above, there is no such thing as an index range start that isn't terminated by either
         a matching end or some maximum scope. There can, however, be unmatched index range end
         indications; these <ph >are</ph> ignored.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-indexterm/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/indexterm </p></section>
+<section conkeyref="content-models-indexterm/indexterm.element" id="content-model"/>
+<section conkeyref="inheritance-indexterm/indexterm.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig><title>Single
 point index terms</title>
 <ul>

@@ -16,12 +16,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-kwd/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-kwd/kwd.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword pr-d/kwd </p></section>
+<section conkeyref="inheritance-kwd/kwd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram frame="bottom"&gt;
  &lt;title&gt;CopyFile&lt;/title&gt;
  &lt;groupseq&gt;<b>&lt;kwd&gt;</b>COPYF<b>&lt;/kwd&gt;</b>&lt;/groupseq&gt;

@@ -12,12 +12,11 @@ it does not have to contain the name of an authoring organization. </shortdesc>
 <indexterm>organization</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-organization/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-organization/organization.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/organization </p></section>
+<section conkeyref="inheritance-organization/organization.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmeta>
   &lt;bookrights>
     &lt;copyrfirst>&lt;year>1996&lt;/year>&lt;/copyrfirst>

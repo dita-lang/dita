@@ -16,14 +16,11 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcMatchTable/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcMatchTable/lcMatchTable.element" id="content-model"/>
     
 
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/simpletable learningInteractionBase-d/simpletable learning-d/lcMatchTable </p>
-    </section>
+    <section conkeyref="inheritance-lcMatchTable/lcMatchTable.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

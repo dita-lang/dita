@@ -13,12 +13,11 @@ element following the <xmlelement>cmd</xmlelement>. </shortdesc>
 <keywords><indexterm><xmlelement>cmd</xmlelement></indexterm><indexterm>task elements<indexterm><xmlelement>cmd</xmlelement></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-cmd/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-cmd/cmd.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ph task/cmd </p></section>
+<section conkeyref="inheritance-cmd/cmd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;step&gt;&lt;cmd&gt;In a text editor, create a new file.&lt;/cmd&gt;&lt;/step&gt;
 </codeblock></example>

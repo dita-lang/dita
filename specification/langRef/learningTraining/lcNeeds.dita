@@ -13,11 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcNeeds/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcNeeds/lcNeeds.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/p learningBase/p learningPlan/lcNeeds </p>
-		</section>
+		<section conkeyref="inheritance-lcNeeds/lcNeeds.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"> <title>Example </title> <codeblock>
 ...
    &lt;lcNeeds&gt;Training efforts require a greater capability 

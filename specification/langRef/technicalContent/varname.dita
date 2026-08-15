@@ -14,10 +14,9 @@ designed to document software tasks, concepts and reference information.</shortd
         <indexterm><xmlelement>varname</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-varname/contains" otherprops="contains"></section>
+<section conkeyref="content-models-varname/varname.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword sw-d/varname </p></section>
+<section conkeyref="inheritance-varname/varname.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;filepath&gt;
   &lt;varname&gt;install-dir&lt;/varname&gt;\projects\working\&lt;varname&gt;project-dir&lt;/varname&gt;

@@ -11,10 +11,9 @@
 <keywords><indexterm>supequip</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-supequip/contains" otherprops="contains"></section>
+<section conkeyref="content-models-supequip/supequip.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/p task/p taskreq-d/supequip</p></section>
+<section conkeyref="inheritance-supequip/supequip.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supequip>
  &lt;supeqli>
   &lt;supequi>Driver handle&lt;/supequi>

@@ -6,9 +6,8 @@
 <shortdesc>The <xmlelement>body</xmlelement> element is the container
 for the main content of a <xmlelement>topic</xmlelement>.</shortdesc>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-body/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/body </p></section>
+<section conkeyref="content-models-body/body.element" id="content-model"/>
+<section conkeyref="inheritance-body/body.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;topic&gt;
 &lt;title&gt;Sample title&lt;/title&gt;
 &lt;prolog&gt;&lt;!-- metadata here -->&lt;/prolog&gt; 

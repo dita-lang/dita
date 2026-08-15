@@ -17,10 +17,9 @@ needed) for each successive value.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-properties/contains" otherprops="contains"></section>
+<section conkeyref="content-models-properties/properties.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/simpletable reference/properties </p></section>
+<section conkeyref="inheritance-properties/properties.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;properties&gt;
   &lt;prophead&gt;
       &lt;proptypehd&gt;Visual Element&lt;/proptypehd&gt;

@@ -10,12 +10,11 @@
 <keywords><indexterm>safecond</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-safecond/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-safecond/safecond.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/safecond</p></section>
+<section conkeyref="inheritance-safecond/safecond.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;safety>
   <b>&lt;safecond></b>All power sources disconnected from the system.<b>&lt;/safecond></b>
   <b>&lt;safecond></b>All networking cables disconnected from the system.<b>&lt;/safecond></b>

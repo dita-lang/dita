@@ -9,12 +9,11 @@ an estimate of the time that is required to perform a task. </shortdesc>
 <keywords><indexterm>esttime</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-esttime/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-esttime/esttime.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/esttime</p></section>
+<section conkeyref="inheritance-esttime/esttime.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;reqpers&gt;
  &lt;personnel&gt;2&lt;/personnel&gt;
  &lt;perscat&gt;Mechanic&lt;/perscat&gt;

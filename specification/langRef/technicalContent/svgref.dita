@@ -42,12 +42,9 @@
   &lt;svgref keyref="svg-fragment-0002"/>
 &lt;/svg-container></codeblock></p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-svgref/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-svgref/svgref.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/xref svg-d/svgref </p>
-    </section>
+    <section conkeyref="inheritance-svgref/svgref.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>Here is a reference to an <xmlelement>svg</xmlelement> element that is the root element of

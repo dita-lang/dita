@@ -11,12 +11,11 @@ to be assembled prior to beginning the task.</shortdesc>
 <keywords><indexterm>supeqli</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-supeqli/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-supeqli/supeqli.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ul task/ul taskreq-d/supeqli</p></section>
+<section conkeyref="inheritance-supeqli/supeqli.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supequip&gt;
  <b>&lt;supeqli&gt;</b>
   &lt;supequi&gt;Driver handle&lt;/supequi&gt;

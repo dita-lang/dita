@@ -17,12 +17,9 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-markupname/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-markupname/markupname.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword markup-d/markupname </p>
-    </section>
+    <section conkeyref="inheritance-markupname/markupname.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>The <b>&lt;markupname>p.attributes&lt;/markupname></b> attribute group defines 

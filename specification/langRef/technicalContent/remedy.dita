@@ -18,11 +18,8 @@
   </metadata>
  </prolog>
  <refbody>
-  <section conref="../../common/commonNavLibraryTable.dita#contentmodel-remedy/contains" id="contains" otherprops="contains"></section>
-  <section id="inheritance" otherprops="inheritance">
-   <title>Inheritance</title>
-   <p>- topic/section troubleshooting/remedy </p>
-  </section>
+  <section conkeyref="content-models-remedy/remedy.element" id="content-model"/>
+  <section conkeyref="inheritance-remedy/remedy.inheritance" id="inheritance"/>
   <example id="example" otherprops="examples">
    <title>Example</title>
    <p>See <xref href="troubleshooting.dita"/>.</p>

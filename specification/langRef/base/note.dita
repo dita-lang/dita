@@ -16,9 +16,8 @@ text.</shortdesc>
 <section id="section-1"><note type="tip">Variant types of <xmlelement>note</xmlelement> (tip, caution, danger, restriction,
 etc.) can be indicated through values selected on the <xmlatt>type</xmlatt> attribute. This
 <xmlelement>note</xmlelement> uses the attribute <codeph>type="tip"</codeph></note></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-note/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/note </p></section>
+<section conkeyref="content-models-note/note.element" id="content-model"/>
+<section conkeyref="inheritance-note/note.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>The following code sample demonstrates the use of a <xmlelement>note</xmlelement> with

@@ -19,12 +19,9 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-parameterentity/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-parameterentity/parameterentity.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword markup-d/markupname xml-d/parameterentity </p>
-    </section>
+    <section conkeyref="inheritance-parameterentity/parameterentity.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Examples</title>
       <codeblock>&lt;p> ... The <b>&lt;parameterentity>p.content&lt;/parameterentity></b> parameter entity 

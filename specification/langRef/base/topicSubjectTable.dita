@@ -26,9 +26,8 @@
         columns of the same row. Instead, relationships are defined between subjects using a subject
         scheme map (which provides a <xmlelement>subjectRelTable</xmlelement> element for
         non-hierarchical relationships between subjects).</note></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topicSubjectTable/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/reltable classify-d/topicSubjectTable </p></section>
+<section conkeyref="content-models-topicSubjectTable/topicSubjectTable.element" id="content-model"/>
+<section conkeyref="inheritance-topicSubjectTable/topicSubjectTable.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>The topic subject table below classifies topics with goals for retrieval and with operating

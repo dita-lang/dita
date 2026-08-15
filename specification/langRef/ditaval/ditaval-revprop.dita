@@ -27,9 +27,7 @@
             attribute because this is not sufficient to be used for full version control, such as
             single-sourcing multiple product variants based on version level – it only represents
             one aspect of the revision level. </section>
-<section id="contains" otherprops="contains"><title>Contains</title><p><xref
-href="ditaval-startflag.dita">startflag</xref> (<i>optional</i>) then <xref
-href="ditaval-endflag.dita">endflag</xref> (<i>optional</i>)</p></section>
+<section conkeyref="content-models-ditaval-revprop/ditaval-revprop.element" id="content-model"/>
 <section id="containedby" otherprops="containedby"><title>Contained by</title><p><xref
 href="ditaval-val.dita">val</xref></p></section>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example

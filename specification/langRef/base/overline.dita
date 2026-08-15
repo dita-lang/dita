@@ -20,11 +20,8 @@
         restyled. Thus, it is not the case that content in <xmlelement>overline</xmlelement>
         elements will necessarily be rendered with a line above.</note>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-overline/contains" otherprops="contains"/>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/ph hi-d/overline </p>
-    </section>
+    <section conkeyref="content-models-overline/overline.element" id="content-model"/>
+    <section conkeyref="inheritance-overline/overline.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock xml:space="preserve">&lt;p>Overline: &lt;overline>&lt;i>x&lt;/i>&lt;/overline> is the 

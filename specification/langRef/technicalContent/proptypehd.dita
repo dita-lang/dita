@@ -12,10 +12,9 @@ type column of a properties table.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-proptypehd/contains" otherprops="contains"></section>
+<section conkeyref="content-models-proptypehd/proptypehd.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/stentry     reference/proptypehd </p></section>
+<section conkeyref="inheritance-proptypehd/proptypehd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="properties.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

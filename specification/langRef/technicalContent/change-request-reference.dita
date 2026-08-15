@@ -14,11 +14,8 @@
     </metadata>
   </prolog>
   <refbody>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-change-request-reference/contains" id="contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/metadata relmgmt-d/change-request-reference </p>
-    </section>
+    <section conkeyref="content-models-change-request-reference/change-request-reference.element" id="content-model"/>
+    <section conkeyref="inheritance-change-request-reference/change-request-reference.inheritance" id="inheritance"/>
     <example conref="../../common/conref-examples.dita#conref-examples/release-management" id="example" otherprops="examples"/>
     <section id="attributes">
       <title>Attributes</title>

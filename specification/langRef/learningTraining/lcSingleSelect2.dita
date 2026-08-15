@@ -15,14 +15,11 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcSingleSelect2/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcSingleSelect2/lcSingleSelect2.element" id="content-model"/>
     
 
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/div learningInteractionBase2-d/lcInteractionBase2 learning2-d/lcSingleSelect2 </p>
-    </section>
+    <section conkeyref="inheritance-lcSingleSelect2/lcSingleSelect2.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

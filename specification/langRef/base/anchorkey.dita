@@ -26,9 +26,8 @@
         portable, because users that do not want to delay resolution of that specific key will not
         be able to include the topic in their information.</p>
       <p conref="../../common/conref-file.dita#reuse_file/export-anchors-disclaimer"/></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-anchorkey/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword delay-d/anchorkey </p></section>
+<section conkeyref="content-models-anchorkey/anchorkey.element" id="content-model"/>
+<section conkeyref="inheritance-anchorkey/anchorkey.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example, a set of information contains multiple components. Some references to component
         A use keys rather than a direct reference, so that <xmlatt>conref</xmlatt> can be redirected
         to a different component when component A is not installed. The keys <ph

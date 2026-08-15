@@ -14,12 +14,11 @@ every step as this quickly becomes tedious.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-stepresult/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-stepresult/stepresult.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/itemgroup task/stepresult </p></section>
+<section conkeyref="inheritance-stepresult/stepresult.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;steps&gt;
  &lt;step&gt;
   &lt;cmd importance="urgent"&gt;Once you have the water place it in the microwave.&lt;/cmd&gt;

@@ -42,9 +42,8 @@ which means they all refer to each other.</li>
           <xmlelement>title</xmlelement> element provides a title for the book represented by that
         map. In a map referenced by another map, the <xmlelement>title</xmlelement> might be
         discarded as topics from the submap are aggregated into a larger publication.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-map/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/map </p></section>
+<section conkeyref="content-models-map/map.element" id="content-model"/>
+<section conkeyref="inheritance-map/map.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example, there are six <xmlelement>topicref</xmlelement> elements. They are nested and
         have a hierarchical relationship. The file <filepath>bats.dita</filepath> is the parent
         topic and the other topics are its children. The hierarchy could be used to generate a PDF,

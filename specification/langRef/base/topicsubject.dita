@@ -16,9 +16,8 @@ topic or map.</shortdesc>
 (if defined in the scheme) or, if the subject definition topic exists, by <xmlatt>href</xmlatt> (as
 with ordinary topic references).</p><p>Additional secondary subjects can be specified by nested <xmlelement>subjectref</xmlelement>
 elements.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topicsubject/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/topicref classify-d/topicsubject </p></section>
+<section conkeyref="content-models-topicsubject/topicsubject.element" id="content-model"/>
+<section conkeyref="inheritance-topicsubject/topicsubject.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In the following example, the map is classified as covering Linux as the primary subject; the
 topic "Developing web applications" also covers the secondary web and development subjects. These
 subjects (and their keys) are defined externally in a subject scheme map; in order to reference the

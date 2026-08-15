@@ -16,12 +16,9 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-xmlnsname/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-xmlnsname/xmlnsname.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword markup-d/markupname xml-d/xmlnsname </p>
-    </section>
+    <section conkeyref="inheritance-xmlnsname/xmlnsname.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>The namespace name for XHTML is <b>&lt;xmlnamespace>http://www.w3.org/1999/xhtml&lt;/xmlnamespace></b>. </codeblock>

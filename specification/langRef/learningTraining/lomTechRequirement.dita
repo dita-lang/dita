@@ -13,11 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lomTechRequirement/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lomTechRequirement/lomTechRequirement.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>+ topic/data learning-d/lomTechRequirement </p>
-</section>
+		<section conkeyref="inheritance-lomTechRequirement/lomTechRequirement.inheritance" id="inheritance"/>
 
 <example id="example" otherprops="examples"><title>Example</title>
 <p>See <xref href="lcLom.dita#lcLom/example">lcLom</xref>.</p>

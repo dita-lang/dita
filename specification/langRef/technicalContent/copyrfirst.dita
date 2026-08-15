@@ -10,10 +10,9 @@ within a multiyear copyright statement.</shortdesc>
 <indexterm>copyrfirst</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-copyrfirst/contains" otherprops="contains"></section>
+<section conkeyref="content-models-copyrfirst/copyrfirst.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/copyrfirst </p></section>
+<section conkeyref="inheritance-copyrfirst/copyrfirst.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See
 the example in <xref href="bookmap.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

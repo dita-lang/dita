@@ -12,9 +12,8 @@ a result of not avoiding a hazard, or any combination of these messages.</shortd
         <indexterm>hazard statement domain<indexterm>hazardsymbol</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-hazardsymbol/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/image hazard-d/hazardsymbol</p></section>
+<section conkeyref="content-models-hazardsymbol/hazardsymbol.element" id="content-model"/>
+<section conkeyref="inheritance-hazardsymbol/hazardsymbol.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;hazardstatement type="danger">
   &lt;messagepanel>

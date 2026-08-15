@@ -9,10 +9,9 @@ that no spare parts are needed to perform a task.</shortdesc>
 <keywords><indexterm>nospares</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-nospares/contains" otherprops="contains"></section>
+<section conkeyref="content-models-nospares/nospares.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-	topic/data task/data taskreq-d/nospares</p></section>
+<section conkeyref="inheritance-nospares/nospares.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;spares>
 	&lt;nospares/>
 &lt;/spares></codeblock></example>

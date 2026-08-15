@@ -9,10 +9,9 @@
 <indexterm>bookowner</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-bookowner/contains" otherprops="contains"></section>
+<section conkeyref="content-models-bookowner/bookowner.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/bookowner </p></section>
+<section conkeyref="inheritance-bookowner/bookowner.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmeta>
   &lt;bookrights>
     &lt;copyrfirst>&lt;year>1994&lt;/year>&lt;/copyrfirst>

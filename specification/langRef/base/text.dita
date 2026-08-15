@@ -18,9 +18,8 @@
             imply keyword-like semantics. The <xmlelement>text</xmlelement> element contains only
             text data, or nested <xmlelement>text</xmlelement> elements.</p>
       </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-text/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/text </p></section>
+<section conkeyref="content-models-text/text.element" id="content-model"/>
+<section conkeyref="inheritance-text/text.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;p>This an example of &lt;keyword>&lt;text id="reuse">Text
    that is reusable&lt;/text>&lt;/keyword>, with no extra 
    semantics attached to the text when it is reused.&lt;/p></codeblock></example>

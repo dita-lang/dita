@@ -19,9 +19,8 @@
 <section id="section-1"><note type="important">Do not use the <xmlelement>data-about</xmlelement> element to identify the
                 object of a property. The <xmlatt>href</xmlatt> attribute of the
                     <xmlelement>data</xmlelement> element serves that purpose.</note></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-data-about/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data-about </p></section>
+<section conkeyref="content-models-data-about/data-about.element" id="content-model"/>
+<section conkeyref="inheritance-data-about/data-about.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The full properties of a cited book can be maintained conveniently in the
                     <xmlelement>prolog</xmlelement>:</p><codeblock>&lt;topic id="questions"&gt;
     &lt;title&gt;Questions and answers&lt;/title&gt;

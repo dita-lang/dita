@@ -24,11 +24,9 @@
 				context. </p>
 			<!--RDA 18 February 2014: As part of the update to 1.3, John Hunt suggested removing defaults for @type. So, I've removed the following paragraph:
 <p>When you include a reference to a DITA topic that is not learningOverview, change the type attribute to match the type of topic being referenced. </p>--></section>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningOverviewRef/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-learningOverviewRef/learningOverviewRef.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>+ map/topicref learningmap-d/learningOverviewRef</p>
-</section>
+		<section conkeyref="inheritance-learningOverviewRef/learningOverviewRef.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
   <p>See <xref href="learningObject.dita#learningObject/example">learningObject</xref>.</p>
 </example>

@@ -24,9 +24,8 @@ xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
 future specialization.</p>--> <!--All DITA elements take the &lt;codeph>xmlns=&quot;&quot;&lt;/codeph> fixed
 attribute, which puts them into the null namespace by default.  This attribute
 is applied via the %global-atts; group.-->    </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topic/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/topic </p></section>
+<section conkeyref="content-models-topic/topic.element" id="content-model"/>
+<section conkeyref="inheritance-topic/topic.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">       <title>Example</title><codeblock
 xml:space="preserve">&lt;topic id="topic"&gt;
  &lt;title&gt;Some little topic&lt;/title&gt;

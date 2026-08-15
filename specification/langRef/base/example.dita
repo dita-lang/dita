@@ -18,9 +18,8 @@ illustrate or support the current topic.</shortdesc>
         upon sections of that text.</p>
 <!--14 April 2014: Reworded the following based on comments from the first DITA 1.3 review.
 Hence, in a DITA topic, to represent programming code and results within the discussion in an example, use the <xmlelement>codeblock</xmlelement> and <xmlelement>systemoutput</xmlelement> elements within the <xmlelement>example</xmlelement> element. For lines of text, use the <xmlelement>lines</xmlelement> element. For pre-formatted text such as email headers, use the <xmlelement>pre</xmlelement> element.</p>--></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-example/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/example </p></section>
+<section conkeyref="content-models-example/example.element" id="content-model"/>
+<section conkeyref="inheritance-example/example.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;example id="example">
   &lt;title>Example&lt;/title>
   &lt;codeblock>&amp;lt;p&amp;gt;Example of the p element&amp;lt;/p&amp;gt;&lt;/codeblock>

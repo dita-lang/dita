@@ -34,11 +34,8 @@
         <ph >might</ph> include path information, path information is not valid
         in <xmlelement>dvrResourceSuffix</xmlelement>.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dvrResourceSuffix/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/data ditavalref-d/dvrResourceSuffix </p>
-    </section>
+    <section conkeyref="content-models-dvrResourceSuffix/dvrResourceSuffix.element" id="content-model"/>
+    <section conkeyref="inheritance-dvrResourceSuffix/dvrResourceSuffix.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>If the <xmlelement>dvrResourceSuffix</xmlelement> is specified in the following

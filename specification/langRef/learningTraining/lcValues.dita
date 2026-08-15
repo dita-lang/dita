@@ -13,11 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcValues/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcValues/lcValues.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/p learningBase/p learningPlan/lcValues </p>
-		</section>
+		<section conkeyref="inheritance-lcValues/lcValues.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"> <title>Example </title> <codeblock>
 ...
    &lt;lcValues&gt;The organization will develop shared 

@@ -15,11 +15,8 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcFeedbackCorrect2/contains" otherprops="contains"></section>
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title>
-			<p>+ topic/div learningInteractionBase2-d/div learning2-d/lcFeedbackCorrect2 </p>
-		</section>
+		<section conkeyref="content-models-lcFeedbackCorrect2/lcFeedbackCorrect2.element" id="content-model"/>
+		<section conkeyref="inheritance-lcFeedbackCorrect2/lcFeedbackCorrect2.inheritance" id="inheritance"/>
 		<example conref="lcTrueFalse2.dita#lcTrueFalse2/example" id="example" otherprops="examples"/>
 		<section id="attributes">
 			<title>Attributes</title>

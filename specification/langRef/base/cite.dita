@@ -13,9 +13,8 @@
 <section id="section-1">Though citations are often set apart from surrounding text, such as through italics,
       rendering of the <xmlelement>cite</xmlelement> element is left up to
       implementations.</section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-cite/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/cite </p></section>
+<section conkeyref="content-models-cite/cite.element" id="content-model"/>
+<section conkeyref="inheritance-cite/cite.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;p&gt;The online article <b>&lt;cite&gt;</b>Specialization in the Darwin Information Typing
 Architecture<b>&lt;/cite&gt;</b> provides a detailed explanation of how to define new
 topic types.&lt;/p&gt;</codeblock>     </example>

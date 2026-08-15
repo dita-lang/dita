@@ -12,9 +12,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>schemeref</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-schemeref/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/schemeref </p></section>
+<section conkeyref="content-models-schemeref/schemeref.element" id="content-model"/>
+<section conkeyref="inheritance-schemeref/schemeref.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <p>See <xref href="subjectScheme.dita"/>.</p>
     </example>

@@ -12,10 +12,9 @@
           elements<indexterm><xmlelement>glossSymbol</xmlelement></indexterm></indexterm><indexterm><xmlelement>glossSymbol</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossSymbol/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossSymbol/glossSymbol.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/image concept/image glossentry/glossSymbol </p></section>
+<section conkeyref="inheritance-glossSymbol/glossSymbol.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;glossentry id="atlanticpuffin">
   &lt;glossterm>Atlantic Puffin&lt;/glossterm>
   &lt;glossdef>A sea bird that lives in the atlantic&lt;/glossdef>

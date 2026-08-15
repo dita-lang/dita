@@ -12,9 +12,8 @@ and training elements<indexterm>lomTypicalLearningTime</indexterm></indexterm>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lomTypicalLearningTime/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"> 			<title>Inheritance</title> 
-   <p>+ topic/data learning-d/lomTypicalLearningTime </p> </section>
+<section conkeyref="content-models-lomTypicalLearningTime/lomTypicalLearningTime.element" id="content-model"/>
+<section conkeyref="inheritance-lomTypicalLearningTime/lomTypicalLearningTime.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <p>See <xref href="lcLom.dita#lcLom/example">lcLom</xref>.</p>
 </example>

@@ -12,10 +12,9 @@
 <indexterm>publisherinformation</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-publisherinformation/contains" otherprops="contains"></section>
+<section conkeyref="content-models-publisherinformation/publisherinformation.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/publisher bookmap/publisherinformation </p></section>
+<section conkeyref="inheritance-publisherinformation/publisherinformation.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmeta>
   &lt;publisherinformation>
     &lt;organization>Example Publishers&lt;/organization>

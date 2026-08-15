@@ -9,10 +9,9 @@ about the spare parts that are required to perform a task.</shortdesc>
 <keywords><indexterm>sparesli</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-sparesli/contains" otherprops="contains"></section>
+<section conkeyref="content-models-sparesli/sparesli.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ul task/ul taskreq-d/sparesli</p></section>
+<section conkeyref="inheritance-sparesli/sparesli.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;spares>
  &lt;sparesli>
   &lt;spare>dipstick&lt;/spare>

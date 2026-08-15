@@ -21,9 +21,8 @@
         unit of content can stand independently of the containing, prior, and following content
         within the original map context.</p>
     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topicset/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/topicref mapgroup-d/topicset </p></section>
+<section conkeyref="content-models-topicset/topicset.element" id="content-model"/>
+<section conkeyref="inheritance-topicset/topicset.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This <xmlelement>topicset</xmlelement> represents a set of overview information about SQL. The
         information is reusable as a unit.</p><codeblock>&lt;topicset id="sqlbasics" href="sqlOverview.dita">
   &lt;topicref href="sqlSelection.dita"/>

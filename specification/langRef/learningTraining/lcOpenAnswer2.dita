@@ -16,11 +16,8 @@
   </metadata>
  </prolog>
  <refbody>
-  <section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcOpenAnswer2/contains" id="contains" otherprops="contains"></section>
-  <section id="inheritance" otherprops="inheritance">
-   <title>Inheritance</title>
-   <p>+ topic/div learningInteractionBase2-d/div learning2-d/lcOpenAnswer2 </p>
-  </section>
+  <section conkeyref="content-models-lcOpenAnswer2/lcOpenAnswer2.element" id="content-model"/>
+  <section conkeyref="inheritance-lcOpenAnswer2/lcOpenAnswer2.inheritance" id="inheritance"/>
   <example conref="lcOpenQuestion2.dita#lcOpenQuestion2/example" id="example" otherprops="examples"/>
   <section id="attributes">
    <title>Attributes</title>

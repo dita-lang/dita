@@ -14,9 +14,8 @@
         <indexterm>lists<indexterm>definition<indexterm>entries</indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dlentry/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/dlentry </p></section>
+<section conkeyref="content-models-dlentry/dlentry.element" id="content-model"/>
+<section conkeyref="inheritance-dlentry/dlentry.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig
 conref="dl.dita#dl/simpleexample"></fig></example>
 <section id="attributes"><title>Attributes</title>

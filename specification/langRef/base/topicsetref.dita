@@ -30,9 +30,8 @@
       <p>As with other cases where the attribute <codeph>format="ditamap"</codeph> is specified or
         used as a default, the use of topic references nested inside of
           <xmlelement>topicsetref</xmlelement> is undefined.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topicsetref/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/topicref mapgroup-d/topicsetref </p></section>
+<section conkeyref="content-models-topicsetref/topicsetref.element" id="content-model"/>
+<section conkeyref="inheritance-topicsetref/topicsetref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <p >The <filepath>sql-tutorial.ditamap</filepath> file contains a
           <xmlelement>topicset</xmlelement> element that groups together several topics that

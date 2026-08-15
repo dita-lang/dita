@@ -11,10 +11,9 @@
 <indexterm>appendix</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-appendices/contains" otherprops="contains"></section>
+<section conkeyref="content-models-appendices/appendices.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/appendices </p></section>
+<section conkeyref="inheritance-appendices/appendices.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;appendices toc="yes" print="no">
   &lt;topicmeta>
     &lt;navtitle>Appendices&lt;/navtitle>

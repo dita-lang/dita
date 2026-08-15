@@ -32,9 +32,8 @@
         descendants. For example, if you have a <xmlelement>linklist</xmlelement> element that contains all external
         links, you can set <codeph>scope="external"</codeph> on that outer <xmlelement>linklist</xmlelement> element
         and leave it off the <xmlelement>link</xmlelement> elements within that <xmlelement>linklist</xmlelement>.</p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-linklist/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/linklist </p></section>
+<section conkeyref="content-models-linklist/linklist.element" id="content-model"/>
+<section conkeyref="inheritance-linklist/linklist.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;related-links>
   &lt;linklist scope="external">
     &lt;title>Example links&lt;/title>

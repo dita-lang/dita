@@ -17,11 +17,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningAssessment/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-learningAssessment/learningAssessment.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/topic learningBase/learningBase     learningAssessment/learningAssessment </p>
-		</section>
+		<section conkeyref="inheritance-learningAssessment/learningAssessment.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

@@ -10,10 +10,9 @@ about a county, state, or province. </shortdesc>
 <indexterm>administrativearea</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-administrativearea/contains" otherprops="contains"></section>
+<section conkeyref="content-models-administrativearea/administrativearea.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph xnal-d/administrativearea </p></section>
+<section conkeyref="inheritance-administrativearea/administrativearea.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;addressdetails&gt;
 &lt;thoroughfare&gt;123 Yellow Brick Road&lt;/thoroughfare&gt;
 &lt;locality&gt;Emerald City&lt;/locality&gt;

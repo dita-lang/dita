@@ -32,9 +32,8 @@
           <xmlelement>section</xmlelement> elements. Use the <xmlelement>div</xmlelement> element to
         group content that might occur in both topic bodies and sections.</p>
   </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-bodydiv/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/bodydiv </p></section>
+<section conkeyref="content-models-bodydiv/bodydiv.element" id="content-model"/>
+<section conkeyref="inheritance-bodydiv/bodydiv.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;topic id="sample" xml:lang="en">
  &lt;title>Sample for bodydiv&lt;/title>
  &lt;body>

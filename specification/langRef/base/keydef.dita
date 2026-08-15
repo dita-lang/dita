@@ -23,8 +23,8 @@
     </metadata>
   </prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-keydef/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+ map/topicref <ph >mapgroup-d</ph>/keydef </p></section>
+<section conkeyref="content-models-keydef/keydef.element" id="content-model"/>
+<section conkeyref="inheritance-keydef/keydef.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following example defines keys that can be used to refer to the indicated topics. These keys
           <ph >can</ph> be used within the map, from any topic in this map, or
         in any context where this map is imported. Note that the <xmlatt>processing-role</xmlatt>

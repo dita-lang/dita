@@ -18,12 +18,11 @@ conref="apiname.dita#apiname/progdomainelement"/></shortdesc>
       </metadata>
    </prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-codeph/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-codeph/codeph.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph pr-d/codeph </p></section>
+<section conkeyref="inheritance-codeph/codeph.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;p&gt;The second line of the sample program code, &lt;codeph&gt;Do forever&lt;/codeph&gt;, 
 represents the start of a loop construct.&lt;/p&gt;</codeblock></example>

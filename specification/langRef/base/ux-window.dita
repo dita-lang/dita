@@ -22,11 +22,8 @@
           <xmlatt>name</xmlatt> attribute, the first window specification in document order with
         that <xmlatt>name</xmlatt> attribute is used.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-ux-window/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- map/ux-window </p>
-    </section>
+    <section conkeyref="content-models-ux-window/ux-window.element" id="content-model"/>
+    <section conkeyref="inheritance-ux-window/ux-window.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>In this example, a window with a name of "csh" is defined in the map. The window name is

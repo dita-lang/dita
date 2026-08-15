@@ -13,12 +13,11 @@ are needed.</shortdesc>
 <keywords><indexterm>supplies</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-supplies/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-supplies/supplies.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/p task/p taskreq-d/supplies</p></section>
+<section conkeyref="inheritance-supplies/supplies.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock><b>&lt;supplies></b>
  &lt;supplyli>
    &lt;supply>gasket&lt;/supply>

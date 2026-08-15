@@ -14,9 +14,8 @@ spaces are preserved. It is typically presented in a monospaced font. Do not use
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-pre/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/pre </p></section>
+<section conkeyref="content-models-pre/pre.element" id="content-model"/>
+<section conkeyref="inheritance-pre/pre.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following example will preserve all line breaks and white space.</p><codeblock>&lt;pre&gt;
           MEMO: programming team fun day
 Remember to bring a kite, softball glove, or other favorite

@@ -16,9 +16,8 @@ used for a single copyright entry. It includes the copyright years
 and the copyright holder. Multiple <xmlelement>copyright</xmlelement>
 statements are allowed.</p><p>This element is equivalent to the <xmlelement>Rights</xmlelement>
 element in Dublin Core.</p>     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-copyright/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">       <title>Inheritance</title> 
-     <p>- topic/copyright </p>     </section>
+<section conkeyref="content-models-copyright/copyright.element" id="content-model"/>
+<section conkeyref="inheritance-copyright/copyright.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;prolog&gt;
  <b>&lt;copyright&gt;</b>
   &lt;copyryear year="2001-04-12"&gt;&lt;/copyryear&gt;

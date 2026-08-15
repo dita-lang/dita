@@ -11,12 +11,11 @@ parameter list entry. <ph conref="apiname.dita#apiname/progdomainelement"/></sho
                      domain<indexterm><xmlelement>pd</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-pd/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-pd/pd.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/dd pr-d/pd </p></section>
+<section conkeyref="inheritance-pd/pd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref href="parml.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>
    <p conref="../../common/conref-attribute.dita#conref-attribute/universal-outputclass"/>

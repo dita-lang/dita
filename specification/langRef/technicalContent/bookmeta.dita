@@ -11,12 +11,11 @@
 <indexterm>bookmeta</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-bookmeta/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-bookmeta/bookmeta.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicmeta bookmap/bookmeta </p></section>
+<section conkeyref="inheritance-bookmeta/bookmeta.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example:<ul>
 <li>The <xmlelement>authorinformation</xmlelement> contains the content for a reader's comment form;
             the <xmlelement>maintainer</xmlelement> element references that author information to

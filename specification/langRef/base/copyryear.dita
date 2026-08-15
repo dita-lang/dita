@@ -11,9 +11,8 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-copyryear/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/copyryear </p></section>
+<section conkeyref="content-models-copyryear/copyryear.element" id="content-model"/>
+<section conkeyref="inheritance-copyryear/copyryear.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;copyright&gt;
   <b>&lt;copyryear year="2001"&gt;&lt;/copyryear&gt;</b>

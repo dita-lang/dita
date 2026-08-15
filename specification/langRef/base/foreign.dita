@@ -43,9 +43,8 @@
           attribute and an <xmlelement>foreign</xmlelement> sub-element the processing system should
           ignore one of them.</li>
 </ul>     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-foreign/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">       <title>Inheritance</title> 
-     <p>- topic/foreign </p>     </section>
+<section conkeyref="content-models-foreign/foreign.element" id="content-model"/>
+<section conkeyref="inheritance-foreign/foreign.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">       <title>SVG Example within a <xmlelement>p</xmlelement> element</title><codeblock>&lt;p&gt;... as in the formula 
   &lt;svg&gt;
     &lt;svg:svg width="100%" height="100%" version="1.1"

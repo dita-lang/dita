@@ -21,9 +21,8 @@ for future use.</shortdesc>
 <example id="example"><title>Example</title><codeblock><p&gt;Use <indextermref keyref="yellow"/&gt; lemon zest to add a tangy citrus 
 flavor to the cake icing.</p&gt;</codeblock></example>
 -->
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-indextermref/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/indextermref </p></section>
+<section conkeyref="content-models-indextermref/indextermref.element" id="content-model"/>
+<section conkeyref="inheritance-indextermref/indextermref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p><i>Examples
 will be added when this element is fully defined.</i></p></example>
 <section id="attributes"><title>Attributes</title>

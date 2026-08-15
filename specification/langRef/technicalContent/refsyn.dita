@@ -13,12 +13,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-refsyn/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-refsyn/refsyn.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/section     reference/refsyn </p></section>
+<section conkeyref="inheritance-refsyn/refsyn.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig><title>Reference
 topic for software material</title>
 <codeblock>&lt;reference id="MyAPI">

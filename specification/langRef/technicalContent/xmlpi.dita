@@ -16,12 +16,9 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-xmlpi/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-xmlpi/xmlpi.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword markup-d/markupname xml-d/xmlpi </p>
-    </section>
+    <section conkeyref="inheritance-xmlpi/xmlpi.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>While DITA does not define any processing instructions, some applications might

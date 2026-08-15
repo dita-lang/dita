@@ -20,9 +20,8 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-li/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/li </p></section>
+<section conkeyref="content-models-li/li.element" id="content-model"/>
+<section conkeyref="inheritance-li/li.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;ul&gt;
   &lt;li&gt;This is an item in an unordered list.&lt;/li&gt;

@@ -25,9 +25,8 @@
      <xmlatt>conref</xmlatt> attribute. For example, the following markup represents a literal
     inclusion of the map
     <filepath>other.ditamap</filepath>:<codeblock>&lt;topicref href="other.ditamap" format="ditamap"/&gt;</codeblock></p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-navref/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/navref </p></section>
+<section conkeyref="content-models-navref/navref.element" id="content-model"/>
+<section conkeyref="inheritance-navref/navref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example, the map titled "MyComponent tasks" references the maps
 <filepath>othermap2.ditamap</filepath> and <filepath>othermap3.ditamap</filepath>.</p><codeblock>&lt;map title="MyComponent tasks"&gt;
  &lt;navref mapref="../com.ibm.xml.doc/othermap1.ditamap"/&gt;

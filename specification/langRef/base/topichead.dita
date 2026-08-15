@@ -30,9 +30,8 @@
         <xmlelement>navtitle</xmlelement> element. DITA processors <term outputclass="RFC-2119"
         >SHOULD</term> generate a warning if a navigation title is not
       specified.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-topichead/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/topicref mapgroup-d/topichead </p></section>
+<section conkeyref="content-models-topichead/topichead.element" id="content-model"/>
+<section conkeyref="inheritance-topichead/topichead.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>Note that in the following example, the first <xmlelement>topichead</xmlelement> element uses a
           <xmlelement>navtitle</xmlelement> element to provide the title, while the second
           <xmlelement>topichead</xmlelement> element uses a <xmlatt>navtitle</xmlatt> attribute.

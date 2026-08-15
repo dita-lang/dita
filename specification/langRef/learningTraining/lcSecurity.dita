@@ -12,11 +12,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcSecurity/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcSecurity/lcSecurity.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/fig learningBase/fig learningPlan/lcSecurity </p>
-</section>
+		<section conkeyref="inheritance-lcSecurity/lcSecurity.inheritance" id="inheritance"/>
 
 <example id="example" otherprops="examples"><title>Example</title>
 <codeblock>

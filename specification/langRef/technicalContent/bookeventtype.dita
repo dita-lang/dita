@@ -11,10 +11,9 @@ event's type. </shortdesc>
 <indexterm>bookeventtype</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-bookeventtype/contains" otherprops="contains"></section>
+<section conkeyref="content-models-bookeventtype/bookeventtype.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data bookmap/bookeventtype </p></section>
+<section conkeyref="inheritance-bookeventtype/bookeventtype.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookchangehistory.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

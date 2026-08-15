@@ -30,15 +30,8 @@
 		  text for that image map area. 
 		</p> 
 	 </section> 
-	 <section
-	  conref="../../common/commonNavLibraryTable.dita#contentmodel-imagemap/contains"
-	  id="contains" otherprops="contains"> 
-	 </section> 
-	 <section id="inheritance" otherprops="inheritance"> 
-		<title>Inheritance</title> 
-		<p>+ topic/fig ut-d/imagemap 
-		</p> 
-	 </section> 
+	 <section conkeyref="content-models-imagemap/imagemap.element" id="content-model"/> 
+	 <section conkeyref="inheritance-imagemap/imagemap.inheritance" id="inheritance"/> 
 	 <example id="example" otherprops="examples"> 
 		<title>Example</title> 
 		<p>A simple <xmlelement>imagemap</xmlelement> looks like this (note that

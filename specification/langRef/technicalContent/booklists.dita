@@ -15,12 +15,11 @@ the lists generated at the <xmlelement>booklists</xmlelement> location. </shortd
 <indexterm>booklists</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-booklists/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-booklists/booklists.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/booklists </p></section>
+<section conkeyref="inheritance-booklists/booklists.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookmap.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

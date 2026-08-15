@@ -13,9 +13,8 @@
                 <indexterm>images<indexterm>alternate text</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-alt/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/alt </p></section>
+<section conkeyref="content-models-alt/alt.element" id="content-model"/>
+<section conkeyref="inheritance-alt/alt.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The markup for alternate text within an image looks like this:</p><codeblock xml:space="preserve">&lt;image href="tip-ing.jpg"&gt;
   &lt;alt&gt;Here's a Tip!&lt;/alt&gt;
 &lt;/image&gt; </codeblock></example>

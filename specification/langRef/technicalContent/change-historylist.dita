@@ -15,11 +15,8 @@
     </metadata>
   </prolog>
   <refbody>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-change-historylist/contains" id="contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/metadata relmgmt-d/change-historylist </p>
-    </section>
+    <section conkeyref="content-models-change-historylist/change-historylist.element" id="content-model"/>
+    <section conkeyref="inheritance-change-historylist/change-historylist.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p> This example shows three simple release notes added to a single topic. This topic is used

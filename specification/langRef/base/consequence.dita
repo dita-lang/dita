@@ -12,9 +12,8 @@ may cause burn."</shortdesc>
         <indexterm>hazard statement domain<indexterm>consequence</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-consequence/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li hazard-d/consequence</p></section>
+<section conkeyref="content-models-consequence/consequence.element" id="content-model"/>
+<section conkeyref="inheritance-consequence/consequence.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"> 			<title>Example</title><codeblock>&lt;hazardstatement type="warning"&gt;
   &lt;messagepanel&gt;
     &lt;typeofhazard&gt;Hot surfaces inside.&lt;/typeofhazard&gt;

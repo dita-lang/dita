@@ -55,9 +55,8 @@
 				will display the <xmlelement>shortdesc</xmlelement> contents from the map in place
 				of the <xmlelement>shortdesc</xmlelement> originally specified in the topic.
 				Processors <ph >might</ph> not implement this behavior.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-abstract/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/abstract </p></section>
+<section conkeyref="content-models-abstract/abstract.element" id="content-model"/>
+<section conkeyref="inheritance-abstract/abstract.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example: <xmlelement>abstract</xmlelement> with phrase-level short description</title><codeblock id="example-code">&lt;abstract&gt;The abstract is being used to provide more complex content. 
 	&lt;shortdesc&gt;The shortdesc must be directly contained by the abstract.&lt;/shortdesc&gt;
 The abstract can put text around the shortdesc.

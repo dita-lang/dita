@@ -15,12 +15,11 @@
           elements<indexterm><xmlelement>glossScopeNote</xmlelement></indexterm></indexterm><indexterm><xmlelement>glossScopeNote</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-glossScopeNote/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossScopeNote/glossScopeNote.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/note concept/note glossentry/glossScopeNote </p></section>
+<section conkeyref="inheritance-glossScopeNote/glossScopeNote.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;glossentry id="linuxOS" xml:lang="en-us">
   &lt;glossterm>Linux Operating System&lt;/glossterm>
   &lt;glossdef>An operating system based on the kernel created by Linus Torvald.&lt;/glossdef>

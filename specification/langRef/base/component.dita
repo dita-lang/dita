@@ -18,9 +18,8 @@ logic is not currently supported in DITA processing.--></shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-component/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/component </p></section>
+<section conkeyref="content-models-component/component.element" id="content-model"/>
+<section conkeyref="inheritance-component/component.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;prodinfo&gt;
  &lt;prodname&gt;BatCom&lt;/prodname&gt;
  &lt;vrmlist&gt;

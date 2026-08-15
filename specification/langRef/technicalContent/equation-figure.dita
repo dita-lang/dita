@@ -36,12 +36,9 @@
           <xmlelement>equation-block</xmlelement> elements to contain the equations and clearly
         distinguish them from the commentary.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-equation-figure/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-equation-figure/equation-figure.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/fig equation-d/equation-figure </p>
-    </section>
+    <section conkeyref="inheritance-equation-figure/equation-figure.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>In the following example, the <xmlelement>equation-figure</xmlelement> element contains a

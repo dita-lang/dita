@@ -10,12 +10,11 @@ that is needed to perform a task, such as a slide hammer.</shortdesc>
 <keywords><indexterm>supequi</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-supequi/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-supequi/supequi.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/supequi</p></section>
+<section conkeyref="inheritance-supequi/supequi.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;supequip>
  &lt;supeqli>
   <b>&lt;supequi></b>Driver handle<b>&lt;/supequi></b>

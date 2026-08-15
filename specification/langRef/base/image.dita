@@ -28,9 +28,8 @@
       <p>To make the intent of the image more accessible for users using screen readers or text-only
         readers, authors should include a description of the image content in the <xmlelement>alt</xmlelement> element.</p>
     </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-image/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/image </p></section>
+<section conkeyref="content-models-image/image.element" id="content-model"/>
+<section conkeyref="inheritance-image/image.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;image href="bike.gif" placement="break"&gt;
   &lt;alt&gt;Two-wheeled bicycle&lt;/alt&gt;
 &lt;/image&gt;</codeblock></example>

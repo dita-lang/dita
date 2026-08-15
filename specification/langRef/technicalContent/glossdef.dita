@@ -13,10 +13,9 @@ each sense.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-glossdef/contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossdef/glossdef.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/abstract concept/abstract glossentry/glossdef </p></section>
+<section conkeyref="inheritance-glossdef/glossdef.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

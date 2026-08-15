@@ -14,9 +14,8 @@
    definitions. For example, in the OASIS task specialization, many elements within the
     <xmlelement>step</xmlelement> element are specialized from
    <xmlelement>itemgroup</xmlelement>.</section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-itemgroup/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/itemgroup </p></section>
+<section conkeyref="content-models-itemgroup/itemgroup.element" id="content-model"/>
+<section conkeyref="inheritance-itemgroup/itemgroup.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;li&gt;Second point of a list.
  &lt;itemgroup&gt;related discourse&lt;/itemgroup&gt;
 &lt;/li&gt;</codeblock></example>

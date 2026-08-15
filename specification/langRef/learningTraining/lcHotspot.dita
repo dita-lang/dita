@@ -18,15 +18,11 @@
             </metadata>
       </prolog>
       <refbody>
-            <section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcHotspot/contains" id="contains" otherprops="contains"></section>
+            <section conkeyref="content-models-lcHotspot/lcHotspot.element" id="content-model"/>
             
 
 
-            <section id="inheritance" otherprops="inheritance">
-                  <title>Inheritance</title>
-                  <p>+ topic/fig learningInteractionBase-d/lcInteractionBase learning-d/lcHotspot
-                  </p>
-            </section>
+            <section conkeyref="inheritance-lcHotspot/lcHotspot.inheritance" id="inheritance"/>
             <example id="example" otherprops="examples">
                   <title>Example</title>
                   <codeblock>   &lt;!--Hotspot Interaction    -->

@@ -119,4 +119,8 @@
   <topicref href="base/required-cleanup.dita" keys="required-cleanup" navtitle="required-cleanup"/>
  </topicref>
  <mapref href="ditaref-ditaval.ditamap" navtitle="DITAVAL elements"/>
+  <mapref href='content-models/basetopic.ditamap'/>
+  <mapref href='content-models/basemap.ditamap'/>
+  <mapref href='content-models/subjectScheme.ditamap'/>
+  <mapref href='content-models/ditaval.ditamap'/>
 </map>

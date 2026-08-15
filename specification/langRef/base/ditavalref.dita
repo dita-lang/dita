@@ -104,11 +104,8 @@
       <p>Processors <term outputclass="RFC-2119">MAY</term> recover by using an alternate naming
         scheme for the conflicting copies. </p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-ditavalref/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ map/topicref ditavalref-d/ditavalref </p>
-    </section>
+    <section conkeyref="content-models-ditavalref/ditavalref.element" id="content-model"/>
+    <section conkeyref="inheritance-ditavalref/ditavalref.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples"
 conref="../../common/conref-examples.dita#conref-examples/ditavalref"/>
     <section id="attributes">

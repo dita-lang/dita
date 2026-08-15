@@ -13,12 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcProcesses/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcProcesses/lcProcesses.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title>
-<p>- topic/p learningBase/p learningPlan/lcProcesses </p>
-</section>
+		<section conkeyref="inheritance-lcProcesses/lcProcesses.inheritance" id="inheritance"/>
 
 <example id="example" conref="lcWorkEnv.dita#lcWorkEnv/example" otherprops="examples"/>
 <section id="attributes">

@@ -24,11 +24,8 @@
       <p>Troubleshooting topics represent the kind of information that users typically consult to
         fix a problem.</p>
     </section>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-troubleshooting/contains" id="contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/topic troubleshooting/troubleshooting </p>
-    </section>
+    <section conkeyref="content-models-troubleshooting/troubleshooting.element" id="content-model"/>
+    <section conkeyref="inheritance-troubleshooting/troubleshooting.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock xml:space="preserve">

@@ -14,14 +14,11 @@
   </metadata>
  </prolog>
  <refbody>
-  <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-backmatter/contains" otherprops="contains"></section>
+  <section conkeyref="content-models-backmatter/backmatter.element" id="content-model"/>
   
 
 
-  <section id="inheritance" otherprops="inheritance">
-   <title>Inheritance</title>
-   <p>- map/topicref bookmap/backmatter </p>
-  </section>
+  <section conkeyref="inheritance-backmatter/backmatter.inheritance" id="inheritance"/>
   <example id="example" otherprops="examples">
    <title>Example</title>
    <p>See the example in <xref href="bookmap.dita"></xref>.</p>

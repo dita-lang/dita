@@ -14,11 +14,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcInterventionItem/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcInterventionItem/lcInterventionItem.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/fig  learningBase/fig learningPlan/lcInterventionItem </p>
-		</section>
+		<section conkeyref="inheritance-lcInterventionItem/lcInterventionItem.inheritance" id="inheritance"/>
 <example id="example" conref="lcIntervention.dita#lcIntervention/example" otherprops="examples"/>
 <section id="attributes">
 <title>Attributes</title>

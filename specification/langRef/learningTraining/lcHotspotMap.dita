@@ -18,14 +18,11 @@
    </prolog>
    
    <refbody>
-      <section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcHotspotMap/contains" id="contains" otherprops="contains"></section>
+      <section conkeyref="content-models-lcHotspotMap/lcHotspotMap.element" id="content-model"/>
       
 
 
-      <section id="inheritance" otherprops="inheritance">
-         <title>Inheritance</title>
-         <p>+ topic/fig learningInteractionBase-d/figgroup learning-d/lcHotspotMap </p>
-      </section>
+      <section conkeyref="inheritance-lcHotspotMap/lcHotspotMap.inheritance" id="inheritance"/>
       <example conref="lcHotspot.dita#lcHotspot/example" id="example" otherprops="examples"/>
       <section id="attributes">
          <title>Attributes</title>

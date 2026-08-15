@@ -12,9 +12,8 @@ across columns, other than the fact that they apply to the same content.</shortd
     <indexterm>classification domain elements<indexterm>subjectCell</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-subjectCell/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-map/relcell classify-d/subjectCell </p></section>
+<section conkeyref="content-models-subjectCell/subjectCell.element" id="content-model"/>
+<section conkeyref="inheritance-subjectCell/subjectCell.inheritance" id="inheritance"/>
         <example id="example" otherprops="examples">
             <title>Example</title>
             <p>For a complete example in the context of the

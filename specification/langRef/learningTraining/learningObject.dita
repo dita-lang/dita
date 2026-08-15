@@ -25,13 +25,10 @@
         structure any existing DITA content as a learning object, and then take advantage of the
         learning-specific processing available for building and packaging that content for delivery
         in a learning system or learning context.</p>
-    </section><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningObject/contains" otherprops="contains"></section>
+    </section><section conkeyref="content-models-learningObject/learningObject.element" id="content-model"/>
 
 
-<section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ map/topicref learningmap-d/learningObject</p>
-    </section>
+<section conkeyref="inheritance-learningObject/learningObject.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>

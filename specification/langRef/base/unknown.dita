@@ -12,9 +12,8 @@
         <indexterm>unknown</indexterm><indexterm>specialization elements<indexterm>unknown</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-unknown/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/unknown </p></section>
+<section conkeyref="content-models-unknown/unknown.element" id="content-model"/>
+<section conkeyref="inheritance-unknown/unknown.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This example features a specialized <xmlelement>unknown</xmlelement> element that includes other
         non-DITA content. If this specialization is imported to a DTD or schema, the DTD or schema
         will need to handle declaring the new elements or any namespaces.</p><codeblock>&lt;body>

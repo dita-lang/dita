@@ -12,11 +12,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lomCoverage/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lomCoverage/lomCoverage.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>+ topic/data learning-d/lomCoverage </p>
-</section>
+		<section conkeyref="inheritance-lomCoverage/lomCoverage.inheritance" id="inheritance"/>
 
 <example id="example" otherprops="examples"><title>Example</title>
 <p>See <xref href="lcLom.dita#lcLom/example">lcLom</xref>.</p>

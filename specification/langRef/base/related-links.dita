@@ -25,9 +25,8 @@
           roles of ancestor, parent, child, descendant, next, previous, or sibling, although this
           behavior is not required.</li>
       </ol>     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-related-links/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/related-links </p></section>
+<section conkeyref="content-models-related-links/related-links.element" id="content-model"/>
+<section conkeyref="inheritance-related-links/related-links.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following
 indicates that the two external links are always applicable to this
 topic, regardless of how the topic is used.</p><codeblock>&lt;related-links scope="external" format="html">

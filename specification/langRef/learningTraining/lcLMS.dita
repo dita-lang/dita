@@ -10,10 +10,9 @@ and version number used in the learning event.</shortdesc>
 elements<indexterm>lcLMS</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcLMS/contains" otherprops="contains"></section>
+<section conkeyref="content-models-lcLMS/lcLMS.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"> 			<title>Inheritance</title><p>-
-topic/fig  learningBase/fig learningPlan/lcLMS </p> 		</section>
+<section conkeyref="inheritance-lcLMS/lcLMS.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>
 ...
    &lt;lcLMS&gt;

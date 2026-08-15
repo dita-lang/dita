@@ -18,12 +18,11 @@ term and an alternate term provides an allowed term.</shortdesc>
                               subject scheme</ph> to set up controlled values for the
                               <xmlatt>value</xmlatt> attribute. Alternatively, processing rules can
                         be used to validate the values.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-glossStatus/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossStatus/glossStatus.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/data concept/data glossentry/glossStatus </p></section>
+<section conkeyref="inheritance-glossStatus/glossStatus.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

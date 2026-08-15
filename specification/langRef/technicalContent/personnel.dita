@@ -9,12 +9,11 @@ the minimum number of workers who are required to perform a task. </shortdesc>
 <keywords><indexterm>personnel</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-personnel/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-personnel/personnel.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/personnel</p></section>
+<section conkeyref="inheritance-personnel/personnel.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;reqpers&gt;
  <b>&lt;personnel&gt;</b>2<b>&lt;/personnel&gt;</b>
  &lt;perscat&gt;Mechanic&lt;/perscat&gt;

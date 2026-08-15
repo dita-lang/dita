@@ -21,12 +21,11 @@
 <section id="section-1"><note id="translation">A list of alternative terms is specific to the language, so the translation
             of a <xmlelement>glossentry</xmlelement> topic might result in empty elements within a
                <xmlelement>glossAlt</xmlelement> container.</note></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-glossAlt/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossAlt/glossAlt.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/section concept/section glossentry/glossAlt </p></section>
+<section conkeyref="inheritance-glossAlt/glossAlt.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>See the example in <xref href="glossentry.dita#glossentry/example"

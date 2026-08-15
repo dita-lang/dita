@@ -18,9 +18,8 @@
       <p>Use the <xmlelement>desc</xmlelement> element to provide a longer description of the figure
         following the title. </p>
     </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-fig/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/fig </p></section>
+<section conkeyref="content-models-fig/fig.element" id="content-model"/>
+<section conkeyref="inheritance-fig/fig.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;fig expanse="column"&gt;
   &lt;title&gt;The Handshake&lt;/title&gt;

@@ -19,9 +19,8 @@
                <xmlelement>term</xmlelement> using standard <xmlatt>keyref</xmlatt> processing for
             variable text.</p>
 </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-term/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/term </p></section>
+<section conkeyref="content-models-term/term.element" id="content-model"/>
+<section conkeyref="inheritance-term/term.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock xml:space="preserve">&lt;p&gt;A &lt;term&gt;reference implementation&lt;/term&gt; of DITA implements the standard, 
 fallback behaviors intended for DITA elements.&lt;/p&gt;</codeblock> </example>
 <section id="attributes"><title>Attributes</title>

@@ -14,9 +14,8 @@
         <indexterm>objects<indexterm>long descriptions</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-longdescref/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/longdescref </p></section>
+<section conkeyref="content-models-longdescref/longdescref.element" id="content-model"/>
+<section conkeyref="inheritance-longdescref/longdescref.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig>
         <title><xmlelement>longdescref</xmlelement> which references a local DITA
           description</title>

@@ -16,15 +16,8 @@
 		</keywords> </metadata>
   </prolog> 
   <refbody> 
-	 <section id="contains"
-	  conref="../../common/commonNavLibraryTable.dita#contentmodel-lcGoals/contains"
-	  otherprops="contains">
-	 </section> 
-	 <section id="inheritance" otherprops="inheritance"> 
-		<title>Inheritance</title>
-		<p>- topic/p learningBase/p learningPlan/lcGoals 
-		</p> 
-	 </section> 
+	 <section conkeyref="content-models-lcGoals/lcGoals.element" id="content-model"/> 
+	 <section conkeyref="inheritance-lcGoals/lcGoals.inheritance" id="inheritance"/> 
 	 <example id="example" otherprops="examples"> 
 		<title>Example</title> 
 		<codeblock>

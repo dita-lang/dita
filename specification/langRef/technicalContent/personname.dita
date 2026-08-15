@@ -10,10 +10,9 @@ about the author.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-personname/contains" otherprops="contains"></section>
+<section conkeyref="content-models-personname/personname.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/data xnal-d/personname </p></section>
+<section conkeyref="inheritance-personname/personname.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;personinfo&gt;
  &lt;namedetails&gt;
   &lt;personname&gt;

@@ -15,11 +15,8 @@
   </metadata>
  </prolog>
  <refbody>
-  <section conref="../../common/commonNavLibraryTable.dita#contentmodel-responsibleParty/contains" id="contains" otherprops="contains"></section>
-  <section id="inheritance" otherprops="inheritance">
-   <title>Inheritance</title>
-   <p>- topic/p troubleshooting/responsibleParty</p>
-  </section>
+  <section conkeyref="content-models-responsibleParty/responsibleParty.element" id="content-model"/>
+  <section conkeyref="inheritance-responsibleParty/responsibleParty.inheritance" id="inheritance"/>
   <example id="example" otherprops="examples">
    <title>Example</title>
    <p>See <xref href="troubleshooting.dita"/>.</p>

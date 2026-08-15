@@ -22,12 +22,9 @@
         reference a single learning group map, either from a learning map, learning bookmap,
         learning group map or <xmlelement>learningGroup</xmlelement> element.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningGroupMapRef/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-learningGroupMapRef/learningGroupMapRef.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ map/topicref learningmap-d/learningGroupMapRef</p>
-    </section>
+    <section conkeyref="inheritance-learningGroupMapRef/learningGroupMapRef.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;map id="map_1234">

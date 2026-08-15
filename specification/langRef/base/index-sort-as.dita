@@ -69,9 +69,8 @@ level in which it occurs.</p>
                                         <xmlelement>index-sort-as</xmlelement>.</p>
 <p><ph conref="../../common/conref-file.dita#reuse_file/index-sort-as" id="sort-as-error"/></p>
 </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-index-sort-as/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/index-base indexing-d/index-sort-as </p></section>
+<section conkeyref="content-models-index-sort-as/index-sort-as.element" id="content-model"/>
+<section conkeyref="inheritance-index-sort-as/index-sort-as.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><p>This is an example of an index entry for <codeph>&lt;data&gt;</codeph> that will be sorted as
 "data":</p><codeblock xml:space="preserve">&lt;indexterm&gt;&amp;lt;data&amp;gt;&lt;index-sort-as&gt;data&lt;/index-sort-as&gt;&lt;/indexterm&gt;</codeblock></example>
 <section id="attributes"><title>Attributes</title>

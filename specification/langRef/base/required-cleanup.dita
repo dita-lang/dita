@@ -18,9 +18,8 @@
 <li>Processor options <ph >might</ph> be provided to allow a draft view of
             migrated content in context.</li>
 </ul></note></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-required-cleanup/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/required-cleanup </p></section>
+<section conkeyref="content-models-required-cleanup/required-cleanup.element" id="content-model"/>
+<section conkeyref="inheritance-required-cleanup/required-cleanup.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>Presuming an original HTML document had contained some content within a
           <xmlelement>center</xmlelement> tag (for which there is no clear migrational equivalent in
         DITA), the following might be the result that is valid within an XML editor, but which

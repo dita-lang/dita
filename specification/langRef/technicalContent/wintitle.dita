@@ -15,10 +15,9 @@ information.</shortdesc>
         <indexterm><xmlelement>wintitle</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-wintitle/contains" otherprops="contains"></section>
+<section conkeyref="content-models-wintitle/wintitle.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword ui-d/wintitle </p></section>
+<section conkeyref="inheritance-wintitle/wintitle.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;
   &lt;cmd&gt;Click &lt;uicontrol&gt;Configure&lt;/uicontrol&gt;.&lt;/cmd&gt;
   &lt;stepresult&gt;The &lt;wintitle&gt;Configuration Options&lt;/wintitle&gt; window

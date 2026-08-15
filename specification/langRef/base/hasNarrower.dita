@@ -13,9 +13,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>hasNarrower</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-hasNarrower/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/hasNarrower </p></section>
+<section conkeyref="content-models-hasNarrower/hasNarrower.element" id="content-model"/>
+<section conkeyref="inheritance-hasNarrower/hasNarrower.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This example specifies
 that Planting Roses is a narrower subject category than Horticulture,
 although it is part of the Horticulture subject area.</p><codeblock>&lt;subjectScheme>

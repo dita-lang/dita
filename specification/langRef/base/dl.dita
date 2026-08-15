@@ -24,9 +24,8 @@ engine.</ph></shortdesc>
     provided using the <xmlelement>dlhead</xmlelement> element, which contains header elements for
     those columns. The default formatting for the <xmlelement>dlhead</xmlelement> generally looks
     like a table with a heading row, but this is also up to the rendering engine.</p>     </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dl/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/dl </p></section>
+<section conkeyref="content-models-dl/dl.element" id="content-model"/>
+<section conkeyref="inheritance-dl/dl.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Examples</title><fig id="simpleexample">
 <title>Simple definition list example</title>
 <codeblock>&lt;dl>

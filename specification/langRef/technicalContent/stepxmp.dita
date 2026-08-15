@@ -10,12 +10,11 @@ step example can be a couple of words, or an entire paragraph.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-stepxmp/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-stepxmp/stepxmp.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/itemgroup task/stepxmp </p></section>
+<section conkeyref="inheritance-stepxmp/stepxmp.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;step&gt;
  &lt;cmd&gt;Type a name for the widget.&lt;/cmd&gt;

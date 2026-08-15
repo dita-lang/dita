@@ -14,12 +14,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-choptionhd/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-choptionhd/choptionhd.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/stentry task/choptionhd </p></section>
+<section conkeyref="inheritance-choptionhd/choptionhd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;&lt;cmd&gt;Then this&lt;/cmd&gt;
  &lt;choicetable&gt;
   &lt;chhead&gt;

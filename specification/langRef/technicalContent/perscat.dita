@@ -9,12 +9,11 @@ the type or category of workers that is required by a task.</shortdesc>
 <keywords><indexterm>perscat</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-perscat/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-perscat/perscat.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/li task/li taskreq-d/perscat</p></section>
+<section conkeyref="inheritance-perscat/perscat.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;reqpers&gt;
  &lt;personnel&gt;2&lt;/personnel&gt;
  <b>&lt;perscat&gt;</b>Mechanic<b>&lt;/perscat&gt;</b>

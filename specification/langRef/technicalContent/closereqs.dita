@@ -11,12 +11,11 @@ the vehicle for any drips or leaks."</shortdesc>
 <keywords><indexterm>closereqs</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-closereqs/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-closereqs/closereqs.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/section task/postreq taskreq-d/closereqs</p></section>
+<section conkeyref="inheritance-closereqs/closereqs.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;closereqs&gt;
   &lt;reqconds&gt;
     &lt;reqcond&gt;Run the engine and then check the

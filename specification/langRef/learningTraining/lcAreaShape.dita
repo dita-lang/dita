@@ -37,13 +37,10 @@
           </dlentry>
         </dl></p>
     </section>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcAreaShape/contains" id="contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcAreaShape/lcAreaShape.element" id="content-model"/>
     
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword learningInteractionBase-d/keyword learning-d/lcAreaShape </p>
-    </section>
+    <section conkeyref="inheritance-lcAreaShape/lcAreaShape.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;lcHotspotMap>

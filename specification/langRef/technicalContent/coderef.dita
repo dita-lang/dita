@@ -21,11 +21,11 @@
     </metadata>
   </prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-coderef/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-coderef/coderef.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p><ph >+</ph> topic/xref pr-d/coderef </p></section>
+<section conkeyref="inheritance-coderef/coderef.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;example>
   &lt;title>Processing DITA&lt;/title>
   &lt;p>This code is an example of how to process DITA.&lt;/p>

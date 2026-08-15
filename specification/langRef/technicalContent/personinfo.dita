@@ -11,10 +11,9 @@ information.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-personinfo/contains" otherprops="contains"></section>
+<section conkeyref="content-models-personinfo/personinfo.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/data xnal-d/personinfo </p></section>
+<section conkeyref="inheritance-personinfo/personinfo.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;personinfo&gt;
  &lt;namedetails&gt;&lt;personname&gt;
    &lt;firstname&gt;Derek&lt;/firstname&gt;

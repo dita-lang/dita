@@ -19,12 +19,9 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-textentity/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-textentity/textentity.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/keyword markup-d/markupname xml-d/textentity p</p>
-    </section>
+    <section conkeyref="inheritance-textentity/textentity.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock>The <b>&lt;textentity>hi-d-att&lt;/textentity></b> entity holds the contribution for the 

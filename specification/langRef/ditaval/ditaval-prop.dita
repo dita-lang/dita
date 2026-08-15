@@ -34,9 +34,7 @@
           this error is implementation dependent; in such cases processors <term
             outputclass="RFC-2119">MAY</term> provide an error or warning message. </li>
       </ul></section>
-<section id="contains" otherprops="contains"><title>Contains</title><p><xref
-href="ditaval-startflag.dita">startflag</xref> (<i>optional</i>) then <xref
-href="ditaval-endflag.dita">endflag</xref> (<i>optional</i>)</p></section>
+<section conkeyref="content-models-ditaval-prop/ditaval-prop.element" id="content-model"/>
 <section id="containedby" otherprops="containedby"><title>Contained by</title><p><xref
 href="ditaval-val.dita">val</xref></p></section>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example

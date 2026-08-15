@@ -10,10 +10,9 @@ for some type of book event, such as a review, editing, or testing. </shortdesc>
 <indexterm>completed</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-completed/contains" otherprops="contains"></section>
+<section conkeyref="content-models-completed/completed.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ph bookmap/completed </p></section>
+<section conkeyref="inheritance-completed/completed.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See
 the example in <xref href="bookchangehistory.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

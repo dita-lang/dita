@@ -10,10 +10,9 @@ Locators (URLs). </shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-urls/contains" otherprops="contains"></section>
+<section conkeyref="content-models-urls/urls.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/data xnal-d/urls </p></section>
+<section conkeyref="inheritance-urls/urls.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;organizationinfo&gt;
  &lt;namedetails&gt;
   &lt;organizationnamedetails&gt;

@@ -11,10 +11,9 @@ on which an address is located.</shortdesc>
 <indexterm>thoroughfare</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-thoroughfare/contains" otherprops="contains"></section>
+<section conkeyref="content-models-thoroughfare/thoroughfare.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph xnal-d/thoroughfare </p></section>
+<section conkeyref="inheritance-thoroughfare/thoroughfare.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;addressdetails&gt;
 &lt;thoroughfare&gt;123 Yellow Brick Road&lt;/thoroughfare&gt;
 &lt;locality&gt;

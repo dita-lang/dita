@@ -19,9 +19,8 @@
 <section id="section-1"><p>This close match of <xmlelement>simpletable</xmlelement> to tabular, regular data makes
 <xmlelement>simpletable</xmlelement> suitable as the basis for specialized structures such as
 <xmlelement>properties</xmlelement> (for programming information) and choice tables (for tasks).</p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-simpletable/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/simpletable </p></section>
+<section conkeyref="content-models-simpletable/simpletable.element" id="content-model"/>
+<section conkeyref="inheritance-simpletable/simpletable.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><dl><dlentry>
 <dt>Source: </dt>
 <dd><codeblock>&lt;simpletable&gt;

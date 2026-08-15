@@ -25,10 +25,9 @@ element specifically supports constructions for which text is the primary conten
 DITA user interface domain, a special set of DITA elements designed
 to document user interface tasks, concepts and reference
 information.</p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-screen/contains" otherprops="contains"></section>
+<section conkeyref="content-models-screen/screen.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/pre ui-d/screen </p></section>
+<section conkeyref="inheritance-screen/screen.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <fig id="screen-source">

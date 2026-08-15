@@ -15,12 +15,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-chdeschd/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-chdeschd/chdeschd.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/stentry task/chdeschd </p></section>
+<section conkeyref="inheritance-chdeschd/chdeschd.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;step&gt;&lt;cmd&gt;Then this&lt;/cmd&gt;
   &lt;choicetable&gt;
     &lt;chhead&gt;

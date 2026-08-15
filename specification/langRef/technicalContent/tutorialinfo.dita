@@ -16,12 +16,11 @@ is part of a tutorial.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-tutorialinfo/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-tutorialinfo/tutorialinfo.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/itemgroup task/tutorialinfo </p></section>
+<section conkeyref="inheritance-tutorialinfo/tutorialinfo.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock xml:space="preserve">&lt;steps&gt;
   &lt;step&gt;
     &lt;cmd&gt;Do this&lt;/cmd&gt;

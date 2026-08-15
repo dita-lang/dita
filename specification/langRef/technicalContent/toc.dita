@@ -14,12 +14,11 @@
 <indexterm>Table of contents (toc)</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-toc/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-toc/toc.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/toc </p></section>
+<section conkeyref="inheritance-toc/toc.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookmap.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title><sectiondiv

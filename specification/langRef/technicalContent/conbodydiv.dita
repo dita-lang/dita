@@ -19,12 +19,11 @@
    The <xmlelement>conbodydiv</xmlelement> element, which allows groupings of sections and examples, keeps the same
    restriction in place; once used, only sections, examples, or other <xmlelement>conbodydiv</xmlelement> groups are
    allowed.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-conbodydiv/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-conbodydiv/conbodydiv.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/bodydiv concept/conbodydiv </p></section>
+<section conkeyref="inheritance-conbodydiv/conbodydiv.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>One common use case for the <xmlelement>conbodydiv</xmlelement> element is to group a sequence of
                 sections for reuse, so that another concept <ph >can</ph>
                 reference the entire set with a single <xmlatt>conref</xmlatt> attribute.</p><codeblock>&lt;concept id="sample" xml:lang="en">

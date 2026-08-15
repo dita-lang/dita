@@ -17,11 +17,8 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcAnswerOptionGroup2/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/ul learningInteractionBase2-d/ul learning2-d/lcAnswerOptionGroup2 </p>
-    </section>
+    <section conkeyref="content-models-lcAnswerOptionGroup2/lcAnswerOptionGroup2.element" id="content-model"/>
+    <section conkeyref="inheritance-lcAnswerOptionGroup2/lcAnswerOptionGroup2.inheritance" id="inheritance"/>
     <example conref="lcSingleSelect2.dita#lcSingleSelect2/example" id="example" otherprops="examples"/>
     <section id="attributes">
       <title>Attributes</title>

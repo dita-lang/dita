@@ -10,10 +10,9 @@ dedication for the book, such as to a person or group.</shortdesc>
 <indexterm>dedication</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dedication/contains" otherprops="contains"></section>
+<section conkeyref="content-models-dedication/dedication.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/dedication </p></section>
+<section conkeyref="inheritance-dedication/dedication.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;frontmatter>
   &lt;d<?Pub Caret1?>edication href="dtm.dita"
                   navtitle="Dedicated to Mother"/>

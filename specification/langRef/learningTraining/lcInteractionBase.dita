@@ -17,14 +17,11 @@
     </metadata>
   </prolog>
   <refbody>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-lcInteractionBase/contains" id="contains" otherprops="contains"></section>
+    <section conkeyref="content-models-lcInteractionBase/lcInteractionBase.element" id="content-model"/>
     
 
 
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/fig lcInteractionBase-d/lcInteractionBase</p>
-    </section>
+    <section conkeyref="inheritance-lcInteractionBase/lcInteractionBase.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <p><ph >Use</ph>
         <keyword>lcInteractionBase</keyword> only as a base for further specialization.</p>

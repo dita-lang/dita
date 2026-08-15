@@ -17,12 +17,11 @@ section are added to the &lt;prereq&gt; section."--></shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-prereq/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-prereq/prereq.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/section task/prereq </p></section>
+<section conkeyref="inheritance-prereq/prereq.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;task id="sqlj"&gt;
  &lt;title&gt;Creating an SQLJ file&lt;/title&gt;

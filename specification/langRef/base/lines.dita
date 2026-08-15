@@ -15,9 +15,8 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lines/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/lines </p></section>
+<section conkeyref="content-models-lines/lines.element" id="content-model"/>
+<section conkeyref="inheritance-lines/lines.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>This is a sample of my favorite sonnet.
 &lt;lines&gt;
 Shall I compare thee to a summer's day?

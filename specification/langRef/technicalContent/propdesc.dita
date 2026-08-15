@@ -12,10 +12,9 @@ values.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-propdesc/contains" otherprops="contains"></section>
+<section conkeyref="content-models-propdesc/propdesc.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/stentry     reference/propdesc </p></section>
+<section conkeyref="inheritance-propdesc/propdesc.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="properties.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title>

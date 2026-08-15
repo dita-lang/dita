@@ -42,9 +42,8 @@ tables can be used in conjunction with hierarchies and groups to manage
 all the related links in an information set.</p>
       <p >Within a map tree, the effective relationship table is the union of
         all relationship tables in the map.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-reltable/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/reltable </p></section>
+<section conkeyref="content-models-reltable/reltable.element" id="content-model"/>
+<section conkeyref="inheritance-reltable/reltable.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>In this example, a relationship table is defined with three columns; one for "concept", one for
         "task", and one for "reference". Three cells are defined within one row. The first cell
         contains one concept topic: <filepath>batsonar.dita</filepath>. The second cell contains two

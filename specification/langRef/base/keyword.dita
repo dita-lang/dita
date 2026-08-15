@@ -36,9 +36,8 @@ phrases.</li>
             inline element. The <xmlelement>keywords</xmlelement> element only appears in the
                <xmlelement>topicmeta</xmlelement> or <xmlelement>prolog</xmlelement> elements; it is
             used to specify keywords that apply to the topic.</p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-keyword/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/keyword </p></section>
+<section conkeyref="content-models-keyword/keyword.element" id="content-model"/>
+<section conkeyref="inheritance-keyword/keyword.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><codeblock xml:space="preserve">&lt;p&gt;The &lt;keyword&gt;assert&lt;/keyword&gt; pragma statement allows messages to be passed
 to the emulator, pre-compiler, etc..&lt;/p&gt;
 &lt;p>The &lt;keyword id="myProduct">AmazingProduct&lt;/keyword> can make use of

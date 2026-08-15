@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-data-about" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-data-about" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-data" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-data" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-unknown" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-unknown" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-foreign" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-foreign" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-title" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-title" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-navtitle" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-navtitle" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-desc" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-desc" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-p" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-p" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-note" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-note" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-longquoteref"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-longquoteref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-lq" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-lq" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-q" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-q" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sl" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sl" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sli" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sli" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-ul" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-ul" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-ol" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-ol" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-li" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-li" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-itemgroup" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-itemgroup" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-dl" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-dl" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-dlhead" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-dlhead" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-dthd" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-dthd" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-ddhd" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-ddhd" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-dlentry" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-dlentry" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-dt" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-dt" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-dd" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-dd" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-fig" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-fig" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-figgroup" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-figgroup" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-pre" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-pre" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-lines" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-lines" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-div" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-div" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-text" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-text" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-keyword" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-keyword" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-term" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-term" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-ph" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-ph" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-tm" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-tm" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-boolean" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-boolean" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-state" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-state" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-image" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-image" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-alt" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-alt" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-longdescref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-longdescref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-object" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-object" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-param" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-param" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-simpletable" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-simpletable" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sthead" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sthead" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-strow" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-strow" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-stentry" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-stentry" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-draft-comment"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-draft-comment" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-required-cleanup"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-required-cleanup" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-fn" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-fn" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-indexterm" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-indexterm" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-index-base" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-index-base" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-indextermref"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-indextermref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-cite" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-cite" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-xref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-xref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-table" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-table" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-tgroup" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-tgroup" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-colspec" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-colspec" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-thead" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-thead" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-tbody" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-tbody" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-row" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-row" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-entry" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-entry" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-author" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-author" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-source" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-source" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-publisher" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-publisher" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-copyright" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-copyright" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-copyryear" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-copyryear" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-copyrholder" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-copyrholder" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-critdates" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-critdates" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-created" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-created" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-revised" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-revised" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-permissions" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-permissions" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-category" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-category" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-metadata" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-metadata" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-audience" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-audience" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-keywords" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-keywords" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-prodinfo" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-prodinfo" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-prodname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-prodname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-vrmlist" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-vrmlist" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-vrm" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-vrm" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-brand" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-brand" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-series" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-series" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-platform" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-platform" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-prognum" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-prognum" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-featnum" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-featnum" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-component" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-component" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-othermeta" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-othermeta" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-resourceid" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-resourceid" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-topic" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-topic" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-titlealts" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-titlealts" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-searchtitle" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-searchtitle" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-shortdesc" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-shortdesc" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-abstract" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-abstract" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-body" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-body" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-bodydiv" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-bodydiv" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-no-topic-nesting"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-no-topic-nesting" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-section" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-section" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sectiondiv" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sectiondiv" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-example" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-example" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-prolog" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-prolog" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-related-links"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-related-links" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-link" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-link" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-linktext" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-linktext" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-linklist" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-linklist" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-linkinfo" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-linkinfo" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-linkpool" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-linkpool" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-concept" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-concept" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-conbody" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-conbody" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-conbodydiv" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-conbodydiv" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossentry" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossentry" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossterm" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossterm" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossdef" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossdef" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossBody" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossBody" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossAbbreviation"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossAbbreviation" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossAcronym"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossAcronym" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossShortForm"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossShortForm" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossSynonym"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossSynonym" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossPartOfSpeech"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossPartOfSpeech" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossStatus" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossStatus" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossProperty"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossProperty" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossSurfaceForm"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossSurfaceForm" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossUsage" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossUsage" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossScopeNote"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossScopeNote" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossSymbol" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossSymbol" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossAlt" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossAlt" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossAlternateFor"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossAlternateFor" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-glossgroup" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-glossgroup" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-equation-inline"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-equation-inline" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-equation-block"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-equation-block" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-equation-number"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-equation-number" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-equation-figure"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-equation-figure" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-hazardstatement"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-hazardstatement" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-hazardsymbol"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-hazardsymbol" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-messagepanel"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-messagepanel" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-typeofhazard"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-typeofhazard" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-consequence" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-consequence" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-howtoavoid" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-howtoavoid" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-b" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-b" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-u" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-u" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-i" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-i" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-line-through"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-line-through" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-overline" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-overline" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-tt" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-tt" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sup" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sup" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sub" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sub" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-index-see" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-index-see" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-index-see-also"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-index-see-also" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-index-sort-as"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-index-sort-as" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-abbreviated-form"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-abbreviated-form" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-markupname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-markupname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-mathmlref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-mathmlref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-mathml" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-mathml" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-codeph" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-codeph" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-codeblock" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-codeblock" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-coderef" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-coderef" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-option" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-option" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-var" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-var" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-parmname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-parmname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-synph" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-synph" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-oper" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-oper" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-delim" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-delim" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sep" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sep" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-apiname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-apiname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-parml" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-parml" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-plentry" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-plentry" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-pt" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-pt" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-pd" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-pd" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-syntaxdiagram"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-syntaxdiagram" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-synblk" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-synblk" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-groupseq" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-groupseq" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-groupchoice" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-groupchoice" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-groupcomp" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-groupcomp" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-fragment" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-fragment" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-fragref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-fragref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-synnote" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-synnote" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-synnoteref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-synnoteref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-repsep" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-repsep" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-kwd" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-kwd" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-historylist"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-historylist"
+            href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-item" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-item" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-person"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-person" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-organization"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-organization"
+            href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-revisionid"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-revisionid" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-request-reference"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-request-reference"
+            href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-request-system"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-request-system"
+            href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-request-id"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-request-id" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-started"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-started" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-completed"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-completed" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-change-summary"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-change-summary" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-msgph" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-msgph" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-msgblock" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-msgblock" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-msgnum" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-msgnum" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-cmdname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-cmdname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-varname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-varname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-filepath" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-filepath" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-userinput" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-userinput" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-systemoutput"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-systemoutput" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-svg-container"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-svg-container" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-svgref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-svgref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-uicontrol" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-uicontrol" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-wintitle" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-wintitle" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-menucascade" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-menucascade" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-shortcut" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-shortcut" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-screen" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-screen" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-imagemap" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-imagemap" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-area" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-area" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-shape" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-shape" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-coords" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-coords" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-sort-as" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-sort-as" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-numcharref" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-numcharref" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-parameterentity"
+            href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-parameterentity" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-textentity" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-textentity" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-xmlatt" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-xmlatt" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-xmlelement" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-xmlelement" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-xmlnsname" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-xmlnsname" href="glossgroup.dita#inheritance"/>
+   <keydef keys="content-models-xmlpi" href="glossgroup.dita#content-models"/>
+   <keydef keys="inheritance-xmlpi" href="glossgroup.dita#inheritance"/>
+</map>

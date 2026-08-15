@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-learningBase"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-learningBase"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-learningBasebody"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-learningBasebody"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcIntro"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcIntro" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcObjectives"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcObjectives"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcObjectivesStem"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcObjectivesStem"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcObjectivesGroup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcObjectivesGroup"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcObjective"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcObjective"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAudience"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAudience"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcDuration"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcDuration"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcTime"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcTime" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcPrereqs"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcPrereqs" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSummary"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSummary" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcNextSteps"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcNextSteps"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcReview"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcReview" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcResources"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcResources"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcChallenge"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcChallenge"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInstruction"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInstruction"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInteraction"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInteraction"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-learningAssessment"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-learningAssessment"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-learningAssessmentbody"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-learningAssessmentbody"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-data-about"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-data-about"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-data"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-data" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-unknown"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-unknown" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-foreign"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-foreign" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-title"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-title" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-navtitle"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-navtitle" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-desc"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-desc" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-p" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-p" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-note"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-note" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-longquoteref"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-longquoteref"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lq" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lq" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-q" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-q" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sl" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sl" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sli" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sli" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-ul" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-ul" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-ol" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-ol" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-li" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-li" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-itemgroup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-itemgroup" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-dl" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-dl" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-dlhead"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-dlhead" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-dthd"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-dthd" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-ddhd"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-ddhd" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-dlentry"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-dlentry" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-dt" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-dt" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-dd" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-dd" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-fig" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-fig" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-figgroup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-figgroup" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-pre" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-pre" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lines"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lines" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-div" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-div" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-text"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-text" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-keyword"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-keyword" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-term"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-term" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-ph" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-ph" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-tm" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-tm" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-boolean"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-boolean" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-state"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-state" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-image"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-image" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-alt" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-alt" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-longdescref"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-longdescref"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-object"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-object" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-param"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-param" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-simpletable"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-simpletable"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sthead"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sthead" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-strow"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-strow" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-stentry"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-stentry" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-draft-comment"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-draft-comment"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-required-cleanup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-required-cleanup"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-fn" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-fn" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-indexterm"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-indexterm" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-index-base"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-index-base"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-indextermref"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-indextermref"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-cite"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-cite" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-xref"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-xref" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-table"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-table" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-tgroup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-tgroup" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-colspec"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-colspec" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-thead"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-thead" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-tbody"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-tbody" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-row" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-row" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-entry"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-entry" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-author"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-author" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-source"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-source" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-publisher"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-publisher" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-copyright"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-copyright" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-copyryear"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-copyryear" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-copyrholder"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-copyrholder"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-critdates"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-critdates" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-created"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-created" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-revised"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-revised" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-permissions"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-permissions"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-category"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-category" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-metadata"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-metadata" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-audience"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-audience" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-keywords"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-keywords" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-prodinfo"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-prodinfo" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-prodname"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-prodname" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-vrmlist"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-vrmlist" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-vrm" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-vrm" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-brand"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-brand" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-series"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-series" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-platform"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-platform" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-prognum"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-prognum" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-featnum"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-featnum" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-component"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-component" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-othermeta"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-othermeta" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-resourceid"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-resourceid"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-topic"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-topic" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-titlealts"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-titlealts" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-searchtitle"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-searchtitle"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-shortdesc"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-shortdesc" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-abstract"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-abstract" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-body"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-body" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-bodydiv"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-bodydiv" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-no-topic-nesting"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-no-topic-nesting"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-section"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-section" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sectiondiv"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sectiondiv"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-example"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-example" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-prolog"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-prolog" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-related-links"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-related-links"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-link"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-link" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-linktext"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-linktext" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-linklist"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-linklist" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-linkinfo"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-linkinfo" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-linkpool"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-linkpool" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-b" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-b" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-u" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-u" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-i" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-i" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-line-through"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-line-through"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-overline"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-overline" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-tt" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-tt" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sup" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sup" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sub" href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sub" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-index-see"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-index-see" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-index-see-also"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-index-see-also"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-index-sort-as"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-index-sort-as"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-imagemap"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-imagemap" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-area"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-area" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-shape"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-shape" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-coords"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-coords" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-sort-as"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-sort-as" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-historylist"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-historylist"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-item"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-item"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-person"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-person"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-organization"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-organization"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-revisionid"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-revisionid"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-request-reference"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-request-reference"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-request-system"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-request-system"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-request-id"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-request-id"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-started"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-started"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-completed"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-completed"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-change-summary"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-change-summary"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInteractionBase"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInteractionBase"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestionBase"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestionBase"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInteractionBase2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInteractionBase2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInteractionLabel2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInteractionLabel2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestionBase2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestionBase2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInstructornote"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInstructornote"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcTrueFalse"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcTrueFalse"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSingleSelect"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSingleSelect"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMultipleSelect"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMultipleSelect"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequencing"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequencing"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatching"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatching"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspot"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspot" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenQuestion"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenQuestion"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestion"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestion"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenAnswer"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenAnswer"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOptionGroup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOptionGroup"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOptionGroup"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOptionGroup"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAsset"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAsset" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOption"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOption"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedback"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedback"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackCorrect"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackCorrect"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackIncorrect"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackIncorrect"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOption"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOption"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerContent"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerContent"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchTable"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchTable"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingHeader"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingHeader"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingPair"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingPair"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcItem"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcItem" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItem"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItem"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItemFeedback"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItemFeedback"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspotMap"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspotMap"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcArea"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcArea" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaShape"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaShape"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaCoords"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaCoords"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcCorrectResponse"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcCorrectResponse"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequence"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequence"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcInstructornote2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcInstructornote2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcTrueFalse2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcTrueFalse2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSingleSelect2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSingleSelect2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMultipleSelect2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMultipleSelect2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequencing2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequencing2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatching2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatching2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspot2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspot2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenQuestion2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenQuestion2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestion2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestion2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenAnswer2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenAnswer2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOptionGroup2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOptionGroup2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOptionGroup2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOptionGroup2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAsset2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAsset2" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOption2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOption2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedback2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedback2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackCorrect2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackCorrect2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackIncorrect2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackIncorrect2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOption2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOption2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerContent2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerContent2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchTable2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchTable2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingHeader2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingHeader2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingPair2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingPair2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcItem2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcItem2" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItem2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItem2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItemFeedback2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItemFeedback2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspotMap2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspotMap2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcArea2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcArea2" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaShape2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaShape2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaCoords2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaCoords2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcCorrectResponse2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcCorrectResponse2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcSequence2"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcSequence2"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lcLom"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lcLom" href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomStructure"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomStructure"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomCoverage"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomCoverage"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomAggregationLevel"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomAggregationLevel"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomTechRequirement"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomTechRequirement"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomInstallationRemarks"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomInstallationRemarks"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomOtherPlatformRequirements"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomOtherPlatformRequirements"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomInteractivityType"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomInteractivityType"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomLearningResourceType"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomLearningResourceType"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomInteractivityLevel"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomInteractivityLevel"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomSemanticDensity"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomSemanticDensity"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomIntendedUserRole"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomIntendedUserRole"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomContext"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomContext"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomTypicalAgeRange"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomTypicalAgeRange"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomDifficulty"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomDifficulty"
+            href="learningAssessment.dita#inheritance"/>
+   <keydef keys="content-models-lomTypicalLearningTime"
+            href="learningAssessment.dita#content-models"/>
+   <keydef keys="inheritance-lomTypicalLearningTime"
+            href="learningAssessment.dita#inheritance"/>
+</map>

@@ -14,9 +14,8 @@
 <section id="section-1">In a KIND-OF hierarchy, the child subject is a particular
 variety of the parent subject. A KIND-OF hierarchy is sometimes known
 as an IS-A, generic, or subsumption hierarchy. </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-hasKind/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/hasKind </p></section>
+<section conkeyref="content-models-hasKind/hasKind.element" id="content-model"/>
+<section conkeyref="inheritance-hasKind/hasKind.inheritance" id="inheritance"/>
 <example id="example"  otherprops="examples">
       <title>Example</title>
       <p>This example specifies that cities, towns, and villages are each a kind of settlement.

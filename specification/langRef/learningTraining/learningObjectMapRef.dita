@@ -22,12 +22,9 @@
         reference a single <xmlelement>learningObjectMap</xmlelement>, either from a learning map,
         learning bookmap, learning group map or <xmlelement>learningGroup</xmlelement> element.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningObjectMapRef/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-learningObjectMapRef/learningObjectMapRef.element" id="content-model"/>
     
-   <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ map/topicref learningmap-d/learningObjectMapRef</p>
-    </section>
+   <section conkeyref="inheritance-learningObjectMapRef/learningObjectMapRef.inheritance" id="inheritance"/>
     <example id="learningObjectMapRefexample" otherprops="examples">
       <title>Example</title>
       <codeblock>&lt;map id="map_1234">

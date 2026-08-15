@@ -26,9 +26,8 @@ a rectangular shape is assumed.</dd>
 <dt>default</dt>
 <dd>Indicates the entire diagram. </dd>
 </dlentry></dl></p></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-shape/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/keyword ut-d/shape </p></section>
+<section conkeyref="content-models-shape/shape.element" id="content-model"/>
+<section conkeyref="inheritance-shape/shape.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;area>
  &lt;shape>rect&lt;/shape>
  &lt;coords>54,1,117,60&lt;/coords>

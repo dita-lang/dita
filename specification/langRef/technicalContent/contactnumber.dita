@@ -11,10 +11,9 @@ number, or fax number.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-contactnumber/contains" otherprops="contains"></section>
+<section conkeyref="content-models-contactnumber/contactnumber.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/data xnal-d/contactnumber </p></section>
+<section conkeyref="inheritance-contactnumber/contactnumber.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;personinfo&gt;
  &lt;namedetails&gt;&lt;personname&gt;
   &lt;firstname&gt;Derek&lt;/firstname&gt;

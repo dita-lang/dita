@@ -20,12 +20,11 @@ element is required inside the <xmlelement>steps</xmlelement> element.</shortdes
     element each) then the step list should default to compact. Otherwise it should be rendered as
     expanded (with blank lines between each step).</p>
    <!--<note id="multiple-steps">Beginning with DITA 1.2, the general task model allows multiple <xmlelement>steps</xmlelement> and <xmlelement>steps-unordered</xmlelement> elements. However, the default task model in the OASIS distribution (known as strict task) continues to allow only one <xmlelement>steps</xmlelement> or one <xmlelement>steps-unordered</xmlelement> element.</note>--></section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-steps/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-steps/steps.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ol task/steps </p></section>
+<section conkeyref="inheritance-steps/steps.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock
 xml:space="preserve">&lt;task id="sqlj"&gt;
 &lt;title&gt;Creating an SQLJ file&lt;/title&gt;

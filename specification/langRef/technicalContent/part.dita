@@ -13,12 +13,11 @@ and the other containing the reference information. </shortdesc>
 <indexterm>part</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-part/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-part/part.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/part </p></section>
+<section conkeyref="inheritance-part/part.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>Part topics that include
 chapters and subtopics:<codeblock xml:space="preserve">&lt;part href="guide.dita"&gt;
  &lt;chapter href="intro.dita"&gt;

@@ -11,8 +11,8 @@ with subjects in each following column of the current row in the
     <indexterm>classification domain elements<indexterm>topicCell</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-topicCell/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+ map/relcell classify-d/topicCell </p></section>
+<section conkeyref="content-models-topicCell/topicCell.element" id="content-model"/>
+<section conkeyref="inheritance-topicCell/topicCell.inheritance" id="inheritance"/>
         <example id="example" otherprops="examples">
             <title>Example</title>
             <p>For a complete example in the context of the

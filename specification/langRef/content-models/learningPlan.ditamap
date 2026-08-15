@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-data-about"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-data-about" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-data" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-data" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-unknown" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-unknown" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-foreign" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-foreign" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-title" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-title" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-navtitle" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-navtitle" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-desc" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-desc" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-p" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-p" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-note" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-note" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-longquoteref"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-longquoteref" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lq" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lq" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-q" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-q" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sl" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sl" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sli" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sli" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-ul" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-ul" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-ol" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-ol" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-li" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-li" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-itemgroup" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-itemgroup" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-dl" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-dl" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-dlhead" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-dlhead" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-dthd" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-dthd" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-ddhd" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-ddhd" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-dlentry" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-dlentry" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-dt" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-dt" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-dd" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-dd" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-fig" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-fig" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-figgroup" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-figgroup" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-pre" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-pre" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lines" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lines" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-div" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-div" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-text" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-text" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-keyword" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-keyword" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-term" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-term" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-ph" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-ph" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-tm" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-tm" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-boolean" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-boolean" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-state" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-state" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-image" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-image" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-alt" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-alt" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-longdescref"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-longdescref" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-object" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-object" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-param" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-param" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-simpletable"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-simpletable" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sthead" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sthead" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-strow" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-strow" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-stentry" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-stentry" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-draft-comment"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-draft-comment" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-required-cleanup"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-required-cleanup"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-fn" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-fn" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-indexterm" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-indexterm" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-index-base"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-index-base" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-indextermref"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-indextermref" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-cite" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-cite" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-xref" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-xref" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-table" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-table" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-tgroup" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-tgroup" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-colspec" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-colspec" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-thead" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-thead" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-tbody" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-tbody" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-row" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-row" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-entry" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-entry" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-author" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-author" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-source" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-source" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-publisher" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-publisher" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-copyright" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-copyright" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-copyryear" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-copyryear" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-copyrholder"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-copyrholder" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-critdates" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-critdates" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-created" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-created" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-revised" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-revised" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-permissions"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-permissions" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-category" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-category" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-metadata" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-metadata" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-audience" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-audience" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-keywords" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-keywords" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-prodinfo" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-prodinfo" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-prodname" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-prodname" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-vrmlist" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-vrmlist" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-vrm" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-vrm" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-brand" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-brand" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-series" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-series" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-platform" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-platform" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-prognum" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-prognum" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-featnum" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-featnum" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-component" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-component" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-othermeta" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-othermeta" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-resourceid"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-resourceid" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-topic" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-topic" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-titlealts" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-titlealts" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-searchtitle"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-searchtitle" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-shortdesc" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-shortdesc" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-abstract" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-abstract" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-body" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-body" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-bodydiv" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-bodydiv" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-no-topic-nesting"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-no-topic-nesting"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-section" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-section" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sectiondiv"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sectiondiv" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-example" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-example" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-prolog" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-prolog" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-related-links"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-related-links" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-link" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-link" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-linktext" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-linktext" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-linklist" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-linklist" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-linkinfo" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-linkinfo" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-linkpool" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-linkpool" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-learningBase"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-learningBase" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-learningBasebody"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-learningBasebody"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcIntro" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcIntro" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcObjectives"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcObjectives" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcObjectivesStem"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcObjectivesStem"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcObjectivesGroup"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcObjectivesGroup"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcObjective"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcObjective" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAudience"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAudience" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcDuration"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcDuration" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcTime" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcTime" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPrereqs" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPrereqs" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSummary" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSummary" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcNextSteps"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcNextSteps" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcReview" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcReview" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcResources"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcResources" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcChallenge"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcChallenge" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInstruction"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInstruction" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInteraction"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInteraction" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-learningPlan"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-learningPlan" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-learningPlanbody"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-learningPlanbody"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcProject" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcProject" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcClient" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcClient" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanTitle"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanTitle" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcCIN" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcCIN" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcModDate" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcModDate" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcDelivDate"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcDelivDate" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanSubject"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanSubject" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanDescrip"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanDescrip" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanPrereqs"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanPrereqs" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcNeedsAnalysis"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcNeedsAnalysis" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOrganizational"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOrganizational"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcGeneralDescription"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcGeneralDescription"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcGoals" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcGoals" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcNeeds" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcNeeds" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcValues" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcValues" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOrgConstraints"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOrgConstraints"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanAudience"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanAudience" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcEdLevel" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcEdLevel" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAge" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAge" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcBackground"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcBackground" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSkills" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSkills" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcKnowledge"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcKnowledge" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMotivation"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMotivation" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSpecChars"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSpecChars" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcWorkEnv" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcWorkEnv" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcWorkEnvDescription"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcWorkEnvDescription"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanResources"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanResources" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcProcesses"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcProcesses" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcTask" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcTask" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcTaskItem"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcTaskItem" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAttitude"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAttitude" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcGapAnalysis"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcGapAnalysis" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcGapItem" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcGapItem" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlanObjective"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlanObjective" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcJtaItem" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcJtaItem" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcGapItemDelta"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcGapItemDelta" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcIntervention"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcIntervention" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInterventionItem"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInterventionItem"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcLearnStrat"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcLearnStrat" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAssessment"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAssessment" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcDelivery"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcDelivery" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcTechnical"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcTechnical" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcLMS" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcLMS" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcNoLMS" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcNoLMS" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcHandouts"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcHandouts" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcClassroom"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcClassroom" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOJT" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOJT" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcConstraints"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcConstraints" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcW3C" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcW3C" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcPlayers" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcPlayers" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcGraphics"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcGraphics" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcViewers" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcViewers" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcResolution"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcResolution" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFileSizeLimitations"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFileSizeLimitations"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcDownloadTime"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcDownloadTime" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSecurity"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSecurity" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-b" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-b" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-u" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-u" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-i" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-i" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-line-through"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-line-through" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-overline" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-overline" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-tt" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-tt" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sup" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sup" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sub" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sub" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-index-see" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-index-see" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-index-see-also"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-index-see-also" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-index-sort-as"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-index-sort-as" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-historylist"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-historylist"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-item"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-item" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-person"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-person" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-organization"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-organization"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-revisionid"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-revisionid"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-request-reference"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-request-reference"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-request-system"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-request-system"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-request-id"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-request-id"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-started"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-started" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-completed"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-completed"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-change-summary"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-change-summary" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-imagemap" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-imagemap" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-area" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-area" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-shape" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-shape" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-coords" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-coords" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-sort-as" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-sort-as" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInteractionBase"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInteractionBase"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestionBase"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestionBase" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInteractionBase2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInteractionBase2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInteractionLabel2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInteractionLabel2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestionBase2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestionBase2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInstructornote"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInstructornote"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcTrueFalse"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcTrueFalse" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSingleSelect"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSingleSelect" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMultipleSelect"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMultipleSelect"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequencing"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequencing" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatching"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatching" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspot" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspot" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenQuestion"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenQuestion" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestion"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestion" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenAnswer"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenAnswer" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOptionGroup"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOptionGroup"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOptionGroup"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOptionGroup"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAsset" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAsset" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOption"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOption"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedback"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedback" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackCorrect"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackCorrect"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackIncorrect"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackIncorrect"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOption"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOption" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerContent"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerContent" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchTable"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchTable" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingHeader"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingHeader"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingPair"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingPair" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcItem" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcItem" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItem"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItem" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItemFeedback"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItemFeedback"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspotMap"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspotMap" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcArea" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcArea" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaShape"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaShape" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaCoords"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaCoords" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcCorrectResponse"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcCorrectResponse"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequence"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequence" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcInstructornote2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcInstructornote2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcTrueFalse2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcTrueFalse2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSingleSelect2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSingleSelect2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMultipleSelect2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMultipleSelect2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequencing2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequencing2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatching2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatching2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspot2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspot2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenQuestion2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenQuestion2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcQuestion2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcQuestion2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcOpenAnswer2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcOpenAnswer2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOptionGroup2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOptionGroup2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOptionGroup2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOptionGroup2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAsset2" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAsset2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequenceOption2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequenceOption2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedback2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedback2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackCorrect2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackCorrect2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcFeedbackIncorrect2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcFeedbackIncorrect2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerOption2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerOption2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAnswerContent2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAnswerContent2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchTable2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchTable2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingHeader2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingHeader2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingPair2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingPair2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcItem2" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcItem2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItem2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItem2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcMatchingItemFeedback2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcMatchingItemFeedback2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcHotspotMap2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcHotspotMap2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcArea2" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcArea2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaShape2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaShape2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcAreaCoords2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcAreaCoords2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcCorrectResponse2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcCorrectResponse2"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcSequence2"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcSequence2" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lcLom" href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lcLom" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomStructure"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomStructure" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomCoverage"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomCoverage" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomAggregationLevel"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomAggregationLevel"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomTechRequirement"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomTechRequirement"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomInstallationRemarks"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomInstallationRemarks"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomOtherPlatformRequirements"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomOtherPlatformRequirements"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomInteractivityType"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomInteractivityType"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomLearningResourceType"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomLearningResourceType"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomInteractivityLevel"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomInteractivityLevel"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomSemanticDensity"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomSemanticDensity"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomIntendedUserRole"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomIntendedUserRole"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomContext"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomContext" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomTypicalAgeRange"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomTypicalAgeRange"
+            href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomDifficulty"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomDifficulty" href="learningPlan.dita#inheritance"/>
+   <keydef keys="content-models-lomTypicalLearningTime"
+            href="learningPlan.dita#content-models"/>
+   <keydef keys="inheritance-lomTypicalLearningTime"
+            href="learningPlan.dita#inheritance"/>
+</map>

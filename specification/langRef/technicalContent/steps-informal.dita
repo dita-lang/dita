@@ -17,12 +17,11 @@
     <indexterm><xmlelement>steps-informal</xmlelement></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-steps-informal/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-steps-informal/steps-informal.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/section task/steps-informal </p></section>
+<section conkeyref="inheritance-steps-informal/steps-informal.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;steps-informal>
  &lt;p>Put the soil in the container any old way. It doesn't really matter how
 you do it as long as it is at least 12 cm deep. Once the soil is in place,

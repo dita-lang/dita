@@ -13,11 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lomInteractivityLevel/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lomInteractivityLevel/lomInteractivityLevel.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>+ topic/data learning-d/lomInteractivityLevel </p>
-</section>
+		<section conkeyref="inheritance-lomInteractivityLevel/lomInteractivityLevel.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <p>See <xref href="lcLom.dita#lcLom/example">lcLom</xref>.</p>
 </example>

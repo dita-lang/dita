@@ -15,10 +15,7 @@
   </prolog>
   <refbody><section id="section-1">
     <p>This element is equivalent to the <xmlelement>Date</xmlelement> element in Dublin Core.</p>
-    </section><section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-critdates/contains" otherprops="contains"></section><section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/critdates </p>
-    </section>
+    </section><section conkeyref="content-models-critdates/critdates.element" id="content-model"/><section conkeyref="inheritance-critdates/critdates.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <codeblock xml:space="preserve">&lt;prolog&gt;

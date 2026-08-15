@@ -29,9 +29,8 @@
      <xmlelement>section</xmlelement>, and when used, it should precede any other text or element
     content.</note>
   </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-section/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/section </p></section>
+<section conkeyref="content-models-section/section.element" id="content-model"/>
+<section conkeyref="inheritance-section/section.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;reference id="reference"&gt;
  &lt;title&gt;Copy Command&lt;/title&gt;
  &lt;refbody&gt;

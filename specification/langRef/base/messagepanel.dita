@@ -14,9 +14,8 @@ hazard.</shortdesc>
         <indexterm>hazard statement domain<indexterm>messagepanel</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-messagepanel/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ul hazard-d/messagepanel</p></section>
+<section conkeyref="content-models-messagepanel/messagepanel.element" id="content-model"/>
+<section conkeyref="inheritance-messagepanel/messagepanel.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;hazardstatement type="caution">
   <b>&lt;messagepanel></b>
     &lt;typeofhazard>Lifting Hazard.&lt;/typeofhazard>

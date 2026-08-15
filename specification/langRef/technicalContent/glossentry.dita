@@ -21,12 +21,11 @@ depending on the translation of the terms. One possible implementation
 of a glossary in online processing is to associate a hotspot for mentions
 of terms in <xmlelement>term</xmlelement> elements and display the definition on hover
 or click.</section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-glossentry/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-glossentry/glossentry.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/topic concept/concept glossentry/glossentry </p></section>
+<section conkeyref="inheritance-glossentry/glossentry.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><fig><title>The
 glossary term "USB flash drive" with additional information</title>
 <codeblock>&lt;glossentry id="usbfd">

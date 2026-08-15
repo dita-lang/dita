@@ -20,11 +20,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningOverviewbody/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-learningOverviewbody/learningOverviewbody.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/body learningBase/learningBasebody learningOverview/learningOverviewbody </p>
-		</section>
+		<section conkeyref="inheritance-learningOverviewbody/learningOverviewbody.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <p>See <xref href="learningOverview.dita">learningOverview</xref>.</p>
 </example>

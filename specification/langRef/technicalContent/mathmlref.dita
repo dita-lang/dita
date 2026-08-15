@@ -43,12 +43,9 @@
   &lt;mathmlref keyref="mathml-equation-02"/>
 &lt;/mathml></codeblock></p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-mathmlref/contains" otherprops="contains"></section>
+    <section conkeyref="content-models-mathmlref/mathmlref.element" id="content-model"/>
     
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/xref mathml-d/mathmlref </p>
-    </section>
+    <section conkeyref="inheritance-mathmlref/mathmlref.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>Here is a reference to a <xmlelement>mathml</xmlelement> element that is the root element

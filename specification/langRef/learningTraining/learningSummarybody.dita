@@ -11,10 +11,9 @@ and training elements<indexterm>learningSummarybody</indexterm></indexterm>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-learningSummarybody/contains" otherprops="contains"></section>
+<section conkeyref="content-models-learningSummarybody/learningSummarybody.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"> 			<title>Inheritance</title><p>-
-topic/body  learningBase/learningBasebody learningSummary/learningSummarybody </p> 		</section>
+<section conkeyref="inheritance-learningSummarybody/learningSummarybody.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See <xref
 href="learningSummary.dita#learningSummary/example">learningSummary</xref>.</p> </example>
 <section id="attributes"> <title>Attributes</title>

@@ -23,9 +23,8 @@ attribute, label the relationship by specifying a <xmlelement>navtitle</xmleleme
 relationship including by referencing a topic. If the relationship has an identifying key, the
 content provider can use the <xmlatt>keyref</xmlatt> attribute to specify the same relationship for
 different subjects.</p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-relatedSubjects/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/relatedSubjects </p></section>
+<section conkeyref="content-models-relatedSubjects/relatedSubjects.element" id="content-model"/>
+<section conkeyref="inheritance-relatedSubjects/relatedSubjects.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following scheme
 establishes that the Linux, the Apache Web Server, and the MySQL Database
 are related:<codeblock>&lt;subjectScheme>

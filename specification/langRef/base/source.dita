@@ -18,9 +18,8 @@ or in part.</shortdesc>
         implementation-dependent what it means when the element has both content and an
         attribute-based reference to another resource.</p><p>This element is equivalent to the <xmlelement>Source</xmlelement> element
 in Dublin Core.</p>   </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-source/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance">    <title>Inheritance</title> 
-  <p>- topic/source </p>   </section>
+<section conkeyref="content-models-source/source.element" id="content-model"/>
+<section conkeyref="inheritance-source/source.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">    <title>Example</title>    <codeblock>&lt;prolog&gt;
  <b>&lt;source&gt;</b>Somewhere, someplace<b>&lt;/source&gt;</b>
 &lt;/prolog&gt;</codeblock></example>

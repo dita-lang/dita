@@ -17,11 +17,8 @@
     <section id="section-1">
       <p conref="../../common/conref-file.dita#reuse_file/release-domain-best-practices"/>
     </section>
-    <section conref="../../common/commonNavLibraryTable.dita#contentmodel-change-started/contains" id="contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>- topic/data relmgmt-d/change-started </p>
-    </section>
+    <section conkeyref="content-models-change-started/change-started.element" id="content-model"/>
+    <section conkeyref="inheritance-change-started/change-started.inheritance" id="inheritance"/>
     <example conref="../../common/conref-examples.dita#conref-examples/release-management" id="example" otherprops="examples"/>
     <section id="attributes">
       <title>Attributes</title>

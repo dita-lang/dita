@@ -37,9 +37,8 @@
                 is defined as CDATA can take multiple values, while an attribute defined as NMTOKEN
                 can take only one.</p>
         </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-enumerationdef/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/enumerationdef </p></section>
+<section conkeyref="content-models-enumerationdef/enumerationdef.element" id="content-model"/>
+<section conkeyref="inheritance-enumerationdef/enumerationdef.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p id="enumeration-xpl">In this example, enumerations are specified for the
                     <xmlatt>platform</xmlatt> and <xmlatt>otherprops</xmlatt> attributes. Note that
                 the enumeration identifies a category of values; the values within the category are

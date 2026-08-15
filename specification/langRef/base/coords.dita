@@ -30,9 +30,8 @@ in HTML. It uses the following data for the appropriate shapes:<dl>
 <dd> x1, y1, x2, y2, ..., xN, yN. <ph >To close the polygon, ensure that the
                                 first x and y coordinate pair and the last are the same.</ph></dd>
 </dlentry></dl></p></section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-coords/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph ut-d/coords </p></section>
+<section conkeyref="content-models-coords/coords.element" id="content-model"/>
+<section conkeyref="inheritance-coords/coords.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;area>
  &lt;shape>rect&lt;/shape>
  &lt;coords>54,1,117,60&lt;/coords>

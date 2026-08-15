@@ -11,10 +11,9 @@
 <indexterm>booktitlealt</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-booktitlealt/contains" otherprops="contains"></section>
+<section conkeyref="content-models-booktitlealt/booktitlealt.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/ph bookmap/booktitlealt </p></section>
+<section conkeyref="inheritance-booktitlealt/booktitlealt.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;bookmap>
   &lt;booktitle>
     &lt;mainbooktitle>This is my big and fancy book&lt;/mainbooktitle>

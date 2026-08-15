@@ -12,9 +12,8 @@ the parent  <xmlelement>prodinfo</xmlelement> element.</shortdesc>
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-brand/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-topic/brand </p></section>
+<section conkeyref="content-models-brand/brand.element" id="content-model"/>
+<section conkeyref="inheritance-brand/brand.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;prodinfo&gt;
  &lt;prodname&gt;Some Product&lt;/prodname&gt;
  &lt;vrmlist>&lt;vrm version="1"/>&lt;/vrmlist>

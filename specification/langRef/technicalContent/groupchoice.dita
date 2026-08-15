@@ -15,12 +15,11 @@ Groups are often nested. <ph conref="apiname.dita#apiname/progdomainelement"/></
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-groupchoice/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-groupchoice/groupchoice.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/figgroup pr-d/groupchoice </p></section>
+<section conkeyref="inheritance-groupchoice/groupchoice.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock>&lt;syntaxdiagram frame="bottom"&gt;
  &lt;title&gt;CopyFile&lt;/title&gt;
  &lt;groupseq&gt;&lt;kwd&gt;COPYF&lt;/kwd&gt;&lt;/groupseq&gt;

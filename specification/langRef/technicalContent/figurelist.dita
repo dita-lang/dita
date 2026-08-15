@@ -13,12 +13,11 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-figurelist/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-figurelist/figurelist.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref bookmap/figurelist </p></section>
+<section conkeyref="inheritance-figurelist/figurelist.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>See the example
 in <xref href="bookmap.dita"></xref>.</p></example>
 <section id="attributes"><title>Attributes</title><sectiondiv

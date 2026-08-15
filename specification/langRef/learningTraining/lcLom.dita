@@ -13,12 +13,9 @@
 		</metadata>
 	</prolog>
 	<refbody>
-		<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcLom/contains" otherprops="contains"></section>
+		<section conkeyref="content-models-lcLom/lcLom.element" id="content-model"/>
 		
-		<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title>
-      <!--RDA 17 February 2014: DITA 1.2 defined the ancestry as "topic/data", but "metadata" is correct. I've fixed and notified the TC of the change - considered an Errata item.--><p >+ topic/metadata learning-d/lcLom </p>
-		</section>
+		<section conkeyref="inheritance-lcLom/lcLom.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
   <title>LOM Examples</title>
   <codeblock>

@@ -29,11 +29,8 @@
           <xmlelement>dvrKeyscopePrefix</xmlelement> element if one is specified, regardless of
         whether the branch as authored specifies a <xmlatt>keyscope</xmlatt> value.</p>
     </section>
-    <section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-dvrKeyscopeSuffix/contains" otherprops="contains"></section>
-    <section id="inheritance" otherprops="inheritance">
-      <title>Inheritance</title>
-      <p>+ topic/data ditavalref-d/dvrKeyscopeSuffix </p>
-    </section>
+    <section conkeyref="content-models-dvrKeyscopeSuffix/dvrKeyscopeSuffix.element" id="content-model"/>
+    <section conkeyref="inheritance-dvrKeyscopeSuffix/dvrKeyscopeSuffix.inheritance" id="inheritance"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>If the <xmlelement>dvrKeyscopeSuffix</xmlelement> is specified in the following

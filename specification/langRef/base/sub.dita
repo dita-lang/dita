@@ -22,9 +22,8 @@
                     <xmlelement>sub</xmlelement> elements will necessarily be rendered as
                 subscript.</note>
         </section>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-sub/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph hi-d/sub </p></section>
+<section conkeyref="content-models-sub/sub.element" id="content-model"/>
+<section conkeyref="inheritance-sub/sub.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock xml:space="preserve">&lt;p>The power produced by the electrohydraulic dam was 10&lt;sup&gt;10&lt;/sup&gt; more than 
 the older electric plant.  The difference was H<b>&lt;sub&gt;</b>2<b>&lt;/sub&gt;</b>O.&lt;/p></codeblock></example>
 <section id="attributes"><title>Attributes</title>

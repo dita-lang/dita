@@ -10,12 +10,11 @@ a task.</shortdesc>
 <keywords><indexterm>reqconds</indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-reqconds/contains" id="contains" otherprops="contains"></section>
+<section conkeyref="content-models-reqconds/reqconds.element" id="content-model"/>
 
 
 
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title>
-      <!--DITA 1.3: errata fix, changed ancestry from <ol> to <ul>--><p>+ topic/ul task/ul taskreq-d/reqconds</p></section>
+<section conkeyref="inheritance-reqconds/reqconds.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock><b>&lt;reqconds></b>
   &lt;reqcond>The system placed on an accessible, flat surface.&lt;/reqcond>
   &lt;reqcond>All anti-static discharge wrist-straps available.&lt;/reqcond>

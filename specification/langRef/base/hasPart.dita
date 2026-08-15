@@ -11,9 +11,8 @@
         <indexterm>subjectScheme<indexterm>elements<indexterm><xmlelement>hasPart</xmlelement></indexterm></indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section conref="../../common/commonNavLibraryTable.dita#contentmodel-hasPart/contains" id="contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>-
-map/topicref subjectScheme/hasPart </p></section>
+<section conkeyref="content-models-hasPart/hasPart.element" id="content-model"/>
+<section conkeyref="inheritance-hasPart/hasPart.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><p>This example specifies
 that a tire and a horn are each a part of a car.</p><codeblock>&lt;subjectScheme>
   &lt;hasPart>

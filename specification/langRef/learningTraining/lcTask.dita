@@ -10,11 +10,9 @@ to be performed, as part of the learning plan.</shortdesc>
 elements<indexterm>lcTask</indexterm></indexterm></keywords>
 </metadata></prolog>
 <refbody>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-lcTask/contains" otherprops="contains"></section>
+<section conkeyref="content-models-lcTask/lcTask.element" id="content-model"/>
 
-<section id="inheritance" otherprops="inheritance">
-			<title>Inheritance</title><p>- topic/fig learningBase/fig learningPlan/lcTask </p>
-</section>
+<section conkeyref="inheritance-lcTask/lcTask.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples">
   <title>Example</title><codeblock>
 &lt;learningPlan id="learningPlanTest"&gt;

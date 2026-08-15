@@ -17,9 +17,8 @@ items such as GUI controls, use the <xmlelement>uicontrol</xmlelement> element.<
 element differently, just like any other element can be restyled. Thus, it is not the case that
 content in <xmlelement>u</xmlelement> elements will necessarily be rendered as underlined.</note>
 </section>
-<section id="contains" conref="../../common/commonNavLibraryTable.dita#contentmodel-u/contains" otherprops="contains"></section>
-<section id="inheritance" otherprops="inheritance"><title>Inheritance</title><p>+
-topic/ph hi-d/u </p></section>
+<section conkeyref="content-models-u/u.element" id="content-model"/>
+<section conkeyref="inheritance-u/u.inheritance" id="inheritance"/>
 <example id="example" otherprops="examples"><title>Example</title><codeblock xml:space="preserve">&lt;p>Beware: &lt;u&gt;overuse&lt;/u&gt; &lt;i&gt;of&lt;/i&gt; &lt;b&gt;highlighting&lt;/b&gt; is 
 sometimes known as font-itis!&lt;/p>
 </codeblock></example>

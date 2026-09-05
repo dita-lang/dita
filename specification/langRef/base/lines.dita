@@ -18,7 +18,7 @@
       <p rev="rendering">The contents of the <xmlelement>lines</xmlelement>
         element is typically rendered in a non-monospaced font.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-lines/lines.element" id="content-model"/><section conkeyref="inheritance-lines/lines.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
                     conkeyref="reuse-attributes/ref-displayatts"/>, <ph

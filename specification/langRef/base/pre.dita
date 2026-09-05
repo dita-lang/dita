@@ -17,7 +17,7 @@
     <section conkeyref="reuse-pre/usage-information"><title/><p/></section>
       <section conkeyref="reuse-pre/rendering-expectations"
       id="rendering-expectations"><title/><p/></section>
-      <section conkeyref="reuse-pre/attributes" id="attributes"/>
+      <section conkeyref="content-models-pre/pre.element" id="content-model"/><section conkeyref="inheritance-pre/pre.inheritance" id="inheritance"/><section conkeyref="reuse-pre/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following code sample shows preformatted text that contains white space and line breaks. When
             the following code sample is published, the white space and line breaks are
             preserved.</p><codeblock><b>&lt;pre&gt;</b>

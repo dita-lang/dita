@@ -9,7 +9,7 @@
 <prolog><metadata><keywords><indexterm>table elements<indexterm><xmlelement>tbody</xmlelement></indexterm></indexterm>
         <indexterm>tables<indexterm>complex<indexterm>body</indexterm></indexterm></indexterm></keywords></metadata></prolog>
 <refbody>
-    <section id="attributes">
+    <section conkeyref="content-models-tbody/tbody.element" id="content-model"/><section conkeyref="inheritance-tbody/tbody.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and <xref keyref="attributes-common/attr-valign"><xmlatt>valign</xmlatt></xref>.</p>
     </section>

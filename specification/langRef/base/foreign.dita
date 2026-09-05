@@ -84,7 +84,7 @@
           them.</li>
       </ul>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-foreign/foreign.element" id="content-model"/><section conkeyref="inheritance-foreign/foreign.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>
     </section>

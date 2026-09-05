@@ -14,7 +14,7 @@
       id="usage-information"><title/><p/></section>
   <section conkeyref="reuse-linktext/rendering-expectations"
       id="rendering-expectations"><title/><p/></section>
-    <section conkeyref="reuse-linktext/attributes" id="attributes"/>
+    <section conkeyref="content-models-linktext/linktext.element" id="content-model"/><section conkeyref="inheritance-linktext/linktext.inheritance" id="inheritance"/><section conkeyref="reuse-linktext/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       <!--<p>This section contains examples of how the <xmlelement>linktext</xmlelement> element can be used.</p>-->
       <p>The following code sample shows how a

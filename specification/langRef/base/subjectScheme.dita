@@ -17,7 +17,7 @@
       <p>The <xmlelement>subjectScheme</xmlelement> element is specialized from
           <xmlelement>map</xmlelement>. It is defined in the subject scheme module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-subjectScheme/subjectScheme.element" id="content-model"/><section conkeyref="inheritance-subjectScheme/subjectScheme.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-architecturalatts"/>, <ph

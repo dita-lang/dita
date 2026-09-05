@@ -11,7 +11,7 @@
   </metadata>
  </prolog>
 <refbody>
-  <section conkeyref="reuse-topicref/attributes" id="attributes"/>
+  <section conkeyref="content-models-topicref/topicref.element" id="content-model"/><section conkeyref="inheritance-topicref/topicref.inheritance" id="inheritance"/><section conkeyref="reuse-topicref/attributes" id="attributes"/>
   <example id="example" otherprops="examples">
    <title>Example</title>
       <p>The following code sample shows a simple map that organizes

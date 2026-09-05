@@ -36,7 +36,7 @@
           the flagged content.</li>
       </ul>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-startflag/startflag.element" id="content-model"/><section conkeyref="inheritance-startflag/startflag.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attribute is available on this element:</p>
       <dl>

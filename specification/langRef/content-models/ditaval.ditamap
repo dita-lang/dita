@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <keydef keys="content-models-val" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-val" href="ditaval.dita#inheritance"/>
+   <keydef keys="content-models-style-conflict" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-style-conflict" href="ditaval.dita#inheritance"/>
+   <keydef keys="content-models-prop" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-prop" href="ditaval.dita#inheritance"/>
+   <keydef keys="content-models-startflag" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-startflag" href="ditaval.dita#inheritance"/>
+   <keydef keys="content-models-endflag" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-endflag" href="ditaval.dita#inheritance"/>
+   <keydef keys="content-models-alt-text" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-alt-text" href="ditaval.dita#inheritance"/>
+   <keydef keys="content-models-revprop" href="ditaval.dita#content-models"/>
+   <keydef keys="inheritance-revprop" href="ditaval.dita#inheritance"/>
+</map>

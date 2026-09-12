@@ -17,7 +17,7 @@
         typically rendered in a way that distinguishes it from the
         surrounding text.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-cite/cite.element" id="content-model"/><section conkeyref="inheritance-cite/cite.inheritance" id="inheritance"/><section id="attributes">
         <title>Attributes</title>
         <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and <xref
             keyref="attributes-common/attr-keyref"><xmlatt>keyref</xmlatt></xref>.</p>

@@ -31,4 +31,8 @@
   </topicref>
   <mapref href="ditaref-ditaval.ditamap"/>
  </topicref>
+  <mapref href='content-models/basetopic.ditamap'/>
+  <mapref href='content-models/basemap.ditamap'/>
+  <mapref href='content-models/subjectScheme.ditamap'/>
+  <mapref href='content-models/ditaval.ditamap'/>
 </map>

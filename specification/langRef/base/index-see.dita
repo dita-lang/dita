@@ -25,7 +25,7 @@
           <xmlelement>indexterm</xmlelement> element contains any <xmlelement>indexterm</xmlelement>
         children.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-index-see/index-see.element" id="content-model"/><section conkeyref="inheritance-index-see/index-see.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and <xref keyref="attributes-common/attr-keyref"><xmlatt>keyref</xmlatt></xref>.</p>
     </section>

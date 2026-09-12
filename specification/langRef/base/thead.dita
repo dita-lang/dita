@@ -11,7 +11,7 @@
       <title>Usage information</title>
       <p conkeyref="reuse-general/table-header-usage"/>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-thead/thead.element" id="content-model"/><section conkeyref="inheritance-thead/thead.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and <xref keyref="attributes-common/attr-valign"
                 ><xmlatt>valign</xmlatt></xref>.</p>

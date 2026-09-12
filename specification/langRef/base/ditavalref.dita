@@ -128,7 +128,7 @@
           <xmlelement>topicref</xmlelement>. It is defined in the DITAVAL-reference domain
         module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-ditavalref/ditavalref.element" id="content-model"/><section conkeyref="inheritance-ditavalref/ditavalref.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-universalatts"/> (except for <xmlatt>conkeyref</xmlatt>,

@@ -16,7 +16,7 @@
       <p>The <xmlelement>linkinfo</xmlelement> element is considered part
         of the content flow and typically rendered as a paragraph.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-linkinfo/linkinfo.element" id="content-model"/><section conkeyref="inheritance-linkinfo/linkinfo.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>
     </section>

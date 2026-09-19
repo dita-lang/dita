@@ -13,7 +13,7 @@
     </metadata>
   </prolog>
   <refbody>
-    <section id="attributes">
+    <section conkeyref="content-models-entry/entry.element" id="content-model"/><section conkeyref="inheritance-entry/entry.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-idandconrefatts"/>, <ph

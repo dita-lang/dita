@@ -68,7 +68,7 @@
         </strow>
       </simpletable>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-style-conflict/style-conflict.element" id="content-model"/><section conkeyref="inheritance-style-conflict/style-conflict.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <dl>
           <dlentry>

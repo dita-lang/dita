@@ -20,7 +20,7 @@
         specialized from <xmlelement>note</xmlelement>. It is defined in
         the hazard-statement domain module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-hazardstatement/hazardstatement.element" id="content-model"/><section conkeyref="inheritance-hazardstatement/hazardstatement.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <div>
         <p>The following attributes are available on this element: <ph

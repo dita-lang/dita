@@ -37,7 +37,7 @@
       <p>The <xmlelement>dvrResourceSuffix</xmlelement> element is specialized from
           <xmlelement>data</xmlelement>. It is defined in the DITAVAL-reference domain module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-dvrResourceSuffix/dvrResourceSuffix.element" id="content-model"/><section conkeyref="inheritance-dvrResourceSuffix/dvrResourceSuffix.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-universalatts"/> (except for <xmlatt>conkeyref</xmlatt>,

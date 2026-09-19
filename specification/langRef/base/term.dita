@@ -23,7 +23,7 @@
           term</li>
       </ul>
       </section>
-      <section id="attributes">
+      <section conkeyref="content-models-term/term.element" id="content-model"/><section conkeyref="inheritance-term/term.inheritance" id="inheritance"/><section id="attributes">
          <title>Attributes</title>
          <p conkeyref="reuse-attributes/universal-keyref"/>
       </section>

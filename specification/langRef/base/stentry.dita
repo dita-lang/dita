@@ -13,7 +13,7 @@
     </metadata>
   </prolog>
   <refbody>
-    <section conkeyref="reuse-stentry/attributes" id="attributes"/>
+    <section conkeyref="content-models-stentry/stentry.element" id="content-model"/><section conkeyref="inheritance-stentry/stentry.inheritance" id="inheritance"/><section conkeyref="reuse-stentry/attributes" id="attributes"/>
     <example id="example" otherprops="examples"
         ><title>Example</title><p>See <xref keyref="elements-simpletable/example"
             ><xmlelement>simpletable</xmlelement></xref>.</p></example>

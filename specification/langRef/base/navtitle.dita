@@ -28,7 +28,7 @@
           <xmlelement>titlealt</xmlelement>. It is defined in the
         alternative-titles domain module.</p>
     </section>
-    <section conkeyref="reuse-navtitle/attributes" id="attributes"/>
+    <section conkeyref="content-models-navtitle/navtitle.element" id="content-model"/><section conkeyref="inheritance-navtitle/navtitle.inheritance" id="inheritance"/><section conkeyref="reuse-navtitle/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Examples</title>
       <p>This section contains examples of how the <xmlelement>navtitle</xmlelement> element can be
         used.</p><fig>

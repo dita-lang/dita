@@ -18,7 +18,7 @@
         multiple property attributes or multiple properties within a single
         attribute, see <xref href="../../archSpec/base/condproc.dita"/>. </p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-val/val.element" id="content-model"/><section conkeyref="inheritance-val/val.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/no-atts"/>
     </section>

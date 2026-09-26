@@ -13,7 +13,7 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-        <section conkeyref="reuse-li/attributes" id="attributes"/>
+        <section conkeyref="content-models-li/li.element" id="content-model"/><section conkeyref="inheritance-li/li.inheritance" id="inheritance"/><section conkeyref="reuse-li/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
 <p>See <xref keyref="elements-ol/example"
           ><xmlelement>ol</xmlelement></xref> or <xref

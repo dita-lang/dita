@@ -56,7 +56,7 @@ are presented instead.</p>
                     keyref="attributes-common/attr-encoding"><xmlatt>encoding</xmlatt></xref>
                 attribute.</p>
         </section>
-        <section id="attributes">
+        <section conkeyref="content-models-include/include.element" id="content-model"/><section conkeyref="inheritance-include/include.inheritance" id="inheritance"/><section id="attributes">
             <title>Attributes</title>
             <p>The following attributes are available on this element: <ph
                     conkeyref="reuse-attributes/ref-inclusionatts"/>, <ph

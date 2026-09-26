@@ -7,7 +7,7 @@
       <title>Usage information</title>
       <p conkeyref="reuse-general/table-header-usage"/>
     </section>
-    <section conkeyref="reuse-sthead/attributes" id="attributes"/>
+    <section conkeyref="content-models-sthead/sthead.element" id="content-model"/><section conkeyref="inheritance-sthead/sthead.inheritance" id="inheritance"/><section conkeyref="reuse-sthead/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>See <xref keyref="elements-simpletable/example"

@@ -103,7 +103,7 @@
       <p>The <xmlelement>sort-as</xmlelement> element is specialized from
           <xmlelement>data</xmlelement>. It is defined in the utilities-domain module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-sort-as/sort-as.element" id="content-model"/><section conkeyref="inheritance-sort-as/sort-as.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p id="only-universal">The following attributes are available on this
         element: <ph conkeyref="reuse-attributes/ref-universalatts"/>,

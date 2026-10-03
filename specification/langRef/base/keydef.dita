@@ -23,7 +23,7 @@
       <p>The <xmlelement>keydef</xmlelement> element is specialized from
           <xmlelement>topicref</xmlelement>. It is defined in the mapgroup-domain module.</p>
     </section>
-<section conkeyref="reuse-keydef/attributes" id="attributes"/>
+<section conkeyref="content-models-keydef/keydef.element" id="content-model"/><section conkeyref="inheritance-keydef/keydef.inheritance" id="inheritance"/><section conkeyref="reuse-keydef/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
       <p>The following code sample shows several different types of key definitions:</p>

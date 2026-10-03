@@ -48,7 +48,7 @@
         from <xmlelement>keyword</xmlelement>. It is defined in the
         utilities domain module.</p>
         </section>
-        <section id="attributes">
+        <section conkeyref="content-models-shape/shape.element" id="content-model"/><section conkeyref="inheritance-shape/shape.inheritance" id="inheritance"/><section id="attributes">
             <title>Attributes</title>
             <div
         conkeyref="reuse-attributes/univ-outputclass-keyref-translate-NO"/>

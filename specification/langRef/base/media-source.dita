@@ -15,7 +15,7 @@
     <section conkeyref="reuse-media-source/usage-information" id="usage-information"
       ><title/><p/></section>
     <section conkeyref="reuse-media-source/rendering-expectations" id="rendering-expectations"/>
-    <section conkeyref="reuse-media-source/attributes" id="attributes"/>
+    <section conkeyref="content-models-media-source/media-source.element" id="content-model"/><section conkeyref="inheritance-media-source/media-source.inheritance" id="inheritance"/><section conkeyref="reuse-media-source/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
     <p rev="review-c">See <xref keyref="elements-audio/complex"

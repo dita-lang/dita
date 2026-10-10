@@ -15,7 +15,7 @@
     <section conkeyref="reuse-strong/rendering-expectations"
       ><title/><p/></section>
     <section conkeyref="reuse-strong/specialization-hierarchy"/>
-        <section conkeyref="reuse-strong/attributes" id="attributes"/>
+        <section conkeyref="content-models-strong/strong.element" id="content-model"/><section conkeyref="inheritance-strong/strong.inheritance" id="inheritance"/><section conkeyref="reuse-strong/attributes" id="attributes"/>
         <example id="example" otherprops="examples">
             <title>Example</title>
             <p>The following code sample shows how the

@@ -23,7 +23,7 @@
       <section id="specialization-hierarchy">
          <title>Specialization hierarchy</title>
       </section>
-      <section id="attributes">
+      <section conkeyref="content-models-element-reference-template/element-reference-template.element" id="content-model"/><section conkeyref="inheritance-element-reference-template/element-reference-template.inheritance" id="inheritance"/><section id="attributes">
          <title>Attributes</title>
       </section>
       <example id="example" otherprops="examples">

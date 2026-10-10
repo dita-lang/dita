@@ -4,7 +4,7 @@
 <title><xmlelement>body</xmlelement></title>
   <shortdesc conkeyref="reuse-body/shortdesc"/>
 <refbody>
-    <section conkeyref="reuse-body/attributes" id="attributes"/>
+    <section conkeyref="content-models-body/body.element" id="content-model"/><section conkeyref="inheritance-body/body.inheritance" id="inheritance"/><section conkeyref="reuse-body/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title>
       
       <p>The following code sample shows a DITA topic that contains a title

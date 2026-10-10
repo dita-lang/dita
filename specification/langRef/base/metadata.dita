@@ -25,7 +25,7 @@
         container element. This is done to provide parity with topic
         prologs.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-metadata/metadata.element" id="content-model"/><section conkeyref="inheritance-metadata/metadata.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>
     </section>

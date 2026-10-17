@@ -26,7 +26,7 @@
     <section
       conref="../../common/conref-file.dita#reuse_file/processing-expectations-link-cascade"
       ><title/><p/></section>
-    <section id="attributes">
+    <section conkeyref="content-models-related-links/related-links.element" id="content-model"/><section conkeyref="inheritance-related-links/related-links.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-universalatts"/>, <xref

@@ -69,7 +69,7 @@
         implications, described in <xref keyref="reltable-linking/nested-map-reltables">How
           relationship tables establish linking relationships</xref>.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-reltable/reltable.element" id="content-model"/><section conkeyref="inheritance-reltable/reltable.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-commonmapatts"/> (without <xmlatt>keyscope</xmlatt> or

@@ -16,7 +16,7 @@
       id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-video/rendering-expectations"
       id="rendering-expectations"><title/><p/></section>
-    <section conkeyref="reuse-video/attributes" id="attributes"/>
+    <section conkeyref="content-models-video/video.element" id="content-model"/><section conkeyref="inheritance-video/video.inheritance" id="inheritance"/><section conkeyref="reuse-video/attributes" id="attributes"/>
     <example otherprops="examples" id="example">
       <title>Examples</title>
       <p>This section contains examples of how the <xmlelement>video</xmlelement> element

@@ -23,7 +23,7 @@
         the <xmlatt>collection-type</xmlatt> attribute <ph rev="review-b"
           >set on the cell</ph> indicates that they are related.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-relcell/relcell.element" id="content-model"/><section conkeyref="inheritance-relcell/relcell.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-commonmapatts"/> (without <xmlatt>keyscope</xmlatt>), <ph

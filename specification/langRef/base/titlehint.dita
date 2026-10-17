@@ -33,7 +33,7 @@
           <xmlelement>titlealt</xmlelement>. It is defined in the
         alternative-titles domain module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-titlehint/titlehint.element" id="content-model"/><section conkeyref="inheritance-titlehint/titlehint.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-universalatts"/> and <xref

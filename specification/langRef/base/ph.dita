@@ -10,7 +10,7 @@
 </metadata></prolog>
 <refbody>
             <section conkeyref="reuse-ph/usage-information" id="usage-information"><title/><p/></section>
-      <section conkeyref="reuse-ph/attributes" id="attributes"/>
+      <section conkeyref="content-models-ph/ph.element" id="content-model"/><section conkeyref="inheritance-ph/ph.inheritance" id="inheritance"/><section conkeyref="reuse-ph/attributes" id="attributes"/>
 <example id="example" otherprops="examples"><title>Example</title><p>The following code sample shows <xmlelement>ph</xmlelement> elements that are used for
                         conditional processing:</p><codeblock>&lt;p&gt;The Style menu is the <b>&lt;ph product="Software1000">third item&lt;/ph&gt;
 &lt;ph product="Software9000"&gt;fourth item&lt;/ph&gt;</b> from the left on the menu bar.&lt;/p&gt;

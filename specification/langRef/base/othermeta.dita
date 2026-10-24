@@ -19,7 +19,7 @@
         metadata without specializing. <xmlelement>othermeta</xmlelement> can also be used as a
         specialization base.</p>
     </section>
-  <section id="attributes">
+  <section conkeyref="content-models-othermeta/othermeta.element" id="content-model"/><section conkeyref="inheritance-othermeta/othermeta.inheritance" id="inheritance"/><section id="attributes">
    <title>Attributes</title>
    <p>The following attributes are available on this element: <ph conkeyref="reuse-attributes/ref-universalatts"/> and the attributes defined below.</p>
    <dl>

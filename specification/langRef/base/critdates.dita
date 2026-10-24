@@ -15,7 +15,7 @@
   </prolog>
   <refbody>
     <!--<section id="usage-information"><title>Usage information</title><p>The <xmlelement>critdates</xmlelement> element is equivalent to the <xmlelement>Date</xmlelement> element in Dublin Core.</p></section>-->
-    <section id="attributes">
+    <section conkeyref="content-models-critdates/critdates.element" id="content-model"/><section conkeyref="inheritance-critdates/critdates.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/only-universal"/>
     </section>

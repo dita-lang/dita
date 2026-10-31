@@ -17,7 +17,7 @@
       <p rev="review-b">See <xref href="../../archSpec/base/dita-maps.dita"/> and <xref
           href="../../archSpec/base/ditaprocessing.dita"/>.</p>
     </section>
-    <section conkeyref="reuse-map/attributes" id="attributes">x</section>
+    <section conkeyref="content-models-map/map.element" id="content-model"/><section conkeyref="inheritance-map/map.inheritance" id="inheritance"/><section conkeyref="reuse-map/attributes" id="attributes">x</section>
 <example id="example" otherprops="examples"><title>Example</title><p>The following code sample contains four
           <xmlelement>topicref</xmlelement> elements. The
           <xmlelement>topicref</xmlelement> elements are nested and so have

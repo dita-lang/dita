@@ -21,7 +21,7 @@
         reference an image, applications can render the text itself as a
         way to flag content.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-alt-text/alt-text.element" id="content-model"/><section conkeyref="inheritance-alt-text/alt-text.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/no-atts"/>
     </section>

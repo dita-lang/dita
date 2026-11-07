@@ -34,7 +34,7 @@
       <p>The <xmlelement>line-through</xmlelement> element is specialized from
           <xmlelement>ph</xmlelement>. It is defined in the highlighting-domain module.</p>
     </section>
-    <section id="attributes">
+    <section conkeyref="content-models-line-through/line-through.element" id="content-model"/><section conkeyref="inheritance-line-through/line-through.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
       <p conkeyref="reuse-attributes/universal-keyref"/>
     </section>

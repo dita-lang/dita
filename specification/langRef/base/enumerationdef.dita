@@ -119,7 +119,7 @@
         </p>
       </draft-comment>
     </section>
-        <section id="attributes">
+        <section conkeyref="content-models-enumerationdef/enumerationdef.element" id="content-model"/><section conkeyref="inheritance-enumerationdef/enumerationdef.inheritance" id="inheritance"/><section id="attributes">
             <title>Attributes</title>
             <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-idandconrefatts"/>, <xref

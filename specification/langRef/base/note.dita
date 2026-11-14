@@ -12,7 +12,7 @@
       id="usage-information"><title/><p/></section>
     <section conkeyref="reuse-note/rendering-expectations"
       ><title/><p/></section>
-        <section conkeyref="reuse-note/attributes" id="attributes"/>
+        <section conkeyref="content-models-note/note.element" id="content-model"/><section conkeyref="inheritance-note/note.inheritance" id="inheritance"/><section conkeyref="reuse-note/attributes" id="attributes"/>
 <example id="example" otherprops="examples">
 <title>Example</title>
 <p>The following code sample shows a <xmlelement>note</xmlelement> with <xmlatt>type</xmlatt> set to

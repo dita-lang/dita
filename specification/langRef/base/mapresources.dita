@@ -25,7 +25,7 @@
         specialized from <xmlelement>topicref</xmlelement>. It is defined
         in the <ph rev="review-b">mapgroup-domain module</ph>.</p>
         </section>
-        <section id="attributes">
+        <section conkeyref="content-models-mapresources/mapresources.element" id="content-model"/><section conkeyref="inheritance-mapresources/mapresources.inheritance" id="inheritance"/><section id="attributes">
           <title>Attributes</title>
           <p>The following attributes are available on this element: <ph
           conkeyref="reuse-attributes/ref-commonmapatts"/> (excluding <xmlatt>chunk</xmlatt> and

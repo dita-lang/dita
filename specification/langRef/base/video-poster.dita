@@ -15,7 +15,7 @@
   <refbody>
     <section conkeyref="reuse-video-poster/usage-information" id="usage-information"
       ><title/><p/></section>
-    <section conkeyref="reuse-video-poster/attributes" id="attributes"/>
+    <section conkeyref="content-models-video-poster/video-poster.element" id="content-model"/><section conkeyref="inheritance-video-poster/video-poster.inheritance" id="inheritance"/><section conkeyref="reuse-video-poster/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
     <p rev="review-c">See <xref keyref="elements-video/video-with-multiple-formats"

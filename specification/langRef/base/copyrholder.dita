@@ -13,7 +13,7 @@
 </keywords>
 </metadata></prolog>
 <refbody>
-    <section id="attributes">
+    <section conkeyref="content-models-copyrholder/copyrholder.element" id="content-model"/><section conkeyref="inheritance-copyrholder/copyrholder.inheritance" id="inheritance"/><section id="attributes">
       <title>Attributes</title>
             <p conkeyref="reuse-attributes/only-universal"/>
     </section>

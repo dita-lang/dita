@@ -21,7 +21,7 @@
         navigation.</p>
       <!--<p>The <xmlelement>category</xmlelement> element is equivalent to both the <xmlelement>Coverage</xmlelement> element and the <xmlelement>Subject</xmlelement> element in Dublin Core.</p>-->
         </section>
-        <section id="attributes">
+        <section conkeyref="content-models-category/category.element" id="content-model"/><section conkeyref="inheritance-category/category.inheritance" id="inheritance"/><section id="attributes">
             <title>Attributes</title>
             <p conkeyref="reuse-attributes/only-universal"/>
         </section>

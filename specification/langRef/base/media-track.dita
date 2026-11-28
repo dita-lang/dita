@@ -14,7 +14,7 @@
   <refbody>
     <section conkeyref="reuse-media-track/usage-information" id="usage-information"
       ><title/><p/></section>
-    <section conkeyref="reuse-media-track/attributes" id="attributes"/>
+    <section conkeyref="content-models-media-track/media-track.element" id="content-model"/><section conkeyref="inheritance-media-track/media-track.inheritance" id="inheritance"/><section conkeyref="reuse-media-track/attributes" id="attributes"/>
     <example id="example" otherprops="examples">
       <title>Example</title>
     <p>See <xref keyref="elements-video/example"/> in the
